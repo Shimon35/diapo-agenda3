@@ -2,58 +2,20 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Diaporama Agenda — Test Images</title>
+  <title>Diaporama — Concerts (Champs Libres)</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <style>
-    :root { --bg:#111; --card-bg: rgba(0,0,0,0.75); --muted:#aaa; --accent: #fff; }
+    :root { --bg:#111; --card-bg: rgba(0,0,0,0.75); --muted:#aaa; --accent:#fff; }
     html,body { height:100%; margin:0; background:var(--bg); color:var(--accent); font-family: Arial, Helvetica, sans-serif; }
     .wrap { height:100%; display:flex; align-items:center; justify-content:center; padding:20px; box-sizing:border-box; }
-    .card {
-      width: calc(100% - 40px);
-      max-width: 1200px;
-      background: transparent;
-      text-align:center;
-    }
-
-    .media {
-      width:100%;
-      height: 60vh;
-      max-height:720px;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      background: #000;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 8px 30px rgba(0,0,0,0.6);
-    }
-
-    .media img {
-      width:100%;
-      height:100%;
-      object-fit: cover;
-      display:block;
-      background: #000;
-      transition: opacity .35s ease;
-    }
-
-    .info {
-      margin-top:18px;
-      text-align:left;
-      background: var(--card-bg);
-      padding:18px;
-      border-radius:8px;
-      box-shadow: 0 6px 20px rgba(0,0,0,0.6);
-      color:var(--accent);
-    }
-
+    .card { width: calc(100% - 40px); max-width: 1200px; background: transparent; text-align:center; }
+    .media { width:100%; height:60vh; max-height:720px; display:flex; align-items:center; justify-content:center; background:#000; border-radius:8px; overflow:hidden; box-shadow:0 8px 30px rgba(0,0,0,0.6); }
+    .media img { width:100%; height:100%; object-fit:cover; display:block; background:#000; transition:opacity .35s ease; }
+    .info { margin-top:18px; text-align:left; background:var(--card-bg); padding:18px; border-radius:8px; box-shadow:0 6px 20px rgba(0,0,0,0.6); color:var(--accent); }
     h1 { margin:0 0 6px; font-size: clamp(18px, 2.4vw, 36px); }
-    .date { color: var(--muted); margin-bottom:8px; font-style:italic; }
+    .date { color:var(--muted); margin-bottom:8px; font-style:italic; }
     .descr { color:#eee; line-height:1.4; max-height:120px; overflow:hidden; }
-
-    .small {
-      margin-top:8px; color:var(--muted); font-size:0.9rem;
-    }
+    .empty { text-align:center; color:var(--muted); font-size:1.1rem; padding:30px; }
   </style>
 </head>
 <body>
@@ -66,42 +28,34 @@
       <div class="info">
         <h1 id="title">—</h1>
         <div class="date" id="date">—</div>
-        <div class="descr" id="descr">—</div>
-        <div class="small" id="log">Chargement… (ouvre la console pour plus d'infos)</div>
+        <div class="descr" id="descr"></div>
+        <!-- pas d'affichage de l'URL d'image à l'utilisateur -->
       </div>
     </div>
   </div>
 
 <script>
-/**
- * Retourne une liste d'URL candidates (dans l'ordre) pour l'image d'un événement.
- * On couvre plusieurs formats repérés dans OpenAgenda.
- */
+/* --- Helpers pour construire les candidats image (repris du code qui marchait) --- */
 function getImageCandidates(ev) {
   const candidates = [];
-  // helper to join base + filename safely
   function join(base, file) {
     if (!file) return null;
     if (file.startsWith('http')) return file;
     if (!base) base = 'https://cdn.openagenda.com/main/';
-    // ensure base ends with slash
     if (!base.endsWith('/')) base += '/';
-    // remove leading slash on file
     if (file.startsWith('/')) file = file.slice(1);
     return base + file;
   }
 
-  // 0) ev.image as string (direct url or relative file)
+  // ev.image simple string
   if (typeof ev.image === 'string' && ev.image.trim()) {
     candidates.push(ev.image.startsWith('http') ? ev.image : join('https://cdn.openagenda.com/main/', ev.image));
   }
 
-  // 1) ev.image as object: original, url, variants[], filename, base
+  // ev.image object (base, variants, filename, original, url)
   if (ev.image && typeof ev.image === 'object') {
-    // direct keys
     if (ev.image.original) candidates.push(ev.image.original.startsWith('http') ? ev.image.original : join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.original));
     if (ev.image.url) candidates.push(ev.image.url.startsWith('http') ? ev.image.url : join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.url));
-    // variants: prefer full -> base -> thumbnail
     if (Array.isArray(ev.image.variants)) {
       const order = ['full', 'base', 'thumbnail'];
       order.forEach(type => {
@@ -109,35 +63,32 @@ function getImageCandidates(ev) {
         if (v) candidates.push(join(ev.image.base || 'https://cdn.openagenda.com/main/', v.filename));
       });
     }
-    // fallback to filename
     if (ev.image.filename) candidates.push(join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.filename));
-    // sometimes base itself could be a full url + default filename pattern (rare) - skip
   }
 
-  // 2) attachments (array of strings or objects with .url)
+  // attachments
   if (ev.attachments && Array.isArray(ev.attachments) && ev.attachments.length > 0) {
     const first = ev.attachments[0];
     if (typeof first === 'string') candidates.push(first.startsWith('http') ? first : join('https://cdn.openagenda.com/', first));
     else if (first && first.url) candidates.push(first.url.startsWith('http') ? first.url : join('https://cdn.openagenda.com/', first.url));
   }
 
-  // 3) location.image
+  // location.image
   if (ev.location && ev.location.image) {
     candidates.push(ev.location.image.startsWith('http') ? ev.location.image : join('https://cdn.openagenda.com/main/', ev.location.image));
   }
 
-  // 4) originAgenda image (logo / agenda image)
+  // originAgenda fallback
   if (ev.originAgenda && ev.originAgenda.image) {
     const o = ev.originAgenda.image;
     candidates.push(o.startsWith('http') ? o : join('https://cdn.openagenda.com/main/', o));
   }
 
-  // uniq and filter
-  const uniq = [...new Set(candidates.filter(Boolean))];
-  return uniq;
+  // uniq + filter
+  return [...new Set(candidates.filter(Boolean))];
 }
 
-/** Essaie les candidats l'un après l'autre et invoque callback(urlOuNull) */
+/* Teste séquentiellement les candidats et retourne le premier qui load */
 function tryCandidates(candidates, cb) {
   let i = 0;
   function next() {
@@ -147,64 +98,121 @@ function tryCandidates(candidates, cb) {
     img.crossOrigin = 'anonymous';
     img.onload = () => cb(url);
     img.onerror = () => next();
-    // démarre le chargement
     img.src = url;
   }
   next();
 }
 
-/** Format simple de la date (premier timing) */
-function formatDate(ev) {
+/* Format date de début : affiche "17 sept. 12:30" */
+function formatStart(ev) {
   if (!ev.timings || !ev.timings[0]) return '';
   const t = ev.timings[0];
-  const d1 = new Date(t.begin);
-  const options = { weekday:'short', day:'numeric', month:'short' };
-  return d1.toLocaleDateString('fr-FR', options);
+  const d = new Date(t.begin);
+  const dateStr = d.toLocaleDateString('fr-FR', { day:'numeric', month:'short' });
+  const timeStr = d.toLocaleTimeString('fr-FR', { hour:'2-digit', minute:'2-digit' });
+  return `${dateStr} ${timeStr}`;
 }
 
-/** Rendu d'une slide (on a un seul "slot" qui est mis à jour) */
-function renderEvent(ev, chosenUrl) {
+/* Supprime la mention "Événement des Champs Libres" si présente (variantes) */
+function cleanDescription(text) {
+  if (!text) return '';
+  let s = String(text);
+  // enlever balises HTML si longues descriptions (garder texte brut minimal)
+  s = s.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  const low = s.toLowerCase();
+  // si la description est juste la mention "événement des champs libres" -> vide
+  if (low.includes('événement des champs libres') || low.includes('evenement des champs libres') || low.includes('événement des champs libres')) {
+    // enlever uniquement cette partie
+    s = s.replace(/(Événement des Champs Libres|Événement des Champs libres|événement des champs libres|evenement des champs libres)/ig, '').trim();
+  }
+  return s;
+}
+
+/* Vérifie si l'événement a pour catégorie "concert" (vérifie plusieurs emplacements possibles) */
+function isConcertCategory(ev) {
+  const checkStr = (str) => (str || '').toString().toLowerCase().includes('concert');
+
+  // ev.category peut être { fr: "Concert" } ou string
+  if (ev.category) {
+    if (typeof ev.category === 'string' && checkStr(ev.category)) return true;
+    if (typeof ev.category === 'object') {
+      if (ev.category.fr && checkStr(ev.category.fr)) return true;
+      if (ev.category.en && checkStr(ev.category.en)) return true;
+    }
+  }
+
+  // ev.tags / ev.tags.fr (tableau)
+  if (ev.tags) {
+    if (Array.isArray(ev.tags.fr) && ev.tags.fr.some(t => checkStr(t))) return true;
+    // parfois tags is array of strings
+    if (Array.isArray(ev.tags) && ev.tags.some(t => checkStr(t))) return true;
+  }
+
+  // fallback : keywords
+  if (ev.keywords && ev.keywords.fr && Array.isArray(ev.keywords.fr) && ev.keywords.fr.some(k => checkStr(k))) return true;
+
+  return false;
+}
+
+/* Rendu d'une slide */
+function renderEvent(ev, imageUrl) {
   const imgEl = document.getElementById('slide-img');
   const titleEl = document.getElementById('title');
   const dateEl  = document.getElementById('date');
   const descrEl = document.getElementById('descr');
-  const logEl   = document.getElementById('log');
 
+  // image
   imgEl.style.opacity = '0';
-  // si pas d'image, on met un placeholder (fond noir)
-  if (chosenUrl) {
-    imgEl.src = chosenUrl;
+  if (imageUrl) {
+    imgEl.src = imageUrl;
     imgEl.alt = ev.title?.fr || ev.title || 'Image événement';
-    // wait a little to let image repaint before fade in
-    imgEl.onload = () => { imgEl.style.opacity = '1'; };
+    imgEl.onload = () => imgEl.style.opacity = '1';
+    imgEl.onerror = () => { imgEl.style.opacity = '1'; };
   } else {
     imgEl.src = '';
     imgEl.alt = 'Pas d’image';
     imgEl.style.opacity = '1';
   }
 
+  // titre
   titleEl.textContent = ev.title?.fr || ev.title || '';
-  dateEl.textContent = formatDate(ev);
-  descrEl.innerHTML = ev.description?.fr || ev.longDescription?.fr || '';
-  logEl.textContent = chosenUrl ? `Image utilisée : ${chosenUrl}` : 'Aucune image trouvée — fallback appliqué';
+
+  // date de début (horaires de début demandés)
+  dateEl.textContent = formatStart(ev);
+
+  // description : nettoyer et supprimer la mention "événement des champs libres"
+  const d = cleanDescription(ev.description?.fr || ev.longDescription?.fr || '');
+  descrEl.textContent = d || '';
 }
 
-/** Loop principal */
+/* --- Pipeline principal --- */
 fetch('agenda.json')
   .then(r => {
     if (!r.ok) throw new Error('Impossible de charger agenda.json');
     return r.json();
   })
   .then(data => {
-    const events = data.events || [];
+    let events = data.events || [];
+
+    // Filtre : uniquement catégorie "concert" ET dans les 60 prochains jours
+    const now = new Date();
+    const maxDate = new Date(); maxDate.setDate(now.getDate() + 60);
+
+    events = events.filter(ev => {
+      if (!isConcertCategory(ev)) return false;
+      if (!ev.timings || ev.timings.length === 0) return false;
+      const begin = new Date(ev.timings[0].begin);
+      return begin >= now && begin <= maxDate;
+    });
+
+    // Tri par date croissante
+    events.sort((a,b) => new Date(a.timings[0].begin) - new Date(b.timings[0].begin));
+
     if (!events.length) {
-      document.getElementById('log').textContent = 'Aucun événement dans agenda.json';
-      console.warn('agenda.json ne contient pas d’événements');
+      document.body.innerHTML = '<div class="empty">Aucun concert prévu dans les 60 prochains jours.</div>';
+      console.info('Aucun concert trouvé selon les filtres (catégorie "concert", J+60).');
       return;
     }
-
-    // Optionnel : filtrer événements passés ou trier par date
-    // events.sort(...)
 
     let idx = 0;
     function showIndex(i) {
@@ -215,24 +223,19 @@ fetch('agenda.json')
       console.log('Candidates:', candidates);
 
       tryCandidates(candidates, function(foundUrl) {
-        console.log('Sélection:', foundUrl || 'aucune');
+        console.log('Sélection (console seulement) :', foundUrl || 'aucune');
         renderEvent(ev, foundUrl);
       });
     }
 
-    // premier affichage
+    // affichage initial + intervalle
     showIndex(idx);
-
-    // intervalle
-    setInterval(() => {
-      idx = (idx + 1) % events.length;
-      showIndex(idx);
-    }, 8000);
+    setInterval(() => { idx = (idx + 1) % events.length; showIndex(idx); }, 8000);
 
   })
   .catch(err => {
     console.error(err);
-    document.getElementById('log').textContent = 'Erreur de chargement — voir console.';
+    document.body.innerHTML = '<div class="empty">Erreur lors du chargement (voir console).</div>';
   });
 </script>
 </body>
