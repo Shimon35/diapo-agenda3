@@ -3,59 +3,34 @@
 <head>
   <meta charset="UTF-8" />
   <title>Diaporama Agenda</title>
-body {
-  margin: 0;
-  overflow: hidden;
-  font-family: Arial, sans-serif;
-  background-color: black;
-  color: white;
-}
-.slide {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  padding: 2rem;
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-  background-color: rgba(0, 0, 0, 0.3); /* couleur de fond semi-transparente */
-}
-.slide.active {
-  opacity: 1;
-  z-index: 10;
-}
-.overlay {
-  background: rgba(0, 0, 0, 0.7); /* plus sombre pour plus de contraste */
-  padding: 2rem;
-  border-radius: 10px;
-  max-width: 60%;
-  color: white;
-  box-shadow: 0 0 15px rgba(0,0,0,0.5);
-}
-h2, p {
-  margin: 0.3rem 0;
-  text-shadow: 1px 1px 4px rgba(0,0,0,0.7); /* lisibilité */
-}
-
-
-  <script>
-    async function fetchEvents() {
-      const resp = await fetch('agenda.json'); // fichier exporté depuis OpenAgenda
-      if (!resp.ok) throw new Error('Impossible de charger le fichier JSON');
-      const data = await resp.json();
-      return data.events || [];
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+      background-color: black;
+      color: white;
     }
+    .slide {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 2rem;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+    .slide.active {
+      opacity: 1;
+      z-index: 10;
+    }
+    .overlay {
+      background: rgba(0, 0, 0, 0.7);
+      padding: 2rem;
 
-    function renderSlides(events) {
-      const slideshow = document.getElementById('slideshow');
-
-      events.forEach((ev) => {
-        // Construction de l'URL image complète
-        let imageUrl = '';
-        if (ev.originAgenda?.image) {
-          imageUrl = 'https://
 
