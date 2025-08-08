@@ -32,5 +32,91 @@
     .overlay {
       background: rgba(0, 0, 0, 0.7);
       padding: 2rem;
+      border-radius: 10px;
+      max-width: 60%;
+      color: white;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    }
+    h2, p {
+      margin: 0.3rem 0;
+      text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
+    }
+  </style>
+</head>
+<body>
+  <div id="slideshow"></div>
+
+  <script>
+    async function fetchEvents() {
+      const resp = await fetch('agenda.json');
+      if (!resp.ok) throw new Error('Impossible de charger le fichier JSON');
+      const data = await resp.json();
+      return data.events || [];
+    }
+
+    function renderSlides(events) {
+      const slideshow = document.getElementById('slideshow');
+
+      events.forEach((ev) => {
+        let imageUrl = '';
+        if (ev.originAgenda?.image) {
+          imageUrl = 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
+        }
+        console.log(`Événement : ${ev.title?.fr || ev.title || 'Sans titre'}`);
+        console.log(` → Lien image détecté : ${imageUrl || '[AUCUN LIEN TROUVÉ]'}`);
+
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        if (imageUrl) {
+          slide.style.backgroundImage = `url('${imageUrl}')`;
+        } else {
+          slide.style.backgroundColor = '#222';
+        }
+
+        const timing = ev.timings?.[0];
+        let dateStr = '',
+          timeStr = '';
+        if (timing?.begin) {
+          const date = new Date(timing.begin);
+          dateStr = date.toLocaleDateString('fr-FR', {
+            weekday: 'long',
+            day: 'numeric',
+            month: 'long',
+            year: 'numeric',
+          });
+          timeStr = date.toLocaleTimeString('fr-FR', {
+            hour: '2-digit',
+            minute: '2-digit',
+          });
+        }
+
+        slide.innerHTML = `
+          <div class="overlay">
+            <h2>${ev.title?.fr || ev.title || ''}</h2>
+            <p><strong>${dateStr} - ${timeStr}</strong></p>
+            <p>${ev.location?.name || ''}</p>
+            <p>${ev.description?.fr || ev.description || ''}</p>
+          </div>
+        `;
+        slideshow.appendChild(slide);
+      });
+
+      let current = 0;
+      const slides = document.querySelectorAll('.slide');
+      if (slides.length) slides[current].classList.add('active');
+
+      setInterval(() => {
+        slides[current].classList.remove('active');
+        current = (current + 1) % slides.length;
+        slides[current].classList.add('active');
+      }, 8000);
+    }
+
+    fetchEvents()
+      .then(renderSlides)
+      .catch((err) => console.error(err));
+  </script>
+</body>
+</html>
 
 
