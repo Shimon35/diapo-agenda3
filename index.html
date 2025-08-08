@@ -29,13 +29,11 @@
         <h1 id="title">—</h1>
         <div class="date" id="date">—</div>
         <div class="descr" id="descr"></div>
-        <!-- pas d'affichage de l'URL d'image à l'utilisateur -->
       </div>
     </div>
   </div>
 
 <script>
-/* --- Helpers pour construire les candidats image (repris du code qui marchait) --- */
 function getImageCandidates(ev) {
   const candidates = [];
   function join(base, file) {
@@ -47,48 +45,35 @@ function getImageCandidates(ev) {
     return base + file;
   }
 
-  // ev.image simple string
   if (typeof ev.image === 'string' && ev.image.trim()) {
     candidates.push(ev.image.startsWith('http') ? ev.image : join('https://cdn.openagenda.com/main/', ev.image));
   }
-
-  // ev.image object (base, variants, filename, original, url)
   if (ev.image && typeof ev.image === 'object') {
     if (ev.image.original) candidates.push(ev.image.original.startsWith('http') ? ev.image.original : join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.original));
     if (ev.image.url) candidates.push(ev.image.url.startsWith('http') ? ev.image.url : join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.url));
     if (Array.isArray(ev.image.variants)) {
-      const order = ['full', 'base', 'thumbnail'];
-      order.forEach(type => {
+      ['full', 'base', 'thumbnail'].forEach(type => {
         const v = ev.image.variants.find(x => x && x.type === type && x.filename);
         if (v) candidates.push(join(ev.image.base || 'https://cdn.openagenda.com/main/', v.filename));
       });
     }
     if (ev.image.filename) candidates.push(join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.filename));
   }
-
-  // attachments
   if (ev.attachments && Array.isArray(ev.attachments) && ev.attachments.length > 0) {
     const first = ev.attachments[0];
     if (typeof first === 'string') candidates.push(first.startsWith('http') ? first : join('https://cdn.openagenda.com/', first));
     else if (first && first.url) candidates.push(first.url.startsWith('http') ? first.url : join('https://cdn.openagenda.com/', first.url));
   }
-
-  // location.image
   if (ev.location && ev.location.image) {
     candidates.push(ev.location.image.startsWith('http') ? ev.location.image : join('https://cdn.openagenda.com/main/', ev.location.image));
   }
-
-  // originAgenda fallback
   if (ev.originAgenda && ev.originAgenda.image) {
     const o = ev.originAgenda.image;
     candidates.push(o.startsWith('http') ? o : join('https://cdn.openagenda.com/main/', o));
   }
-
-  // uniq + filter
   return [...new Set(candidates.filter(Boolean))];
 }
 
-/* Teste séquentiellement les candidats et retourne le premier qui load */
 function tryCandidates(candidates, cb) {
   let i = 0;
   function next() {
@@ -103,7 +88,6 @@ function tryCandidates(candidates, cb) {
   next();
 }
 
-/* Format date de début : affiche "17 sept. 12:30" */
 function formatStart(ev) {
   if (!ev.timings || !ev.timings[0]) return '';
   const t = ev.timings[0];
@@ -113,26 +97,19 @@ function formatStart(ev) {
   return `${dateStr} ${timeStr}`;
 }
 
-/* Supprime la mention "Événement des Champs Libres" si présente (variantes) */
 function cleanDescription(text) {
   if (!text) return '';
   let s = String(text);
-  // enlever balises HTML si longues descriptions (garder texte brut minimal)
   s = s.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
   const low = s.toLowerCase();
-  // si la description est juste la mention "événement des champs libres" -> vide
-  if (low.includes('événement des champs libres') || low.includes('evenement des champs libres') || low.includes('événement des champs libres')) {
-    // enlever uniquement cette partie
-    s = s.replace(/(Événement des Champs Libres|Événement des Champs libres|événement des champs libres|evenement des champs libres)/ig, '').trim();
+  if (low.includes('événement des champs libres') || low.includes('evenement des champs libres')) {
+    s = s.replace(/(Événement des Champs Libres|événement des champs libres|evenement des champs libres)/ig, '').trim();
   }
   return s;
 }
 
-/* Vérifie si l'événement a pour catégorie "concert" (vérifie plusieurs emplacements possibles) */
 function isConcertCategory(ev) {
   const checkStr = (str) => (str || '').toString().toLowerCase().includes('concert');
-
-  // ev.category peut être { fr: "Concert" } ou string
   if (ev.category) {
     if (typeof ev.category === 'string' && checkStr(ev.category)) return true;
     if (typeof ev.category === 'object') {
@@ -140,28 +117,20 @@ function isConcertCategory(ev) {
       if (ev.category.en && checkStr(ev.category.en)) return true;
     }
   }
-
-  // ev.tags / ev.tags.fr (tableau)
   if (ev.tags) {
     if (Array.isArray(ev.tags.fr) && ev.tags.fr.some(t => checkStr(t))) return true;
-    // parfois tags is array of strings
     if (Array.isArray(ev.tags) && ev.tags.some(t => checkStr(t))) return true;
   }
-
-  // fallback : keywords
   if (ev.keywords && ev.keywords.fr && Array.isArray(ev.keywords.fr) && ev.keywords.fr.some(k => checkStr(k))) return true;
-
   return false;
 }
 
-/* Rendu d'une slide */
 function renderEvent(ev, imageUrl) {
   const imgEl = document.getElementById('slide-img');
   const titleEl = document.getElementById('title');
   const dateEl  = document.getElementById('date');
   const descrEl = document.getElementById('descr');
 
-  // image
   imgEl.style.opacity = '0';
   if (imageUrl) {
     imgEl.src = imageUrl;
@@ -173,65 +142,37 @@ function renderEvent(ev, imageUrl) {
     imgEl.alt = 'Pas d’image';
     imgEl.style.opacity = '1';
   }
-
-  // titre
   titleEl.textContent = ev.title?.fr || ev.title || '';
-
-  // date de début (horaires de début demandés)
   dateEl.textContent = formatStart(ev);
-
-  // description : nettoyer et supprimer la mention "événement des champs libres"
-  const d = cleanDescription(ev.description?.fr || ev.longDescription?.fr || '');
-  descrEl.textContent = d || '';
+  descrEl.textContent = cleanDescription(ev.description?.fr || ev.longDescription?.fr || '');
 }
 
-/* --- Pipeline principal --- */
 fetch('agenda.json')
-  .then(r => {
-    if (!r.ok) throw new Error('Impossible de charger agenda.json');
-    return r.json();
-  })
+  .then(r => r.json())
   .then(data => {
-    let events = data.events || [];
-
-    // Filtre : uniquement catégorie "concert" ET dans les 60 prochains jours
-    const now = new Date();
-    const maxDate = new Date(); maxDate.setDate(now.getDate() + 60);
-
-    events = events.filter(ev => {
-      if (!isConcertCategory(ev)) return false;
-      if (!ev.timings || ev.timings.length === 0) return false;
-      const begin = new Date(ev.timings[0].begin);
-      return begin >= now && begin <= maxDate;
-    });
-
-    // Tri par date croissante
+    let events = (data.events || []).filter(ev => isConcertCategory(ev));
     events.sort((a,b) => new Date(a.timings[0].begin) - new Date(b.timings[0].begin));
 
     if (!events.length) {
-      document.body.innerHTML = '<div class="empty">Aucun concert prévu dans les 60 prochains jours.</div>';
-      console.info('Aucun concert trouvé selon les filtres (catégorie "concert", J+60).');
+      document.body.innerHTML = '<div class="empty">Aucun concert trouvé.</div>';
       return;
     }
 
     let idx = 0;
     function showIndex(i) {
       const ev = events[i];
-      if (!ev) return;
       const candidates = getImageCandidates(ev);
       console.log('Événement:', ev.title?.fr || ev.title || ev.uid || '—');
       console.log('Candidates:', candidates);
 
-      tryCandidates(candidates, function(foundUrl) {
-        console.log('Sélection (console seulement) :', foundUrl || 'aucune');
+      tryCandidates(candidates, (foundUrl) => {
+        console.log('Image choisie :', foundUrl || 'aucune');
         renderEvent(ev, foundUrl);
       });
     }
 
-    // affichage initial + intervalle
     showIndex(idx);
     setInterval(() => { idx = (idx + 1) % events.length; showIndex(idx); }, 8000);
-
   })
   .catch(err => {
     console.error(err);
@@ -240,4 +181,5 @@ fetch('agenda.json')
 </script>
 </body>
 </html>
+
 
