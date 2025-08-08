@@ -49,16 +49,13 @@
 
   <script>
     function getImageUrl(ev) {
-      // Si image objet avec base + variant full
       if(ev.image && ev.image.base && ev.image.variants) {
         const full = ev.image.variants.find(v => v.type === "full");
         if(full) return ev.image.base + full.filename;
       }
-      // Si image string
       if(ev.image && typeof ev.image === 'string') {
         return ev.image;
       }
-      // Si image simple dans originAgenda
       if(ev.originAgenda && ev.originAgenda.image) {
         return 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
       }
@@ -86,22 +83,33 @@
       .then(data => {
         let events = data.events || [];
 
-        // Filtrer : uniquement rencontre / concert / spectacle
-        const keywordsFilter = ["rencontre", "concert", "spectacle"];
+        const categoriesFilter = ["rencontre", "concert", "spectacle"];
         const now = new Date();
         const maxDate = new Date();
         maxDate.setDate(maxDate.getDate() + 60);
 
         events = events.filter(ev => {
-          const hasKeyword = ev.keywords && ev.keywords.fr && ev.keywords.fr.some(k =>
-            keywordsFilter.some(f => k.toLowerCase().includes(f))
+          let catList = [];
+
+          if (ev.category && ev.category.fr) {
+            catList.push(ev.category.fr.toLowerCase());
+          }
+          if (ev.tags && ev.tags.fr && Array.isArray(ev.tags.fr)) {
+            catList = catList.concat(ev.tags.fr.map(c => c.toLowerCase()));
+          }
+
+          const hasCategory = categoriesFilter.some(f => 
+            catList.some(c => c.includes(f))
           );
-          if(!hasKeyword) return false;
+          if(!hasCategory) return false;
 
           if(!ev.timings || ev.timings.length === 0) return false;
           const beginDate = new Date(ev.timings[0].begin);
           return beginDate >= now && beginDate <= maxDate;
         });
+
+        // Tri par date de début
+        events.sort((a, b) => new Date(a.timings[0].begin) - new Date(b.timings[0].begin));
 
         let index = 0;
         function showSlide(i) {
@@ -134,3 +142,4 @@
 
 </body>
 </html>
+
