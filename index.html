@@ -5,136 +5,135 @@
   <title>Diaporama Agenda</title>
   <style>
     body {
-      margin: 0;
-      overflow: hidden;
+      margin: 0; 
+      background: #111; 
+      color: white; 
       font-family: Arial, sans-serif;
-      background-color: black;
-      color: white;
-    }
-    .slide {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      background-size: cover;
-      background-position: center;
+      overflow: hidden;
       display: flex;
-      flex-direction: column;
-      justify-content: flex-end;
-      padding: 2rem;
-      opacity: 0;
-      transition: opacity 1s ease-in-out;
-      background-color: rgba(0, 0, 0, 0.3);
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
     }
-    .slide.active {
-      opacity: 1;
-      z-index: 10;
+    #slide {
+      max-width: 900px;
+      max-height: 600px;
+      text-align: center;
     }
-    .overlay {
-      background: rgba(0, 0, 0, 0.7);
-      padding: 2rem;
-      border-radius: 10px;
-      max-width: 60%;
-      color: white;
-      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    #slide img {
+      max-width: 100%;
+      max-height: 400px;
+      object-fit: contain;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 20px rgba(255,255,255,0.2);
     }
-    h2, p {
-      margin: 0.3rem 0;
-      text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
+    h2 {
+      margin: 0 0 10px;
+      font-size: 2em;
+    }
+    .date {
+      font-style: italic;
+      margin-bottom: 15px;
+      color: #aaa;
+    }
+    .description {
+      font-size: 1.1em;
+      line-height: 1.4em;
+      max-height: 120px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin-bottom: 10px;
     }
   </style>
 </head>
 <body>
-  <div id="slideshow"></div>
+
+  <div id="slide">
+    <img id="slide-image" src="" alt="Image événement" />
+    <h2 id="slide-title"></h2>
+    <div class="date" id="slide-date"></div>
+    <div class="description" id="slide-description"></div>
+  </div>
 
   <script>
-    async function fetchEvents() {
-      const resp = await fetch('agenda.json');
-      if (!resp.ok) throw new Error('Impossible de charger le fichier JSON');
-      const data = await resp.json();
-      return data.events || [];
-    }
-
+    // Fonction pour récupérer l'URL de l'image d'un événement
     function getImageUrl(ev) {
-      let imageUrl = '';
-
-      if (ev.image) {
-        if (typeof ev.image === 'string') {
-          imageUrl = ev.image;
-        } else if (Array.isArray(ev.image) && ev.image.length > 0) {
-          imageUrl = ev.image[0].url || ev.image[0].original || ev.image[0].full || '';
-        } else if (typeof ev.image === 'object') {
-          imageUrl = ev.image.original || ev.image.full || ev.image.url || '';
+      if(ev.image) {
+        // Selon la structure, image peut être un objet ou une string
+        if(typeof ev.image === 'string') {
+          return ev.image;
+        } else if(ev.image.original) {
+          return ev.image.original;
+        } else if(ev.image.url) {
+          return ev.image.url;
         }
       }
-
-      if (!imageUrl && ev.originAgenda?.image) {
-        imageUrl = 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
+      // Sinon, chercher dans attachments (exemple: attachments[0].url)
+      if(ev.attachments && ev.attachments.length > 0) {
+        const firstAttach = ev.attachments[0];
+        if(typeof firstAttach === 'string') {
+          return firstAttach;
+        } else if(firstAttach.url) {
+          return firstAttach.url;
+        }
       }
-
-      return imageUrl;
+      // Sinon image fallback (logo agenda par ex)
+      if(ev.originAgenda && ev.originAgenda.image) {
+        return 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
+      }
+      return null;
     }
 
-    function renderSlides(events) {
-      const slideshow = document.getElementById('slideshow');
+    // Fonction format date début/fin en français
+    function formatDate(ev) {
+      if(!ev.timings || ev.timings.length === 0) return '';
+      const t = ev.timings[0];
+      const options = { year: 'numeric', month: 'short', day: 'numeric' };
+      const d1 = new Date(t.begin);
+      const d2 = t.end ? new Date(t.end) : null;
+      if(d2 && d2.getTime() !== d1.getTime()) {
+        return d1.toLocaleDateString('fr-FR', options) + ' - ' + d2.toLocaleDateString('fr-FR', options);
+      }
+      return d1.toLocaleDateString('fr-FR', options);
+    }
 
-      events.forEach((ev) => {
-        const imageUrl = getImageUrl(ev);
+    // Chargement du fichier JSON
+    fetch('agenda.json')
+      .then(response => response.json())
+      .then(data => {
+        const events = data.events || [];
+        let index = 0;
 
-        console.log(`Événement : ${ev.title?.fr || ev.title || 'Sans titre'}`);
-        console.log(` → Lien image détecté : ${imageUrl || '[AUCUN LIEN TROUVÉ]'}`);
+        function showSlide(i) {
+          const ev = events[i];
+          if(!ev) return;
 
-        const slide = document.createElement('div');
-        slide.className = 'slide';
-        if (imageUrl) {
-          slide.style.backgroundImage = `url('${imageUrl}')`;
-        } else {
-          slide.style.backgroundColor = '#222';
+          const imgUrl = getImageUrl(ev) || '';
+
+          document.getElementById('slide-image').src = imgUrl;
+          document.getElementById('slide-image').alt = ev.title?.fr || 'Image événement';
+          document.getElementById('slide-title').textContent = ev.title?.fr || '';
+          document.getElementById('slide-date').textContent = formatDate(ev);
+          document.getElementById('slide-description').textContent = ev.description?.fr || '';
         }
 
-        const timing = ev.timings?.[0];
-        let dateStr = '',
-          timeStr = '';
-        if (timing?.begin) {
-          const date = new Date(timing.begin);
-          dateStr = date.toLocaleDateString('fr-FR', {
-            weekday: 'long',
-            day: 'numeric',
-            month: 'long',
-            year: 'numeric',
-          });
-          timeStr = date.toLocaleTimeString('fr-FR', {
-            hour: '2-digit',
-            minute: '2-digit',
-          });
+        function nextSlide() {
+          showSlide(index);
+          index = (index + 1) % events.length;
         }
 
-        slide.innerHTML = `
-          <div class="overlay">
-            <h2>${ev.title?.fr || ev.title || ''}</h2>
-            <p><strong>${dateStr} - ${timeStr}</strong></p>
-            <p>${ev.location?.name || ''}</p>
-            <p>${ev.description?.fr || ev.description || ''}</p>
-          </div>
-        `;
-        slideshow.appendChild(slide);
+        nextSlide();
+        setInterval(nextSlide, 8000);
+      })
+      .catch(err => {
+        document.getElementById('slide').textContent = 'Erreur de chargement des événements.';
+        console.error('Erreur:', err);
       });
-
-      let current = 0;
-      const slides = document.querySelectorAll('.slide');
-      if (slides.length) slides[current].classList.add('active');
-
-      setInterval(() => {
-        slides[current].classList.remove('active');
-        current = (current + 1) % slides.length;
-        slides[current].classList.add('active');
-      }, 8000);
-    }
-
-    fetchEvents()
-      .then(renderSlides)
-      .catch((err) => console.error(err));
   </script>
+
 </body>
 </html>
+
 
 
