@@ -5,9 +5,9 @@
   <title>Diaporama Agenda</title>
   <style>
     body {
-      margin: 0; 
-      background: #111; 
-      color: white; 
+      margin: 0;
+      background: #111;
+      color: white;
       font-family: Arial, sans-serif;
       overflow: hidden;
       display: flex;
@@ -27,6 +27,7 @@
       border-radius: 8px;
       margin-bottom: 20px;
       box-shadow: 0 0 20px rgba(255,255,255,0.2);
+      background: #000;
     }
     h2 {
       margin: 0 0 10px;
@@ -57,48 +58,50 @@
   </div>
 
   <script>
-    // Fonction pour récupérer l'URL de l'image d'un événement
     function getImageUrl(ev) {
-      if(ev.image) {
-        // Selon la structure, image peut être un objet ou une string
-        if(typeof ev.image === 'string') {
-          return ev.image;
-        } else if(ev.image.original) {
-          return ev.image.original;
-        } else if(ev.image.url) {
-          return ev.image.url;
+      // 1. Cas image directe
+      if (ev.image) {
+        if (typeof ev.image === 'string') {
+          return ev.image.startsWith('http') ? ev.image : 'https://cdn.openagenda.com/' + ev.image;
+        } else if (ev.image.original) {
+          return ev.image.original.startsWith('http') ? ev.image.original : 'https://cdn.openagenda.com/' + ev.image.original;
+        } else if (ev.image.url) {
+          return ev.image.url.startsWith('http') ? ev.image.url : 'https://cdn.openagenda.com/' + ev.image.url;
         }
       }
-      // Sinon, chercher dans attachments (exemple: attachments[0].url)
-      if(ev.attachments && ev.attachments.length > 0) {
+
+      // 2. Cas attachments
+      if (ev.attachments && ev.attachments.length > 0) {
         const firstAttach = ev.attachments[0];
-        if(typeof firstAttach === 'string') {
-          return firstAttach;
-        } else if(firstAttach.url) {
-          return firstAttach.url;
+        if (typeof firstAttach === 'string') {
+          return firstAttach.startsWith('http') ? firstAttach : 'https://cdn.openagenda.com/' + firstAttach;
+        } else if (firstAttach.url) {
+          return firstAttach.url.startsWith('http') ? firstAttach.url : 'https://cdn.openagenda.com/' + firstAttach.url;
         }
       }
-      // Sinon image fallback (logo agenda par ex)
-      if(ev.originAgenda && ev.originAgenda.image) {
-        return 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
+
+      // 3. Cas fallback sur image de l’agenda
+      if (ev.originAgenda && ev.originAgenda.image) {
+        return ev.originAgenda.image.startsWith('http') 
+          ? ev.originAgenda.image 
+          : 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
       }
+
       return null;
     }
 
-    // Fonction format date début/fin en français
     function formatDate(ev) {
-      if(!ev.timings || ev.timings.length === 0) return '';
+      if (!ev.timings || ev.timings.length === 0) return '';
       const t = ev.timings[0];
       const options = { year: 'numeric', month: 'short', day: 'numeric' };
       const d1 = new Date(t.begin);
       const d2 = t.end ? new Date(t.end) : null;
-      if(d2 && d2.getTime() !== d1.getTime()) {
+      if (d2 && d2.getTime() !== d1.getTime()) {
         return d1.toLocaleDateString('fr-FR', options) + ' - ' + d2.toLocaleDateString('fr-FR', options);
       }
       return d1.toLocaleDateString('fr-FR', options);
     }
 
-    // Chargement du fichier JSON
     fetch('agenda.json')
       .then(response => response.json())
       .then(data => {
@@ -107,10 +110,9 @@
 
         function showSlide(i) {
           const ev = events[i];
-          if(!ev) return;
+          if (!ev) return;
 
           const imgUrl = getImageUrl(ev) || '';
-
           document.getElementById('slide-image').src = imgUrl;
           document.getElementById('slide-image').alt = ev.title?.fr || 'Image événement';
           document.getElementById('slide-title').textContent = ev.title?.fr || '';
@@ -134,6 +136,5 @@
 
 </body>
 </html>
-
 
 
