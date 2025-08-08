@@ -54,27 +54,31 @@
       return data.events || [];
     }
 
+    function getImageUrl(ev) {
+      let imageUrl = '';
+
+      if (ev.image) {
+        if (typeof ev.image === 'string') {
+          imageUrl = ev.image;
+        } else if (Array.isArray(ev.image) && ev.image.length > 0) {
+          imageUrl = ev.image[0].url || ev.image[0].original || ev.image[0].full || '';
+        } else if (typeof ev.image === 'object') {
+          imageUrl = ev.image.original || ev.image.full || ev.image.url || '';
+        }
+      }
+
+      if (!imageUrl && ev.originAgenda?.image) {
+        imageUrl = 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
+      }
+
+      return imageUrl;
+    }
+
     function renderSlides(events) {
       const slideshow = document.getElementById('slideshow');
 
       events.forEach((ev) => {
-        let imageUrl = '';
-
-        if(ev.image) {
-          if(ev.image.original) {
-            imageUrl = ev.image.original;
-          } else if(ev.image.full) {
-            imageUrl = ev.image.full;
-          } else if(ev.image.url) {
-            imageUrl = ev.image.url;
-          } else if(ev.image.base) {
-            imageUrl = 'https://cdn.openagenda.com/main/' + ev.image.base;
-          }
-        }
-
-        if(!imageUrl && ev.originAgenda?.image) {
-          imageUrl = 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
-        }
+        const imageUrl = getImageUrl(ev);
 
         console.log(`Événement : ${ev.title?.fr || ev.title || 'Sans titre'}`);
         console.log(` → Lien image détecté : ${imageUrl || '[AUCUN LIEN TROUVÉ]'}`);
