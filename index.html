@@ -2,19 +2,18 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <title>Diaporama Agenda — Test Images</title>
+  <title>Diaporama Agenda — Export PDF multi-slides</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <style>
     :root { --bg:#111; --card-bg: rgba(0,0,0,0.75); --muted:#aaa; --accent: #fff; }
     html,body { height:100%; margin:0; background:var(--bg); color:var(--accent); font-family: Arial, Helvetica, sans-serif; }
-    .wrap { height:100%; display:flex; align-items:center; justify-content:center; padding:20px; box-sizing:border-box; }
+    .wrap { height:100%; display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px; box-sizing:border-box; }
     .card {
       width: calc(100% - 40px);
       max-width: 1200px;
       background: transparent;
       text-align:center;
     }
-
     .media {
       width:100%;
       height: 60vh;
@@ -27,7 +26,6 @@
       overflow: hidden;
       box-shadow: 0 8px 30px rgba(0,0,0,0.6);
     }
-
     .media img {
       width:100%;
       height:100%;
@@ -36,7 +34,6 @@
       background: #000;
       transition: opacity .35s ease;
     }
-
     .info {
       margin-top:18px;
       text-align:left;
@@ -46,14 +43,16 @@
       box-shadow: 0 6px 20px rgba(0,0,0,0.6);
       color:var(--accent);
     }
-
     h1 { margin:0 0 6px; font-size: clamp(18px, 2.4vw, 36px); }
     .date { color: var(--muted); margin-bottom:8px; font-style:italic; }
     .descr { color:#eee; line-height:1.4; max-height:120px; overflow:hidden; }
-
-    .small {
-      margin-top:8px; color:var(--muted); font-size:0.9rem;
+    .small { margin-top:8px; color:var(--muted); font-size:0.9rem; }
+    .controls { margin-top: 15px; display: flex; gap: 10px; }
+    button {
+      background: #444; color: #fff; border: none; padding: 10px 20px; border-radius: 6px;
+      cursor: pointer; font-size: 14px;
     }
+    button:hover { background: #666; }
   </style>
 </head>
 <body>
@@ -62,107 +61,84 @@
       <div class="media">
         <img id="slide-img" src="" alt="image événement" crossorigin="anonymous" />
       </div>
-
       <div class="info">
         <h1 id="title">—</h1>
         <div class="date" id="date">—</div>
         <div class="descr" id="descr">—</div>
-        <div class="small" id="log">Chargement… (ouvre la console pour plus d'infos)</div>
+        <div class="small" id="log">Chargement…</div>
       </div>
+    </div>
+    <div class="controls">
+      <button id="exportPdfBtn">Exporter cette slide en PDF</button>
+      <button id="exportAllPdfBtn">Exporter toutes les slides en un PDF</button>
     </div>
   </div>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
 <script>
-/**
- * Retourne une liste d'URL candidates (dans l'ordre) pour l'image d'un événement.
- * On couvre plusieurs formats repérés dans OpenAgenda.
- */
+const { jsPDF } = window.jspdf;
+
 function getImageCandidates(ev) {
   const candidates = [];
-  // helper to join base + filename safely
   function join(base, file) {
     if (!file) return null;
     if (file.startsWith('http')) return file;
     if (!base) base = 'https://cdn.openagenda.com/main/';
-    // ensure base ends with slash
     if (!base.endsWith('/')) base += '/';
-    // remove leading slash on file
     if (file.startsWith('/')) file = file.slice(1);
     return base + file;
   }
-
-  // 0) ev.image as string (direct url or relative file)
   if (typeof ev.image === 'string' && ev.image.trim()) {
     candidates.push(ev.image.startsWith('http') ? ev.image : join('https://cdn.openagenda.com/main/', ev.image));
   }
-
-  // 1) ev.image as object: original, url, variants[], filename, base
   if (ev.image && typeof ev.image === 'object') {
-    // direct keys
-    if (ev.image.original) candidates.push(ev.image.original.startsWith('http') ? ev.image.original : join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.original));
-    if (ev.image.url) candidates.push(ev.image.url.startsWith('http') ? ev.image.url : join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.url));
-    // variants: prefer full -> base -> thumbnail
+    if (ev.image.original) candidates.push(join(ev.image.base, ev.image.original));
     if (Array.isArray(ev.image.variants)) {
       const order = ['full', 'base', 'thumbnail'];
       order.forEach(type => {
         const v = ev.image.variants.find(x => x && x.type === type && x.filename);
-        if (v) candidates.push(join(ev.image.base || 'https://cdn.openagenda.com/main/', v.filename));
+        if (v) candidates.push(join(ev.image.base, v.filename));
       });
     }
-    // fallback to filename
-    if (ev.image.filename) candidates.push(join(ev.image.base || 'https://cdn.openagenda.com/main/', ev.image.filename));
-    // sometimes base itself could be a full url + default filename pattern (rare) - skip
+    if (ev.image.filename) candidates.push(join(ev.image.base, ev.image.filename));
   }
-
-  // 2) attachments (array of strings or objects with .url)
   if (ev.attachments && Array.isArray(ev.attachments) && ev.attachments.length > 0) {
     const first = ev.attachments[0];
-    if (typeof first === 'string') candidates.push(first.startsWith('http') ? first : join('https://cdn.openagenda.com/', first));
-    else if (first && first.url) candidates.push(first.url.startsWith('http') ? first.url : join('https://cdn.openagenda.com/', first.url));
+    if (typeof first === 'string') candidates.push(first);
+    else if (first && first.url) candidates.push(first.url);
   }
-
-  // 3) location.image
   if (ev.location && ev.location.image) {
-    candidates.push(ev.location.image.startsWith('http') ? ev.location.image : join('https://cdn.openagenda.com/main/', ev.location.image));
+    candidates.push(ev.location.image);
   }
-
-  // 4) originAgenda image (logo / agenda image)
-  if (ev.originAgenda && ev.originAgenda.image) {
-    const o = ev.originAgenda.image;
-    candidates.push(o.startsWith('http') ? o : join('https://cdn.openagenda.com/main/', o));
-  }
-
-  // uniq and filter
-  const uniq = [...new Set(candidates.filter(Boolean))];
-  return uniq;
+  return [...new Set(candidates.filter(Boolean))];
 }
 
-/** Essaie les candidats l'un après l'autre et invoque callback(urlOuNull) */
-function tryCandidates(candidates, cb) {
-  let i = 0;
-  function next() {
-    if (i >= candidates.length) return cb(null);
-    const url = candidates[i++];
-    const img = new Image();
-    img.crossOrigin = 'anonymous';
-    img.onload = () => cb(url);
-    img.onerror = () => next();
-    // démarre le chargement
-    img.src = url;
-  }
-  next();
+function tryCandidates(candidates) {
+  return new Promise((resolve) => {
+    let i = 0;
+    function next() {
+      if (i >= candidates.length) return resolve(null);
+      const url = candidates[i++];
+      const img = new Image();
+      img.crossOrigin = 'anonymous';
+      img.onload = () => resolve(url);
+      img.onerror = () => next();
+      img.src = url;
+    }
+    next();
+  });
 }
 
-/** Format simple de la date (premier timing) */
 function formatDate(ev) {
   if (!ev.timings || !ev.timings[0]) return '';
   const t = ev.timings[0];
   const d1 = new Date(t.begin);
-  const options = { weekday:'short', day:'numeric', month:'short' };
+  const options = { weekday:'short', day:'numeric', month:'short', hour:'2-digit', minute:'2-digit' };
   return d1.toLocaleDateString('fr-FR', options);
 }
 
-/** Rendu d'une slide (on a un seul "slot" qui est mis à jour) */
 function renderEvent(ev, chosenUrl) {
   const imgEl = document.getElementById('slide-img');
   const titleEl = document.getElementById('title');
@@ -171,69 +147,106 @@ function renderEvent(ev, chosenUrl) {
   const logEl   = document.getElementById('log');
 
   imgEl.style.opacity = '0';
-  // si pas d'image, on met un placeholder (fond noir)
   if (chosenUrl) {
     imgEl.src = chosenUrl;
     imgEl.alt = ev.title?.fr || ev.title || 'Image événement';
-    // wait a little to let image repaint before fade in
     imgEl.onload = () => { imgEl.style.opacity = '1'; };
   } else {
     imgEl.src = '';
     imgEl.alt = 'Pas d’image';
     imgEl.style.opacity = '1';
   }
-
   titleEl.textContent = ev.title?.fr || ev.title || '';
   dateEl.textContent = formatDate(ev);
   descrEl.innerHTML = ev.description?.fr || ev.longDescription?.fr || '';
-  logEl.textContent = chosenUrl ? `Image utilisée : ${chosenUrl}` : 'Aucune image trouvée — fallback appliqué';
+  logEl.textContent = '';
 }
 
-/** Loop principal */
+let events = [];
+let idx = 0;
+let autoSlideInterval;
+
 fetch('agenda.json')
-  .then(r => {
-    if (!r.ok) throw new Error('Impossible de charger agenda.json');
-    return r.json();
-  })
-  .then(data => {
-    const events = data.events || [];
+  .then(r => r.json())
+  .then(async data => {
+    events = data.events || [];
     if (!events.length) {
-      document.getElementById('log').textContent = 'Aucun événement dans agenda.json';
-      console.warn('agenda.json ne contient pas d’événements');
+      document.getElementById('log').textContent = 'Aucun événement';
       return;
     }
-
-    // Optionnel : filtrer événements passés ou trier par date
-    // events.sort(...)
-
-    let idx = 0;
-    function showIndex(i) {
-      const ev = events[i];
-      if (!ev) return;
-      const candidates = getImageCandidates(ev);
-      console.log('Événement:', ev.title?.fr || ev.title || ev.uid || '—');
-      console.log('Candidates:', candidates);
-
-      tryCandidates(candidates, function(foundUrl) {
-        console.log('Sélection:', foundUrl || 'aucune');
-        renderEvent(ev, foundUrl);
-      });
-    }
-
-    // premier affichage
+    await loadImagesForEvents(events);
     showIndex(idx);
-
-    // intervalle
-    setInterval(() => {
+    autoSlideInterval = setInterval(() => {
       idx = (idx + 1) % events.length;
       showIndex(idx);
     }, 8000);
-
-  })
-  .catch(err => {
-    console.error(err);
-    document.getElementById('log').textContent = 'Erreur de chargement — voir console.';
   });
+
+async function loadImagesForEvents(events) {
+  // On tente de précacher les images pour éviter delay au PDF
+  for (const ev of events) {
+    ev._chosenUrl = await tryCandidates(getImageCandidates(ev));
+  }
+}
+
+async function showIndex(i) {
+  const ev = events[i];
+  if (!ev) return;
+  renderEvent(ev, ev._chosenUrl);
+}
+
+// Export PDF slide actuelle
+document.getElementById('exportPdfBtn').addEventListener('click', async () => {
+  const cardEl = document.getElementById('card');
+  const canvas = await html2canvas(cardEl, { useCORS: true });
+  const imgData = canvas.toDataURL('image/jpeg', 1.0);
+  const pdf = new jsPDF('landscape', 'pt', [canvas.width, canvas.height]);
+  pdf.addImage(imgData, 'JPEG', 0, 0, canvas.width, canvas.height);
+  pdf.save(`slide-${idx + 1}.pdf`);
+});
+
+// Export PDF toutes les slides en un seul fichier
+document.getElementById('exportAllPdfBtn').addEventListener('click', async () => {
+  if (!events.length) return alert('Aucun événement chargé.');
+
+  clearInterval(autoSlideInterval); // stop la boucle auto pour éviter conflits
+
+  const cardEl = document.getElementById('card');
+  const pdf = new jsPDF('landscape');
+  let first = true;
+
+  for (let i = 0; i < events.length; i++) {
+    await showIndex(i);
+    await new Promise(r => setTimeout(r, 500)); // laisse le temps au DOM et images de s’afficher
+
+    const canvas = await html2canvas(cardEl, { useCORS: true });
+    const imgData = canvas.toDataURL('image/jpeg', 1.0);
+
+    if (!first) pdf.addPage();
+    first = false;
+
+    // dimension PDF adaptée à canvas
+    const pdfWidth = pdf.internal.pageSize.getWidth();
+    const pdfHeight = pdf.internal.pageSize.getHeight();
+
+    // On ajuste image dans la page en conservant ratio
+    const ratio = Math.min(pdfWidth / canvas.width, pdfHeight / canvas.height);
+    const imgWidth = canvas.width * ratio;
+    const imgHeight = canvas.height * ratio;
+
+    pdf.addImage(imgData, 'JPEG', (pdfWidth - imgWidth)/2, (pdfHeight - imgHeight)/2, imgWidth, imgHeight);
+  }
+
+  pdf.save('agenda-toutes-slides.pdf');
+
+  // Reprise du diaporama
+  idx = 0;
+  showIndex(idx);
+  autoSlideInterval = setInterval(() => {
+    idx = (idx + 1) % events.length;
+    showIndex(idx);
+  }, 8000);
+});
 </script>
 </body>
 </html>
