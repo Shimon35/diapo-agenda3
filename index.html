@@ -59,9 +59,23 @@
 
       events.forEach((ev) => {
         let imageUrl = '';
-        if (ev.originAgenda?.image) {
+
+        if(ev.image) {
+          if(ev.image.original) {
+            imageUrl = ev.image.original;
+          } else if(ev.image.full) {
+            imageUrl = ev.image.full;
+          } else if(ev.image.url) {
+            imageUrl = ev.image.url;
+          } else if(ev.image.base) {
+            imageUrl = 'https://cdn.openagenda.com/main/' + ev.image.base;
+          }
+        }
+
+        if(!imageUrl && ev.originAgenda?.image) {
           imageUrl = 'https://cdn.openagenda.com/main/' + ev.originAgenda.image;
         }
+
         console.log(`Événement : ${ev.title?.fr || ev.title || 'Sans titre'}`);
         console.log(` → Lien image détecté : ${imageUrl || '[AUCUN LIEN TROUVÉ]'}`);
 
