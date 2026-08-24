@@ -1,1 +1,52 @@
-.github/workflows/update-agenda.yml
+name: Mise à jour agenda OpenAgenda
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-agenda:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Télécharger le flux OpenAgenda
+        run: |
+          curl -L \
+            "https://openagenda.com/agendas/253926/events.v2.rss?relative%5B0%5D=current&relative%5B1%5D=upcoming&sort=updatedAt.desc" \
+            -o agenda.rss
+
+      - name: Vérifier le flux
+        run: |
+          echo "Taille du fichier RSS :"
+          wc -c agenda.rss
+
+          echo "Début du fichier :"
+          head -c 500 agenda.rss
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Transformer RSS en JSON
+        run: |
+          python convert_rss.py
+
+      - name: Enregistrer agenda.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add agenda.json
+
+          git diff --cached --quiet || git commit -m "Mise à jour agenda OpenAgenda"
+
+          git push
