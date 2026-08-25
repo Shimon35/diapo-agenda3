@@ -82,22 +82,6 @@
       "link": "https://openagenda.com/events/82761416"
     },
     {
-      "uid": "24643469",
-      "title": {
-        "fr": "Atelier mosaïques Odorico interprété en LSF"
-      },
-      "description": {
-        "fr": "Mardi 25 août, 14h30 Un atelier mosaïque interprété en LSF Connaissez-vous le mosaïste Isidore Odorico ? En vous baignant à la piscine Saint-Georges ou en levant le nez en ville, vous avez peut-être aperçu ses mosaïques. Cet atelier de création propose à chacun des participants de réaliser une œuvre à la manière d'Isidore, en s'inspirant de ses motifs. 1h30, à partir de 6 ans, interprété en LSF. ​Tarifs : Plein 5€ , Sortir! 3€ ou gratuit selon votre situation"
-      },
-      "start": "2026-08-25T14:30:00",
-      "end": "2026-08-25T16:00:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/1708292e82a14f57aadb495f1f390574.base.image.jpg",
-      "link": "https://openagenda.com/events/24643469"
-    },
-    {
       "uid": "25798343",
       "title": {
         "fr": "Boire et manger en Bretagne"
@@ -320,6 +304,22 @@
       },
       "image": "https://img.openagenda.com/main/81d9c54cb9a2419fbe1475023eb5445c.base.image.jpg",
       "link": "https://openagenda.com/events/28912915"
+    },
+    {
+      "uid": "87536647",
+      "title": {
+        "fr": "Pochettes [Vinyles] Surprises"
+      },
+      "description": {
+        "fr": "Jeudi 26 novembre, 17h30 Des pépites, des coups de cœur, de la convivialité ! Un rendez-vous participatif animé par les bibliothécaires pour échanger sur la musique et tout particulièrement sur le vinyle ! ​Des albums, des pochettes mythiques, une anecdote musicale, un concert : venez parler de vos disques ou de ceux de la bibliothèque, et partager un moment d'écoute !"
+      },
+      "start": "2026-11-26T17:30:00",
+      "end": "2026-11-26T18:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/560ab80d23dc4ff4af7a762e2bfdb205.base.image.jpg",
+      "link": "https://openagenda.com/events/87536647"
     }
   ]
 }
