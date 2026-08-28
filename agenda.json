@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "32068936",
+      "title": {
+        "fr": "Visite hors les murs - Les femmes et le procès Dreyfus à Rennes"
+      },
+      "description": {
+        "fr": "Mardi 22 septembre, 17h45 Lors du procès en révision d'Alfred Dreyfus à Rennes pendant l'été 1899, des femmes ont joué un rôle important. Et pourtant, leur implication dans l'Affaire a été minimisée, voir oubliée par l'histoire. Au premier plan, Lucie Dreyfus, la femme du capitaine. Autour d'elle, engagées pour soutenir la cause de Dreyfus, 3 rennaises et 3 parisiennes. ​ ​A travers une déambulation dans la ville, l'association Histoire du féminisme à Rennes vous emmène sur les pas de ces femmes, pour découvrir leur histoire et leur implication dans l'Affaire. ​ ​Inscription obligatoire jusqu’au 18 septembre à l’adresse suivante en indiquant le nom, prénom, numéro de téléphone et nombre de personnes : histoire.feminisme.rennes@gmail.com"
+      },
+      "start": "2026-09-22T17:45:00",
+      "end": "2026-09-22T19:15:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/b969c37e91534f2398b24ccb039944ac.base.image.jpg",
+      "link": "https://openagenda.com/events/32068936"
+    },
+    {
       "uid": "27656885",
       "title": {
         "fr": "Lectures de lettres"
@@ -30,7 +46,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3e79273bd2a240ee827887acc43a9b81.base.image.jpg",
+      "image": "https://img.openagenda.com/main/1a33cd07c5304c83a3fd6d0d4edd8aa1.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -46,7 +62,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ef96d690a3034795a5e5c2164fa20315.base.image.jpg",
+      "image": "https://img.openagenda.com/main/eb39e61085ef48ef9bac2e729222667f.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -62,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6f894e3c603643119fbec7741e3287ce.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f7367cc140f2463ca422c82b76570b30.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -78,7 +94,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/394e93c2878d48e2b08f89224595b5d2.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0b7ed6c90cdf448a92990641259ec106.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
     },
     {
@@ -94,7 +110,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/39872016c0474483972f7f63970664a4.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8f9f62dd23d3453f9d2fff880e4e2199.base.image.jpg",
       "link": "https://openagenda.com/events/25798343"
     },
     {
@@ -142,7 +158,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a957f3402be34791a9ee12c854f08dd8.base.image.jpg",
+      "image": "https://img.openagenda.com/main/111d5c2988a64c3e91c3c5ddd9fa569a.base.image.jpg",
       "link": "https://openagenda.com/events/5423950"
     },
     {
@@ -158,7 +174,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4a6e0aea51fc49619613c5778463b5a1.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5b530a89aaa94c46991c3cea373af414.base.image.jpg",
       "link": "https://openagenda.com/events/46561996"
     },
     {
@@ -174,7 +190,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/45fc3f5b942f4658b1d3df267d3592b7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/00ffcb7d6ce8492e8a362023916f35d5.base.image.jpg",
       "link": "https://openagenda.com/events/76491557"
     },
     {
@@ -206,7 +222,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a425524885764567bda57c8ccb968635.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9bba564c30f448d78d0e34cbd3c8808c.base.image.jpg",
       "link": "https://openagenda.com/events/79717146"
     },
     {
@@ -222,7 +238,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/126fc3177da84148b279a1e29e1e2d9b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b01b7800052746ab94361d7bfc25248c.base.image.jpg",
       "link": "https://openagenda.com/events/87440664"
     },
     {
@@ -238,7 +254,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - L'escalier - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d637929ba0a649ff9e8e8706373aa0c2.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7639e737e2ea4650a7932c65cb39e5fd.base.image.jpg",
       "link": "https://openagenda.com/events/92769191"
     },
     {
@@ -254,24 +270,8 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6e25e43276704f34944c83d63621b19b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a20d4e7c92b84c4ab6e90963c476ecc3.base.image.jpg",
       "link": "https://openagenda.com/events/82908048"
-    },
-    {
-      "uid": "59595761",
-      "title": {
-        "fr": "Parlons ciné"
-      },
-      "description": {
-        "fr": "1 octobre 2026 - 14 janvier 2027, certains jeudis Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
-      },
-      "start": "2026-10-01T17:30:00",
-      "end": "2027-01-14T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/c02f48cd6c394302b3b53147eacaf4ac.base.image.jpg",
-      "link": "https://openagenda.com/events/59595761"
     },
     {
       "uid": "23703808",
@@ -290,6 +290,22 @@
       "link": "https://openagenda.com/events/23703808"
     },
     {
+      "uid": "59595761",
+      "title": {
+        "fr": "Parlons ciné"
+      },
+      "description": {
+        "fr": "1 octobre 2026 - 14 janvier 2027, certains jeudis Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
+      },
+      "start": "2026-10-01T17:30:00",
+      "end": "2027-01-14T18:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/a38f360a8d614fa4a94f621dad85ab21.base.image.jpg",
+      "link": "https://openagenda.com/events/59595761"
+    },
+    {
       "uid": "28912915",
       "title": {
         "fr": "Pochettes [Vinyles] Surprises"
@@ -302,24 +318,8 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/873f0251e5264d90adccad0f5b878cd6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/1b7bbe0917b74716af35b1b5971f8d76.base.image.jpg",
       "link": "https://openagenda.com/events/28912915"
-    },
-    {
-      "uid": "87536647",
-      "title": {
-        "fr": "Pochettes [Vinyles] Surprises"
-      },
-      "description": {
-        "fr": "Jeudi 26 novembre, 17h30 Des pépites, des coups de cœur, de la convivialité ! Un rendez-vous participatif animé par les bibliothécaires pour échanger sur la musique et tout particulièrement sur le vinyle ! ​Des albums, des pochettes mythiques, une anecdote musicale, un concert : venez parler de vos disques ou de ceux de la bibliothèque, et partager un moment d'écoute !"
-      },
-      "start": "2026-11-26T17:30:00",
-      "end": "2026-11-26T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/8f47a724eabf4cca900daccff8ca0a98.base.image.jpg",
-      "link": "https://openagenda.com/events/87536647"
     }
   ]
 }
