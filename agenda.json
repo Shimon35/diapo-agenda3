@@ -2,324 +2,324 @@
   "total": 20,
   "events": [
     {
-      "uid": "66862957",
+      "uid": "32068936",
       "title": {
-        "fr": "Concert de Mégadisq"
+        "fr": "Visite hors les murs - Les femmes et le procès Dreyfus à Rennes"
       },
       "description": {
-        "fr": "Vendredi 18 septembre, 17h30 Le groupe rennais Mégadisq ouvre la saison des Vendredis de la Bibliothèque avec une pop fantasque aux couleurs synthétiques, à la fois nostalgique et pleine d’énergie. Influencé aussi bien par Kate Bush que par David Bowie, chaque morceau résonne comme une bande-son à la fois nostalgique et résolument contemporaine. Concert Coup de cœur des Bibliothécaires."
+        "fr": "Mardi 22 septembre, 17h45 Lors du procès en révision d'Alfred Dreyfus à Rennes pendant l'été 1899, des femmes ont joué un rôle important. Et pourtant, leur implication dans l'Affaire a été minimisée, voir oubliée par l'histoire. Au premier plan, Lucie Dreyfus, la femme du capitaine. Autour d'elle, engagées pour soutenir la cause de Dreyfus, 3 rennaises et 3 parisiennes. ​ ​A travers une déambulation dans la ville, l'association Histoire du féminisme à Rennes vous emmène sur les pas de ces femmes, pour découvrir leur histoire et leur implication dans l'Affaire. ​ ​Inscription obligatoire jusqu’au 18 septembre à l’adresse suivante en indiquant le nom, prénom, numéro de téléphone et nombre de personnes : histoire.feminisme.rennes@gmail.com"
       },
-      "start": "2026-09-18T17:30:00",
-      "end": "2026-09-18T18:20:00",
+      "start": "2026-09-22T17:45:00",
+      "end": "2026-09-22T19:15:00",
       "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/72b38475b00e400e9bbac18c82f6e80f.base.image.jpg",
-      "link": "https://openagenda.com/events/66862957"
+      "image": "https://img.openagenda.com/main/2f0ca3ff7e5e42a8b8dc2279a0edcf7e.base.image.jpg",
+      "link": "https://openagenda.com/events/32068936"
     },
     {
-      "uid": "43840000",
+      "uid": "27656885",
       "title": {
-        "fr": "La langue, organe central et indispensable"
+        "fr": "Lectures de lettres"
       },
       "description": {
-        "fr": "Mercredi 7 octobre, 18h30 Élocution, déglutition, perception des saveurs… Quel rôle joue la langue dans notre quotidien ? Réponse avec l’ORL Franck Jégoux. Elle peut se tordre et se tendre, se déployer ou se recroqueviller : molle et pourtant étonnamment robuste, certains aspects de son fonctionnement sont encore relativement méconnus. Comment l’expliquer ? ​ En lien avec Sciences Ouest n°441 (octobre 2026). Dans le cadre de la Fête de la Science"
+        "fr": "Dimanche 20 septembre, 16h00 Des personnes détenues des centres pénitentiaires pour femmes et pour hommes de Rennes ont participé, en juin, à un projet mené par le Théâtre de l’Imprévu. Alliant écriture et interprétation de lettres fictionnelles aux divers protagonistes de l’Affaire Dreyfus, une partie de ces correspondances sera lue à l’issue de la représentation du spectacle « Si tu veux que je vive, Lucie et Alfred Dreyfus »"
       },
-      "start": "2026-10-07T18:30:00",
-      "end": "2026-10-07T19:30:00",
+      "start": "2026-09-20T16:00:00",
+      "end": "2026-09-20T16:30:00",
       "location": {
-        "name": "Café des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8239d8e3cbe448afad61dfa2b7cdccdf.base.image.jpg",
-      "link": "https://openagenda.com/events/43840000"
+      "image": null,
+      "link": "https://openagenda.com/events/27656885"
     },
     {
-      "uid": "43933495",
-      "title": {
-        "fr": "Les nématodes, ces vers qui ont colonisé le monde"
-      },
-      "description": {
-        "fr": "Mercredi 16 septembre, 18h30 Sylvain Fournet nous en dit plus sur ces vers ronds qui constituent 80 % du règne animal. La planète abriterait 440 milliards de milliards de nématodes. Certains parasitent les plantes, avec lesquelles ils entretiennent une relation très fine, posant ainsi de sérieux défis au monde agricole et à la recherche scientifique. Sylvain Fournet est chercheur à l’Institut de génétique, environnement et protection des plantes, au Rheu. En lien avec Sciences Ouest n°438 (mai 2026)."
-      },
-      "start": "2026-09-16T18:30:00",
-      "end": "2026-09-16T19:30:00",
-      "location": {
-        "name": "Café des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/7756f932c0c94773a413301da3c07bad.base.image.jpg",
-      "link": "https://openagenda.com/events/43933495"
-    },
-    {
-      "uid": "32316311",
-      "title": {
-        "fr": "Cuisines d'Afrique du Nord - Nina Medioni"
-      },
-      "description": {
-        "fr": "9 juin - 11 octobre La photographe Nina Medioni explore les traditions culinaires d'Afrique du Nord. Cette série d’images est née du projet éditorial porté par la journaliste Farah Keram puis édité par Flammarion sous le titre Cuisines d’Afrique du Nord. En 2021, Farah Keram a invité Nina Medioni à la suivre dans ce qui deviendra une aventure de 4 années. Elles partent ensemble à la rencontre des plats qui ont marqué l'enfance et la mémoire des cuisinières de la famille de Farah et de son cercle intime. ​ Chacune leur a ouvert la porte de sa cuisine, qu’il s’agisse d’une petite pièce au cœur du 19ème arrondissement de Paris ou de la cour intérieure d’une maison de Biskra en Algérie. Dans ces lieux de l’intime, habituellement protégés des regards extérieurs, discussions animées et gestes de cuisine fusent dans un même élan. À rebours d’un livre de recettes aux images figées, se dévoile ici dans un mouvement constant, plus qu’une pratique, un rituel pour invoquer un héritage commun."
-      },
-      "start": "2026-06-09T12:00:00",
-      "end": "2026-10-11T19:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/3900e9faa4734af4b6d04af995a561da.base.image.jpg",
-      "link": "https://openagenda.com/events/32316311"
-    },
-    {
-      "uid": "91438624",
-      "title": {
-        "fr": "La liberté de savoir est-elle menacée ?"
-      },
-      "description": {
-        "fr": "Mardi 13 octobre, 20h30 Une table ronde exceptionnelle réunissant des chercheurs.res de plusieurs horizons afin de comprendre comment préserver la liberté de chercher, de savoir et de transmettre. Face aux pressions politiques ou financières, à l’autocensure, à la désinformation, comment défendre l’autonomie des chercheurs.res, la liberté de leurs paroles et le nécessaire pluralisme des débats ? L’indépendance du savoir est en effet une des conditions essentielles d’une société libre et démocratique. ​ ​Avec Stéphanie Balme , chercheuse et professeure, directrice du Centre de recherches internationales (CERI) de Sciences Po et autrice du rapport Défendre et promouvoir la liberté académique , Krisztián Bene, historien, doyen de la faculté de Pecs en Hongrie et Sophie Lemaitre , juriste, autrice de Réduire au silence , Lauréate du Prix Renaud Van Ruymbeke, édition 2025, remis par Transparency International France et Le Nouvel Obs. En partenariat avec l'Université de Rennes. Dans le cadre de la Fête de la Science. ​ ​"
-      },
-      "start": "2026-10-13T20:30:00",
-      "end": "2026-10-13T22:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/7a9ef64b50424b5baff26ebd81261a9f.base.image.jpg",
-      "link": "https://openagenda.com/events/91438624"
-    },
-    {
-      "uid": "87156588",
-      "title": {
-        "fr": "Le cerveau à table ou la fabrique du goût avec Hirac Gurden"
-      },
-      "description": {
-        "fr": "Mardi 6 octobre, 20h30 On associe souvent le goût aux saveurs en bouche. En réalité, tous nos sens sont impliqués. Notre perception du goût est individuelle, liée à nos sens et donc à notre génome. Elle est aussi collective, façonnée par la culture et nos expériences : les saveurs épicées et le goût du piment en sont un bon exemple. ​ Hirac Gurden est neuroscientifique et directeur de recherche en neurosciences au Centre National de la Recherche Scientifique, au laboratoire de Biologie Fonctionnelle et Adaptative (Université Paris Cité). Rencontre suivie d'une séance de dédicaces de Sentir (Les Arènes, 2024) ​ Dans le cadre de la Fête de la Science."
-      },
-      "start": "2026-10-06T20:30:00",
-      "end": "2026-10-06T22:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e4c8e0866e294e239a7a0c8ad45b6549.base.image.jpg",
-      "link": "https://openagenda.com/events/87156588"
-    },
-    {
-      "uid": "8195187",
-      "title": {
-        "fr": "Les fourmis invasives : quelles menaces ?"
-      },
-      "description": {
-        "fr": "Mardi 29 septembre, 20h30 Cette conférence propose de découvrir l’univers étonnant des fourmis : leur organisation, leur intelligence collective… Mais aussi de partir à la découverte des espèces invasives présentes dans de nombreuses régions du monde, notamment en France, et dont l’implantation en Bretagne est imminente. Avec Luc Gomel , ingénieur agronome et conservateur général du patrimoine à l’Université de Montpellier Paul-Valéry. ​ ​En lien avec l’exposition Fourmis."
-      },
-      "start": "2026-09-29T20:30:00",
-      "end": "2026-09-29T22:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e4f5482e1d1f4e99b3e4a120b0a9b29e.base.image.jpg",
-      "link": "https://openagenda.com/events/8195187"
-    },
-    {
-      "uid": "50965411",
-      "title": {
-        "fr": "Changemement climatique: une realite physique, un défi pour l'humanité"
-      },
-      "description": {
-        "fr": "Mardi 22 septembre, 20h30 Le climatologue Christophe Cassourevient sur les transformations profondes nécessaires face aux risques croissants qui menacent notre habitabilité. Lutter contre les effets du changement climatique n’est pas un problème physique ou technique, c’est un véritable projet de société, vers plus de bien-être, de justice et de solidarité. Si des forces d’obstruction s’expriment, c’est parce que ce projet menace des intérêts puissants. Pourtant, il est essentiel de maintenir le cap. Christophe Cassou est directeur de recherche CNRS à l’École normale supérieure de Paris. ​"
-      },
-      "start": "2026-09-22T20:30:00",
-      "end": "2026-09-22T22:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/d188cfb332904218a33c6ecd83c63229.base.image.jpg",
-      "link": "https://openagenda.com/events/50965411"
-    },
-    {
-      "uid": "62590879",
-      "title": {
-        "fr": "Space Montaigne"
-      },
-      "description": {
-        "fr": "Mardi 15 septembre, 20h30 L’autrice de bandes dessinées **Marion Montaigne** nous retrace son incroyable parcours aux côtés de Thomas Pesquet. Cette « rencontre d’un troisième type » pleine d’humour et truffée d’anecdotes scientifiques pose un regard curieux, enthousiaste et parfois anxieux sur le long processus de sélection et d’entraînement des spationautes. Passionnée de vulgarisation scientifique, Marion Montaigne est la créatrice du blog et de la série Tu mourras moins bête… (…mais tu mourras quand même) . Rencontre suivie d’une séance de dédicaces de Space Montaigne (Dargaud, 2026), avec la librairie Le Failler."
-      },
-      "start": "2026-09-15T20:30:00",
-      "end": "2026-09-15T22:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/a072d867430c42c4aebfc52dc5ae1071.base.image.jpg",
-      "link": "https://openagenda.com/events/62590879"
-    },
-    {
-      "uid": "83423702",
-      "title": {
-        "fr": "Les chevaux et les humains avec Martine Hausberger"
-      },
-      "description": {
-        "fr": "Mercredi 28 octobre, 15h00 Les chevaux perçoivent nos émotions avec une étonnante sensibilité. Si votre cœur bat fort, il est possible qu’un cheval, même situé à plusieurs dizaines de mètres de vous, s’en inquiète Stress, colère, fatigue ou peine : ils savent repérer ce que nous ressentons. Venez découvrir les étonnantes capacités des chevaux et leurs talents méconnus. Une chouette conférence avec Martine Hausberger, éthologue et directrice de recherche au CNRS qui a voué sa carrière à la compréhension animale. ​ Une chouette conférence animée par Jessie Magana, autrice jeunesse, et interprétée en LSF (langue des signes française)."
-      },
-      "start": "2026-10-28T15:00:00",
-      "end": "2026-10-28T16:00:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e8e183e231c34dfb9ef03c23ee091c18.base.image.jpg",
-      "link": "https://openagenda.com/events/83423702"
-    },
-    {
-      "uid": "96180510",
-      "title": {
-        "fr": "Chouette conférence : pourquoi le climat de la Terre change-t-il ?"
-      },
-      "description": {
-        "fr": "Samedi 10 octobre, 15h00 Daphné Buiron, glaciologue, explique le fonctionnement du climat et donne des clés pour agir. Le climat, contrairement à la météo, c’est le temps qu’il fait sur un temps long. Quel est le rôle du soleil, de l’atmosphère, des océans ou des glaciers sur les températures, les vents ou les pluies ? Pourquoi dit-on que la Terre se réchauffe et quel est le rôle des activités humaines dans ce processus ? Faut-il lutter contre le réchauffement ou bien s’adapter, ou bien faut-il faire les deux ? Rencontre animée par Jessie Magana, autrice jeunesse et interprétée en LSF (langue des signes française). Dans le cadre de la Fête de la Science."
-      },
-      "start": "2026-10-10T15:00:00",
-      "end": "2026-10-10T16:00:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e677ff1398b64b068e897e5ca720eb89.base.image.jpg",
-      "link": "https://openagenda.com/events/96180510"
-    },
-    {
-      "uid": "54702298",
+      "uid": "43072460",
       "title": {
         "fr": "Visite : l'Affaire Dreyfus à Rennes"
       },
       "description": {
-        "fr": "27 juin - 12 décembre A l'été 1899, le second procès du capitaine Alfred Dreyfus a lieu à Rennes. C'est l'une des affaires judiciaires les plus marquantes de l'histoire de France. À travers des documents d'archives, des journaux d'époque, et quelques objets personnels, la visite retrace les étapes clés de cette affaire qui déchira le pays et marqua un tournant dans l'histoire politique et sociale de la France."
+        "fr": "17 - 31 octobre A l'été 1899, le second procès du capitaine Alfred Dreyfus a lieu à Rennes. C'est l'une des affaires judiciaires les plus marquantes de l'histoire de France. À travers des documents d'archives, des journaux d'époque, et quelques objets personnels, la visite retrace les étapes clés de cette affaire qui déchira le pays et marqua un tournant dans l'histoire politique et sociale de la France."
       },
-      "start": "2026-06-27T14:30:00",
-      "end": "2026-12-12T15:00:00",
+      "start": "2026-10-17T14:30:00",
+      "end": "2026-10-31T15:00:00",
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/adfd73b46f2a4e21b960346750aaa75a.base.image.jpg",
-      "link": "https://openagenda.com/events/54702298"
+      "image": "https://img.openagenda.com/main/fdeb8d1b9b3b45c18f96fac0b4a0679f.base.image.jpg",
+      "link": "https://openagenda.com/events/43072460"
     },
     {
-      "uid": "53928028",
+      "uid": "87217212",
       "title": {
-        "fr": "Peut-on conjurer la peur de la mort ?"
+        "fr": "Un petit crabe au musée"
       },
       "description": {
-        "fr": "Mercredi 30 septembre, 18h30 La mort est la seule certitude que nous partageons, et pourtant elle demeure un mystère, tant il nous est inconcevable de comprendre ce qu’est ne plus vivre. L’humanité cherche à l’apprivoiser désespérément : par les religions, la philosophie, la science, l’art ou les liens que nous tissons avec les autres. Mais la peur de la mort est-elle inéluctable ? Peut-on la vaincre ou seulement apprendre à vivre avec elle ? Et faut-il chercher à la conjurer ou accepter qu’elle fasse partie de la condition humaine ? Café des idées animé par Maude Robert et Gwendal Parmentier , de la Société bretonne de philosophie."
+        "fr": "20 - 29 octobre Le petit crabe Odorico est un peu timide, il s'est caché dans le musée. Partez à sa recherche en découvrant son histoire à travers les collections du musée. ​ ​Pour les enfants accompagnés de 3 à 5 ans. ​Sans réservation, dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
       },
-      "start": "2026-09-30T18:30:00",
-      "end": "2026-09-30T19:30:00",
+      "start": "2026-10-20T10:30:00",
+      "end": "2026-10-29T11:50:00",
       "location": {
-        "name": "Café des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": null,
-      "link": "https://openagenda.com/events/53928028"
+      "image": "https://img.openagenda.com/main/e0edc2fdef9d4c6cb9f845251a6237b1.base.image.jpg",
+      "link": "https://openagenda.com/events/87217212"
     },
     {
-      "uid": "24035698",
+      "uid": "65476422",
       "title": {
-        "fr": "Va-t-on manquer d’eau en Bretagne ?"
+        "fr": "La visite qui fait (un peu) peur"
       },
       "description": {
-        "fr": "Mercredi 23 septembre, 18h30 Après un été breton de tous les records, l’eau est plus que jamais au coeur des préoccupations. Enjeu politique, agricole et environnemental : où en sommes-nous de sa préservation ? Alors que le dérèglement climatique et les pollutions questionnent l’avenir du modèle agricole, des citoyens se mobilisent pour faire part de leur volonté de préserver un accès à cette ressource. Mais dans quel état sont les cours d’eau en Bretagne ? Quelles pistes sont envisagées pour améliorer leur qualité ? Comment partager cette ressource essentielle à tous ? ​avec Pauline Pennober, chargée de mission Politique de l'eau pour Eau et Rivières de Bretagne et Ronan Abhervé, chercheur en hydrologie à l'INRAE et spécialiste des sécheresses. Café des idées proposé et animé par le Club de la presse de Bretagne ."
+        "fr": "17 - 31 octobre Des rencontres surprenantes, quelques fantômes et revenants… Venez frissonner à travers de mystérieuses légendes de Bretagne, tout en vous amusant en famille lors de cette visite contée ! Dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
       },
-      "start": "2026-09-23T18:30:00",
-      "end": "2026-09-23T19:30:00",
+      "start": "2026-10-17T16:00:00",
+      "end": "2026-10-31T16:45:00",
       "location": {
-        "name": "Café des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": null,
-      "link": "https://openagenda.com/events/24035698"
+      "image": "https://img.openagenda.com/main/3da6130812b3467989773a28fa67564a.base.image.jpg",
+      "link": "https://openagenda.com/events/65476422"
     },
     {
-      "uid": "96203391",
+      "uid": "82761416",
       "title": {
-        "fr": "Café citoyen - Que peut (encore) l'éducation populaire ?"
+        "fr": "Visite flash de l'exposition \"La mer jamais ne s'oublie\""
       },
       "description": {
-        "fr": "Mercredi 21 octobre, 18h30 Face aux attaques contre les libertés et à la destruction de nos milieux de vie, l’éducation populaire semble être un levier puissant. Ce mouvement a pour fondement de relier pensée et action et d’accueillir la multiplicité des pratiques, luttes et cultures populaires. Quelles formes communes d’éducation populaire traversent aujourd’hui les luttes et comment celles-ci peuvent-elles permettre de créer les conditions de nouvelles capacités d’agir ? Un café citoyen proposé par les éditions du Commun dans le cadre de l’événement Comment dire Nous, en partenariat avec la librairie Comment dire."
+        "fr": "Dimanche 27 septembre, 14h15 L'exposition \"La mer jamais ne s'oublie\" propose une approche à la fois documentaire et poétique de notre rapport à la mer, à sa beauté mais aussi à sa fragilité. Pour le dernier jour d'ouverture, retrouvez Guillaume, médiateur, pour des visites flashs de découverte ou redécouverte de l'exposition."
       },
-      "start": "2026-10-21T18:30:00",
-      "end": "2026-10-21T19:30:00",
+      "start": "2026-09-27T14:15:00",
+      "end": "2026-09-27T18:30:00",
       "location": {
-        "name": "Café des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d5404f63dd3d4c79bfe36bbe442b923e.base.image.jpg",
-      "link": "https://openagenda.com/events/96203391"
+      "image": "https://img.openagenda.com/main/06a8181c5e5540db8d797381ecf51d3f.base.image.jpg",
+      "link": "https://openagenda.com/events/82761416"
     },
     {
-      "uid": "878913",
+      "uid": "25798343",
       "title": {
-        "fr": "Pulsation - Thomas Menuet"
+        "fr": "Boire et manger en Bretagne"
       },
       "description": {
-        "fr": "Mercredi 14 octobre, 12h30 Un concert entre musique et mathématiques. Fruit d’une résidence du compositeur Thomas Menuet à l’Institut de Recherche Mathématique de Rennes, Pulsation propose quatre créations mêlant musique, énigmes et créations visuelles. Six musiciens et trois mathématiciens nous font découvrir les mathématiques sous un tout nouveau jour ! ​ En partenariat avec l’Université de Rennes. Dans le cadre de la Fête de la Science."
+        "fr": "10 et 11 octobre **Au pays du kouign amann, des crêpes et des galettes,** la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
       },
-      "start": "2026-10-14T12:30:00",
-      "end": "2026-10-14T13:30:00",
+      "start": "2026-10-10T16:00:00",
+      "end": "2026-10-11T17:00:00",
       "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/26f0243dd02a49ada7b17bdff923ca52.base.image.jpg",
-      "link": "https://openagenda.com/events/878913"
+      "image": "https://img.openagenda.com/main/e2372b2b534b448e86452c7f957b97d4.base.image.jpg",
+      "link": "https://openagenda.com/events/25798343"
     },
     {
-      "uid": "37260507",
+      "uid": "4146535",
       "title": {
-        "fr": "Noémi Büchi"
+        "fr": "Lecture de ouf signées"
       },
       "description": {
-        "fr": "Mercredi 7 octobre, 12h30 L'artiste franco-suisse présente la performance audiovisuelle \"Exuvie\". Noémi Büchi est une compositrice sonore franco-suisse dont la musique se distingue par un mélange subtil de rythmes texturés et de sons électroacoustiques et orchestraux. L’artiste explore les contrastes entre consonance et dissonance, associe des rythmes puissants à des sons perturbants. Son œuvre met en lumière les irrégularités pour offrir une exploration sensorielle inédite. ​ En partenariat avec le festival Maintenant."
-      },
-      "start": "2026-10-07T12:30:00",
-      "end": "2026-10-07T13:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/20a7a0203eee4c17a25576d9c5f9b219.base.image.jpg",
-      "link": "https://openagenda.com/events/37260507"
-    },
-    {
-      "uid": "17534502",
-      "title": {
-        "fr": "Réconcilier passion et raison en démocratie, avec Myriam Revault d’Allonnes"
-      },
-      "description": {
-        "fr": "Samedi 17 octobre, 15h00 Pour en finir avec la fausse opposition entre raison et passion en matière politique, Myriam Revault d’Allonnes montre combien les affects sont au cœur de la vie démocratique. La philosophe affirme que raison et passion sont étroitement liées et que le comprendre permet d’éclairer les nouvelles mobilisations autour du vécu, du sentiment d’injustice et du souci de l’égale dignité. L’œuvre de Myriam Revault d’Allonnes a été couronnée en 2019 par le Prix spécial du jury du Prix du livre politique. Rencontre suivie d’une séance de dédicaces de Passions publiques (éd. du Seuil)."
+        "fr": "Samedi 17 octobre, 15h00 Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
       },
       "start": "2026-10-17T15:00:00",
-      "end": "2026-10-17T16:30:00",
+      "end": "2026-10-17T15:30:00",
       "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/042f7ade10b44b0286e271ca080af4b6.base.image.jpg",
-      "link": "https://openagenda.com/events/17534502"
+      "image": null,
+      "link": "https://openagenda.com/events/4146535"
     },
     {
-      "uid": "98856728",
+      "uid": "23945051",
       "title": {
-        "fr": "Lavinia Mancusi"
+        "fr": "Projection en audio-description"
       },
       "description": {
-        "fr": "Mercredi 30 septembre, 12h30 La nouvelle voix des traditions populaires italiennes. Parmi les voix les plus intenses de la nouvelle génération de la scène musicale transalpine, Lavinia Mancusi imprime sa forte personnalité dans l’interprétation des traditions populaires italiennes et dans ses échappées belles dans les musiques du monde. Dans le cadre du festival Le Grand Soufflet."
+        "fr": "25 septembre - 11 décembre, certains vendredis Projection de films Un vendredi par mois, profitez d'une séance de cinéma en audio-description, accessible aux aveugles et malvoyants. Au programme : une sélection de films français récents. Pour connaître la programmation, adressez-vous à l'accueil."
       },
-      "start": "2026-09-30T12:30:00",
-      "end": "2026-09-30T13:30:00",
+      "start": "2026-09-25T15:00:00",
+      "end": "2026-12-11T17:00:00",
       "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a72c42dfa09d4e5491a370c239053293.base.image.jpg",
-      "link": "https://openagenda.com/events/98856728"
+      "image": null,
+      "link": "https://openagenda.com/events/23945051"
     },
     {
-      "uid": "52254461",
+      "uid": "5423950",
       "title": {
-        "fr": "Erwan Menguy Quartet"
+        "fr": "Les vidéos du mercredi"
       },
       "description": {
-        "fr": "Mercredi 23 septembre, 12h30 **Erwan Menguy**, flûtiste breton reconnu sur la scène internationale, propose sa première création éponyme. L’artiste s’est entouré de trois musiciens de talent avec qui il partage la scène depuis des années : Erwan Bérenguer à la guitare, Kevin Le Pennec au cistre et Hugues Lassere à la contrebasse. Ensemble, ils explorent de nouvelles textures sonores, enrichissent les arrangements et explorent une intimité acoustique avec le public."
+        "fr": "21 octobre 2026 - 28 avril 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
       },
-      "start": "2026-09-23T12:30:00",
-      "end": "2026-09-23T13:30:00",
+      "start": "2026-10-21T10:30:00",
+      "end": "2027-04-28T11:15:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/31d4e83e804c43f394748bcc6344b1f3.base.image.jpg",
+      "link": "https://openagenda.com/events/5423950"
+    },
+    {
+      "uid": "46561996",
+      "title": {
+        "fr": "Les vidéos du mercredi"
+      },
+      "description": {
+        "fr": "2 septembre 2026 - 16 juin 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
+      },
+      "start": "2026-09-02T15:30:00",
+      "end": "2027-06-16T16:15:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/8074bcc14dad4c9a9cf0b56a275e2790.base.image.jpg",
+      "link": "https://openagenda.com/events/46561996"
+    },
+    {
+      "uid": "76491557",
+      "title": {
+        "fr": "Bons baisers des grèves"
+      },
+      "description": {
+        "fr": "Dimanche 8 novembre, 16h00 De 1905 à 1912, la France est secouée par une vague de conflits sociaux et le syndicalisme naissant invente de nouveaux modes d’action. De 1905 à 1912, la France est secouée par une vague de conflits sociaux. Les grèves sont dures et violemment réprimées. De Limoges à Courrières en passant par Fougères, un jeune photographe parcourt cette France industrieuse en colère et diffuse ses photographies au plus grand nombre grâce à un média visuel populaire : la carte postale. ​ Un doc du dimanche suivi d’une rencontre avec Philippe Baron , le réalisateur (2025, 52 min, Vivement Lundi !)."
+      },
+      "start": "2026-11-08T16:00:00",
+      "end": "2026-11-08T17:30:00",
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/50c67c06b7314fa8945f9e0b17b1ce81.base.image.jpg",
-      "link": "https://openagenda.com/events/52254461"
+      "image": "https://img.openagenda.com/main/60b2b68fc8954db597534847663c2e6b.base.image.jpg",
+      "link": "https://openagenda.com/events/76491557"
+    },
+    {
+      "uid": "30448176",
+      "title": {
+        "fr": "Les tout P'tits RDV du matin"
+      },
+      "description": {
+        "fr": "23 octobre 2026 - 30 avril 2027, certains vendredis Le Tout p'tit rdv du matin, c'est le rendez-vous des 0-3 ans : lectures, comptines et chansons pour les tout-petits. Sur inscription à l'espace Chez les enfants ou par téléphone au 02 23 40 66 97 sur les heures d'ouverture de la bibliothèque."
+      },
+      "start": "2026-10-23T10:15:00",
+      "end": "2027-04-30T11:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/30448176"
+    },
+    {
+      "uid": "79717146",
+      "title": {
+        "fr": "Les P'tits RDV du matin"
+      },
+      "description": {
+        "fr": "20 octobre 2026 - 29 avril 2027 Un rendez-vous où découvertes graphiques et ludiques sont proposées par les bibliothécaires. Pour les enfants à partir de 6 ans accompagnés d'un adulte. Sous réserve des places disponibles."
+      },
+      "start": "2026-10-20T10:30:00",
+      "end": "2027-04-29T12:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/0b5f18c53c394631bd4f668d1b9fcea4.base.image.jpg",
+      "link": "https://openagenda.com/events/79717146"
+    },
+    {
+      "uid": "87440664",
+      "title": {
+        "fr": "Lectures de Ouf - chez les enfants"
+      },
+      "description": {
+        "fr": "29 août 2026 - 20 juin 2027 Tous les mercredis, samedis et dimanches, Les bibliothécaires déplient le \"fauteuil de Ouf\" pour raconter des histoires aux enfants à partir de 3-4 ans ! Venez écouter la sélection des bibliothécaires; au programme : nouveautés, coups de cœurs et classiques de la littérature jeunesse."
+      },
+      "start": "2026-08-29T17:00:00",
+      "end": "2027-06-20T17:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/2fe48ce259f74180854834dad4fd56db.base.image.jpg",
+      "link": "https://openagenda.com/events/87440664"
+    },
+    {
+      "uid": "92769191",
+      "title": {
+        "fr": "Visite de l'exposition \"Jeanne Malivel, une Bretonne art déco\""
+      },
+      "description": {
+        "fr": "Samedi 19 septembre, 16h00 A l'occasion des Journées du matrimoine et du patrimoine, la Bibliothèque propose une visite de l'exposition Jeanne Malivel, une Bretonne art déco. Pour mettre en lumière le travail de cette artiste disparue il y a 100 ans, en 1926, la bibliothèque des Champs Libres et le Musée de Bretagne présentent l’univers de cette jeune créatrice aux multiples talents qui, en à peine une décennie, a contribué au renouveau des arts décoratifs bretons. ​Sans réservation et dans la limite des places disponibles."
+      },
+      "start": "2026-09-19T16:00:00",
+      "end": "2026-09-19T17:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - L'escalier - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/00cc86a6810845d1be9c48a25969d4fa.base.image.jpg",
+      "link": "https://openagenda.com/events/92769191"
+    },
+    {
+      "uid": "82908048",
+      "title": {
+        "fr": "Visites des réserves de la bibliothèque des Champs Libres"
+      },
+      "description": {
+        "fr": "19 et 20 septembre A l'occasion des journées du matrimoine et du patrimoine, la bibliothèque ouvre exceptionnellement les portes de ses réserves. découverte des coulisses d'un lieu et des dessous d'un métier avec Sarah Toulouse, conservatrice du fonds patrimonial. ​Dans la limite des places disponibles."
+      },
+      "start": "2026-09-19T14:30:00",
+      "end": "2026-09-20T18:30:00",
+      "location": {
+        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/9a946ebbc2de4b0b9c4a5303880249a3.base.image.jpg",
+      "link": "https://openagenda.com/events/82908048"
+    },
+    {
+      "uid": "59595761",
+      "title": {
+        "fr": "Parlons ciné"
+      },
+      "description": {
+        "fr": "1 octobre 2026 - 14 janvier 2027, certains jeudis Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
+      },
+      "start": "2026-10-01T17:30:00",
+      "end": "2027-01-14T18:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/748aa80db0ea4a2594f6480902c9596f.base.image.jpg",
+      "link": "https://openagenda.com/events/59595761"
+    },
+    {
+      "uid": "23703808",
+      "title": {
+        "fr": "Ni d'Eve ni d'Adam, une histoire intersexe"
+      },
+      "description": {
+        "fr": "Dimanche 13 décembre, 16h00 Deux films qui proposent une réflexion sur la manière dont les personnes intersexuées cherchent à se réapproprier leur corps et à construire leur identité. Dans son film Ni d’Eve, ni d’Adam (58 min), Floriane Devigne suit le parcours de M. et Deborah, qui, comme 1,7% de la population, sont nées intersexuées. Opérées sans consentement pour \"normaliser\" leur corps, elles questionnent aujourd’hui cette violence médicale et la construction de leur identité. Johanna Lagarde, dans Et si on s’en foutait (12 min), rencontre Sasha 3 ans, et ses parents qui ont fait le choix de ne pas l'opérer. Ils désirent que Sasha choisisse son genre, un jour, plus tard, quand il ou elle sera plus grand·e. ​ ​Un doc du dimanche suivi d'une rencontre. Dans le cadre du festival Regard(s)."
+      },
+      "start": "2026-12-13T16:00:00",
+      "end": "2026-12-13T18:00:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/23703808"
+    },
+    {
+      "uid": "28912915",
+      "title": {
+        "fr": "Pochettes [Vinyles] Surprises"
+      },
+      "description": {
+        "fr": "Jeudi 10 décembre, 17h30 Des pépites, des coups de cœur, de la convivialité ! Un rendez-vous participatif animé par les bibliothécaires pour échanger sur la musique et tout particulièrement sur le vinyle ! ​Des albums, des pochettes mythiques, une anecdote musicale, un concert : venez parler de vos disques ou de ceux de la bibliothèque, et partager un moment d'écoute !"
+      },
+      "start": "2026-12-10T17:30:00",
+      "end": "2026-12-10T18:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/b1652ee5936c4cc9928d04b694fee132.base.image.jpg",
+      "link": "https://openagenda.com/events/28912915"
     }
   ]
 }
