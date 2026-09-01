@@ -2,70 +2,6 @@
   "total": 20,
   "events": [
     {
-      "uid": "81024512",
-      "title": {
-        "fr": "Jardins d'hiver 2027"
-      },
-      "description": {
-        "fr": "5 - 7 février 2027 Jardins d'hiver est un événement gratuit de rencontre et de partage autour de la littérature, et du plaisir de lire. Au programme, pour passer des bons moments à tout âge et pour tous les goûts : rencontres avec des auteurs, lectures musicales, ateliers, spectacles, jeux, promenades littéraires..."
-      },
-      "start": "2027-02-05T12:00:00",
-      "end": "2027-02-07T19:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/81024512"
-    },
-    {
-      "uid": "32869459",
-      "title": {
-        "fr": "Nos futurs 2027"
-      },
-      "description": {
-        "fr": "19 - 21 mars 2027 Nos futurs, par les jeunes, pour tout le monde Des jeunes lycéen·nes, étudiant·es, engagé·es… accompagné·es par Les Champs Libres, Sciences Po Rennes et le journal Le Monde choisissent des sujets, invitent des personnalités, repèrent des initiatives, s’engagent et innovent."
-      },
-      "start": "2027-03-19T12:00:00",
-      "end": "2027-03-21T19:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/32869459"
-    },
-    {
-      "uid": "48304469",
-      "title": {
-        "fr": "Rencontres Paul Ricœur 2026"
-      },
-      "description": {
-        "fr": "12 et 13 novembre Les Rencontres Paul Ricœur mettent la philosophie au cœur de la cité. Organisées en partenariat avec l'Université de Rennes, elles sont un temps de réflexion pluridisciplinaire autour d'un thème inspiré par l'œuvre du penseur et appliqué aux grands problèmes du monde contemporain."
-      },
-      "start": "2026-11-12T12:00:00",
-      "end": "2026-11-13T19:00:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/48304469"
-    },
-    {
-      "uid": "3719356",
-      "title": {
-        "fr": "Face à la guerre - Dialogues européens 2026"
-      },
-      "description": {
-        "fr": "6 - 22 novembre Troisième édition de \"Face à la guerre - Dialogues européens\" à Rennes. « Face à la guerre - Dialogues européens » a été initié en 2023 par l'Institut français. L'étape française, à Rennes en 2024, avait permis de rencontrer celles et ceux qui, à l'autre bout de l'Europe, se battent et regardent notre avenir commun d'un autre point de vue."
-      },
-      "start": "2026-11-06T12:00:00",
-      "end": "2026-11-22T19:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/cd4124ee1dfd4dc48fc490e4ae6b290e.base.image.jpg",
-      "link": "https://openagenda.com/events/3719356"
-    },
-    {
       "uid": "32068936",
       "title": {
         "fr": "Visite hors les murs - Les femmes et le procès Dreyfus à Rennes"
@@ -78,7 +14,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f42b454b00594af09e4dcd7bc7bb5f67.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3f3a4ff8dbd44e5284eaf2bb24a56b54.base.image.jpg",
       "link": "https://openagenda.com/events/32068936"
     },
     {
@@ -94,7 +30,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3130dcbba848410382d2b2b9a6b1813f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/578c94977cd94b0b91d825a1edb8de56.base.image.jpg",
       "link": "https://openagenda.com/events/27656885"
     },
     {
@@ -110,7 +46,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/363e96f2a3d840208b5c07a75758c59e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/1b947538a44840f28d23fccdadce690f.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -126,7 +62,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ca5aef0d2d464a67b6f3c66b5b48f725.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4caa049c43fb4f899a7dfda9d1c02e2c.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -142,8 +78,24 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ffeeee8d9dfb4d648fd81863f99dd34f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bff303d3bef54e56846868e6aed92be7.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
+    },
+    {
+      "uid": "47313360",
+      "title": {
+        "fr": "Arpentage Littéraire de \"Ethnographies des mondes à venir\" de Philippe Descola et Alessandro Pignocchi"
+      },
+      "description": {
+        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un dialogue riche \"Ethnographie des mondes à venir\" de Philippe Descola, anthropo Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
+      },
+      "start": "2026-12-04T15:00:00",
+      "end": "2026-12-04T18:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/e465eb34789948a382b63a0e8aea5638.base.image.jpg",
+      "link": "https://openagenda.com/events/47313360"
     },
     {
       "uid": "82761416",
@@ -158,7 +110,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c9180f3751bd486195c4a9a904c3f736.base.image.jpg",
+      "image": "https://img.openagenda.com/main/75dc1b02a4d145f0a8a2c92390055e47.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
     },
     {
@@ -174,7 +126,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/15709627b0b6421ca4dfb969d7da45ac.base.image.jpg",
+      "image": "https://img.openagenda.com/main/1eae6fe9232b411d8aa691b2a2948369.base.image.jpg",
       "link": "https://openagenda.com/events/25798343"
     },
     {
@@ -222,7 +174,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c4af2ca7ae6446b7b3dca1a81674b4be.base.image.jpg",
+      "image": "https://img.openagenda.com/main/86ae0c2f712e46eb88703fdc2f688363.base.image.jpg",
       "link": "https://openagenda.com/events/5423950"
     },
     {
@@ -238,7 +190,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f4828d59b2ef4f4880506a85bd1f683d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b8cbb025b7f44b348d81265a461ea281.base.image.jpg",
       "link": "https://openagenda.com/events/46561996"
     },
     {
@@ -270,7 +222,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ad5b920fa9f744b6bb462b4c267a5fd6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7e7ea559c6a84b65aeaca94909bb1cb2.base.image.jpg",
       "link": "https://openagenda.com/events/76491557"
     },
     {
@@ -286,7 +238,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/009d489d966547ddafd8b1c49313b667.base.image.jpg",
+      "image": "https://img.openagenda.com/main/35b5afae2ef34c37925526d340e38dfa.base.image.jpg",
       "link": "https://openagenda.com/events/79717146"
     },
     {
@@ -302,7 +254,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8236e39fb8154f95be34a1ee7a602fca.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6ab8bf120198486d948cc7b3b1b39cc8.base.image.jpg",
       "link": "https://openagenda.com/events/87440664"
     },
     {
@@ -318,8 +270,56 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - L'escalier - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8430e8f601e2403bbc0953bdfd64cf89.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8e4050ba21964b7890c2bfa605117e7c.base.image.jpg",
       "link": "https://openagenda.com/events/92769191"
+    },
+    {
+      "uid": "82908048",
+      "title": {
+        "fr": "Visites des réserves de la bibliothèque des Champs Libres"
+      },
+      "description": {
+        "fr": "19 et 20 septembre A l'occasion des journées du matrimoine et du patrimoine, la bibliothèque ouvre exceptionnellement les portes de ses réserves. découverte des coulisses d'un lieu et des dessous d'un métier avec Sarah Toulouse, conservatrice du fonds patrimonial. ​Dans la limite des places disponibles."
+      },
+      "start": "2026-09-19T14:30:00",
+      "end": "2026-09-20T18:30:00",
+      "location": {
+        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/dd5ee1c30530486b997b5ecf7eca12b9.base.image.jpg",
+      "link": "https://openagenda.com/events/82908048"
+    },
+    {
+      "uid": "59595761",
+      "title": {
+        "fr": "Parlons ciné"
+      },
+      "description": {
+        "fr": "1 octobre 2026 - 14 janvier 2027, certains jeudis Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
+      },
+      "start": "2026-10-01T17:30:00",
+      "end": "2027-01-14T18:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/b6317c75bfe34673a48f605c94fe40ef.base.image.jpg",
+      "link": "https://openagenda.com/events/59595761"
+    },
+    {
+      "uid": "23703808",
+      "title": {
+        "fr": "Ni d'Eve ni d'Adam, une histoire intersexe"
+      },
+      "description": {
+        "fr": "Dimanche 13 décembre, 16h00 Deux films qui proposent une réflexion sur la manière dont les personnes intersexuées cherchent à se réapproprier leur corps et à construire leur identité. Dans son film Ni d’Eve, ni d’Adam (58 min), Floriane Devigne suit le parcours de M. et Deborah, qui, comme 1,7% de la population, sont nées intersexuées. Opérées sans consentement pour \"normaliser\" leur corps, elles questionnent aujourd’hui cette violence médicale et la construction de leur identité. Johanna Lagarde, dans Et si on s’en foutait (12 min), rencontre Sasha 3 ans, et ses parents qui ont fait le choix de ne pas l'opérer. Ils désirent que Sasha choisisse son genre, un jour, plus tard, quand il ou elle sera plus grand·e. ​ ​Un doc du dimanche suivi d'une rencontre. Dans le cadre du festival Regard(s)."
+      },
+      "start": "2026-12-13T16:00:00",
+      "end": "2026-12-13T18:00:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/23703808"
     }
   ]
 }
