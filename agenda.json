@@ -2,36 +2,260 @@
   "total": 20,
   "events": [
     {
-      "uid": "78620219",
+      "uid": "52254461",
       "title": {
-        "fr": "Le Monde invisible - Flavien Théry & Fred Murie"
+        "fr": "Erwan Menguy Quartet"
       },
       "description": {
-        "fr": "10 et 11 octobre Avec Le monde invisible, Fred Murie et Flavien Théry nous invitent à franchir le seuil d’un monde qui s’étend au-delà du perceptible. Conçu en résidence à l’Université de Rennes et coproduit par Les Champs Libres, le projet rassemble une vingtaine d’œuvres multimédias relevant d’un dialogue Art et Sciences. Le parcours d’exposition déploie un imaginaire où affleurent des réalités dissimulées derrière les apparences. L’immersion dans cet univers contrasté, entre ombre et lumière, s’accompagne d’une création musicale originale signée Thomas Poli. Le monde invisible offre une pluralité de regards sur un monde qui nous échappe, nous attire ou nous inquiète, et continue pourtant de nous émerveiller."
+        "fr": "Mercredi 23 septembre, 12h30 **Erwan Menguy**, flûtiste breton reconnu sur la scène internationale, propose sa première création éponyme. L’artiste s’est entouré de trois musiciens de talent avec qui il partage la scène depuis des années : Erwan Bérenguer à la guitare, Kevin Le Pennec au cistre et Hugues Lassere à la contrebasse. Ensemble, ils explorent de nouvelles textures sonores, enrichissent les arrangements et explorent une intimité acoustique avec le public."
       },
-      "start": "2026-10-10T14:00:00",
-      "end": "2026-10-11T19:00:00",
-      "location": {
-        "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/b5d5f9c5e9e5455d8634f90c247c0d2b.base.image.jpg",
-      "link": "https://openagenda.com/events/78620219"
-    },
-    {
-      "uid": "88606159",
-      "title": {
-        "fr": "Hors Champ : un film, un débat"
-      },
-      "description": {
-        "fr": "Mardi 27 octobre, 20h30 Partez à la découverte de deux terrains de recherche grâce à deux documentaires du CNRS. Du Rwanda, où des géologues se rendent tous les six mois pour étudier les glissements de terrain, au Botswana, avec des scientifiques français qui en étudient les particularités géologiques, hydrologiques et climatiques. Projection suivie d’un échange avec les scientifiques Olivier Dauteuil et Marc Jolivet, géomorphologues à Géosciences Rennes et à l’Institut physique du globe de Paris. Dans le cadre des Échappées inattendues du CNRS."
-      },
-      "start": "2026-10-27T20:30:00",
-      "end": "2026-10-27T22:30:00",
+      "start": "2026-09-23T12:30:00",
+      "end": "2026-09-23T13:30:00",
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/61ce7f4a851d4b7ab488cbc6338ea93f.base.image.jpg",
-      "link": "https://openagenda.com/events/88606159"
+      "image": "https://img.openagenda.com/main/765193a141204ccc8a0d710405767bec.base.image.jpg",
+      "link": "https://openagenda.com/events/52254461"
+    },
+    {
+      "uid": "47934553",
+      "title": {
+        "fr": "360° Nord - Anita Conti / Carla Pallone"
+      },
+      "description": {
+        "fr": "Mercredi 16 septembre, 12h30 _360° NORD_ est un ciné-concert de Carla Pallone qui nous plonge dans l’univers de l’océanographe Anita Conti. En 1952, Anita Conti embarque avec 60 hommes vers les Grands Bancs de Terre-Neuve, pour observer et documenter la pêche à la morue. Elle en livre un té­moignage ethnographique et artistique remarquable et novateur notamment avec le film Racleurs d’océan (1953). C’est ce témoignage composé d’images 16mm, de photographies et d’un journal de bord qui inspire Carla Pallone pour composer un chant et nouer un dialogue musical avec la poésie de l’œuvre d’Anita Conti. ​ ​En lien avec l'exposition La mer jamais ne s'oublie."
+      },
+      "start": "2026-09-16T12:30:00",
+      "end": "2026-09-16T13:30:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/75efa52df2c844a7b66634fc506d092f.base.image.jpg",
+      "link": "https://openagenda.com/events/47934553"
+    },
+    {
+      "uid": "53206148",
+      "title": {
+        "fr": "RDV4C Rummikub lettres"
+      },
+      "description": {
+        "fr": "2 septembre 2026 - 30 juin 2027, certains mercredis Venez discuter tout en jouant au Rummikub ! ​Quand ? Tous les mercredis à 15h00 ​Où ? Les Champs Libres, Espace Vie du Citoyen Venez discuter tout en jouant au Rummikub ! ​Quand ? Tous les mercredis à 15h00 ​Où ? Les Champs Libres, Espace Vie du Citoyen"
+      },
+      "start": "2026-09-02T15:00:00",
+      "end": "2027-06-30T17:00:00",
+      "location": {
+        "name": "Vie du citoyen - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/f3b923e267e74544b3c67f02595d9687.base.image.jpg",
+      "link": "https://openagenda.com/events/53206148"
+    },
+    {
+      "uid": "79745605",
+      "title": {
+        "fr": "RDV4C Scrabble en allemand"
+      },
+      "description": {
+        "fr": "4 septembre 2026 - 2 juillet 2027, certains vendredis Parler en allemand en jouant au Scrabble. Venez avec l’envie de jouer ! ​Quand ? Tous les vendredis à 14h15 ​Où ? Les Champs Libres, Espace Vie du Citoyen Parler en allemand en jouant au Scrabble. Venez avec l’envie de jouer ! ​Quand ? Tous les vendredis à 14h15 ​Où ? Les Champs Libres, Espace Vie du Citoyen"
+      },
+      "start": "2026-09-04T14:15:00",
+      "end": "2027-07-02T15:30:00",
+      "location": {
+        "name": "Vie du citoyen - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/f2427c4342384e598cfcea0a962555ce.base.image.jpg",
+      "link": "https://openagenda.com/events/79745605"
+    },
+    {
+      "uid": "52673360",
+      "title": {
+        "fr": "Le peuple en politique, retour sur les populisme avec Marc Lazar"
+      },
+      "description": {
+        "fr": "Samedi 26 septembre, 15h00 **Marc Lazar** revient sur l’histoire du populisme en France pour nous aider à comprendre son actualité et à appréhender les défis de notre démocratie. . Exaltation du peuple et rejet des élites sont les deux marqueurs essentiels des mouvements dits « populistes ». Historien et sociologue du politique, Marc Lazar retrace le phénomène populiste en France du 19e siècle à nos jours. Rencontre animée par Kévin Capeplli et suivie d’une séance de dédicaces avec la librairie Le Failler."
+      },
+      "start": "2026-09-26T15:00:00",
+      "end": "2026-09-26T16:30:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/58ba574f0ba845ed8e8b8e1569d2f90f.base.image.jpg",
+      "link": "https://openagenda.com/events/52673360"
+    },
+    {
+      "uid": "25739080",
+      "title": {
+        "fr": "RDV4C GPSP (Groupe de parole et de soutien participatif)"
+      },
+      "description": {
+        "fr": "2 septembre 2026 - 2 juin 2027, certains mercredis Venez avec vos “tracasseries” du quotidien et repartez avec la patate ! (Partage authentique et écoute empathique). Merci d’arriver à l’heure pour démarrer ensemble. ​Quand ? Venez avec vos “tracasseries” du quotidien et repartez avec la patate ! (Partage authentique et écoute empathique). Merci d’arriver à l’heure pour démarrer ensemble. ​Quand ? Les 1ers mercredis du mois à 14h00 ​Où ? Les Champs Libres, Bibliothèque, 5e étage (Chambre noire)"
+      },
+      "start": "2026-09-02T14:00:00",
+      "end": "2027-06-02T16:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/65f227aeadfd43fe9a716089859dbe63.base.image.jpg",
+      "link": "https://openagenda.com/events/25739080"
+    },
+    {
+      "uid": "55507772",
+      "title": {
+        "fr": "RDV4C Le rendez-vous des dessinateur.ice.s"
+      },
+      "description": {
+        "fr": "10 septembre 2026 - 24 juin 2027, certains jeudis Un RDV4C pour dessiner ensemble. Rejoignez-nous pour passer un bon moment de créativité partagée. ​Quand ? Les 2èmes et 4èmes jeudis du mois à 17h30 ​Où ? Petit Salo Un RDV4C pour dessiner ensemble. Rejoignez-nous pour passer un bon moment de créativité partagée. ​Quand ? Les 2èmes et 4èmes jeudis du mois à 17h30 ​Où ? Petit Salon du Café des Champs Libres"
+      },
+      "start": "2026-09-10T17:30:00",
+      "end": "2027-06-24T19:30:00",
+      "location": {
+        "name": "Petit salon du café - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/60e6d8c82a5347d98c6fb9056edd8202.base.image.jpg",
+      "link": "https://openagenda.com/events/55507772"
+    },
+    {
+      "uid": "20785663",
+      "title": {
+        "fr": "RDV4C Falamos português !"
+      },
+      "description": {
+        "fr": "1 septembre 2026 - 29 juin 2027, les mardis Vem participar desse grupo de conversa em português para rir e trocar ideias ! ​ ​Quand ? Tous les mardis à 18h00 ​ ​Où ? Petit Salon du Café des Champs Libres Vem participar desse grupo de conversa em português para rir e trocar ideias ! ​ ​Quand ? Tous les mardis à 18h00 ​ ​Où ? Petit Salon du Café des Champs Libres"
+      },
+      "start": "2026-09-01T18:00:00",
+      "end": "2027-06-29T20:00:00",
+      "location": {
+        "name": "Petit salon du café - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/86fb258ea7194436ba435f737f758bd5.base.image.jpg",
+      "link": "https://openagenda.com/events/20785663"
+    },
+    {
+      "uid": "35311689",
+      "title": {
+        "fr": "RDV4C Let's speak english"
+      },
+      "description": {
+        "fr": "4 septembre 2026 - 3 juillet 2027 Parler et échanger en anglais à partir de thèmes choisis ensemble, pour des conversations conviviales et en toute simplicité. ​Quand ? Tous les vendredis à 13h00 ​Mais Parler et échanger en anglais à partir de thèmes choisis ensemble, pour des conversations conviviales et en toute simplicité. ​Quand ? Tous les vendredis à 13h00 ​Mais aussi tous les samedis à 14h30 ​Où ? Les Champs Libres, Espace Vie du Citoyen"
+      },
+      "start": "2026-09-04T13:00:00",
+      "end": "2027-07-03T16:00:00",
+      "location": {
+        "name": "Vie du citoyen - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/f1454dbf5f504caf89a19e13883f0095.base.image.jpg",
+      "link": "https://openagenda.com/events/35311689"
+    },
+    {
+      "uid": "60549611",
+      "title": {
+        "fr": "RDV4C Conversation en italien"
+      },
+      "description": {
+        "fr": "3 septembre 2026 - 1 juillet 2027, les jeudis Venez partager avec nous en italien pour le plaisir, apprendre, transmettre et pratiquer ensemble. ​Quand ? Tous les jeudis à 16h00 ​Où ? Les Champs Libres, Espace Vie du Venez partager avec nous en italien pour le plaisir, apprendre, transmettre et pratiquer ensemble. ​Quand ? Tous les jeudis à 16h00 ​Où ? Les Champs Libres, Espace Vie du Citoyen"
+      },
+      "start": "2026-09-03T16:00:00",
+      "end": "2027-07-01T18:00:00",
+      "location": {
+        "name": "Vie du citoyen - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/eab13484aed0444e9ee45d21c4e6f1d4.base.image.jpg",
+      "link": "https://openagenda.com/events/60549611"
+    },
+    {
+      "uid": "66547808",
+      "title": {
+        "fr": "RDV4C Broderie et créations textiles"
+      },
+      "description": {
+        "fr": "10 septembre 2026 - 24 juin 2027, certains jeudis Partageons nos savoirs faire et notre créativité autour de la broderie et des petites créations textiles. ​Quand ? Les 2èmes et 4èmes jeudis du mois à 14h30 ​Où ? Le Partageons nos savoirs faire et notre créativité autour de la broderie et des petites créations textiles. ​Quand ? Les 2èmes et 4èmes jeudis du mois à 14h30 ​Où ? Les Champs Libres, Espace Vie du Citoyen"
+      },
+      "start": "2026-09-10T14:00:00",
+      "end": "2027-06-24T15:30:00",
+      "location": {
+        "name": "Vie du citoyen - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/06c87b20c75d47aab5d264e7a5d8e915.base.image.jpg",
+      "link": "https://openagenda.com/events/66547808"
+    },
+    {
+      "uid": "55389559",
+      "title": {
+        "fr": "RDV4C Wir sprechen deutsch"
+      },
+      "description": {
+        "fr": "2 septembre 2026 - 30 juin 2027, certains mercredis Vous êtes curieux, vous parlez allemand, ce rendez-vous est ouvert à tous, n'hésitez pas à nous rejoindre. ​​Quand ? Tous les mercredis à 12h30 ​​Où ? Les Champs Vous êtes curieux, vous parlez allemand, ce rendez-vous est ouvert à tous, n'hésitez pas à nous rejoindre. ​​Quand ? Tous les mercredis à 12h30 ​​Où ? Les Champs Libres, Espace Vie du Citoyen"
+      },
+      "start": "2026-09-02T12:30:00",
+      "end": "2027-06-30T13:30:00",
+      "location": {
+        "name": "Vie du citoyen - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/65447e2d51dc4cdc9bdf3162dc3684a2.base.image.jpg",
+      "link": "https://openagenda.com/events/55389559"
+    },
+    {
+      "uid": "43251789",
+      "title": {
+        "fr": "RDV4C Maquettes & Gunpla"
+      },
+      "description": {
+        "fr": "19 septembre 2026 - 19 juin 2027, certains samedis Venez nous retrouver autour de l’univers du Gunpla et du modélisme, transmettre vos astuces et développer votre imaginaire. Passionnés et curieux bienvenus ! ​Quand ? Les 3èmes same Venez nous retrouver autour de l’univers du Gunpla et du modélisme, transmettre vos astuces et développer votre imaginaire. Passionnés et curieux bienvenus ! ​Quand ? Les 3èmes samedis du mois à 14h30 ​Où ? Petit Salon du Café des Champs Libres"
+      },
+      "start": "2026-09-19T14:30:00",
+      "end": "2027-06-19T18:00:00",
+      "location": {
+        "name": "Petit salon du café - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/99f51d1de23b4b70a6428f530bc7821a.base.image.jpg",
+      "link": "https://openagenda.com/events/43251789"
+    },
+    {
+      "uid": "83809395",
+      "title": {
+        "fr": "RDV4C Pause lecture(s)"
+      },
+      "description": {
+        "fr": "15 septembre 2026 - 15 juin 2027, certains mardis Venez nous retrouvez pour échanger sur vos lectures et partager vos découvertes littéraires. Petits ou grands lecteurs, l’important c’est d’être curieux ! ​ Quand ? Les 3èmes ma Venez nous retrouvez pour échanger sur vos lectures et partager vos découvertes littéraires. Petits ou grands lecteurs, l’important c’est d’être curieux ! ​ Quand ? Les 3èmes mardis du mois à 12h15 ​Où ? ​Les Champs Libres, Bibliothèque, 4e étage"
+      },
+      "start": "2026-09-15T12:15:00",
+      "end": "2027-06-15T14:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 4e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/50f125f5783c4c84bbb334bbcb22ab30.base.image.jpg",
+      "link": "https://openagenda.com/events/83809395"
+    },
+    {
+      "uid": "80088387",
+      "title": {
+        "fr": "Anita Conti - La dame de la mer"
+      },
+      "description": {
+        "fr": "9 juin - 31 octobre Au cœur de l'exposition permanente, une trentaine de photographies d'Anita Conti illustrent le travail et la vie à bord des chalutiers Vikings et Bois-Rosé. Les photographies qu'elle ramène de ces campagnes constituent des témoignages uniques de la vie des Terre-neuvas. Figure du monde maritime, elle contribue par ces images à sensibiliser le grand public aux questions de la pêche et de l'épuisement des ressources. ​"
+      },
+      "start": "2026-06-09T12:00:00",
+      "end": "2026-10-31T19:00:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/4048bc3fa45a45868647d350de21b361.base.image.jpg",
+      "link": "https://openagenda.com/events/80088387"
+    },
+    {
+      "uid": "32173541",
+      "title": {
+        "fr": "Si tu veux que je vive"
+      },
+      "description": {
+        "fr": "Dimanche 20 septembre, 14h30 Séverine, journaliste féministe et engagée, nous livre, à travers ses écrits, le récit bouleversant de Lucie et Alfred Dreyfus dans leur combat pour la justice et la vérité. Cette adaptation théâtrale, poétique et intense, plonge le spectateur au cœur de l’Affaire Dreyfus à travers la correspondance des deux époux. Pendant cinq longues années d’enfermement à l’Île du Diable, au large de Cayenne, leurs lettres deviennent bien plus qu’un simple échange : elles sont leur dernier rempart contre l’isolement, le désespoir, et même la tentation d’en finir. Alors que Lucie, son frère Mathieu, Émile Zola et d’autres se battent sans relâche pour prouver son innocence, la pièce nous rappelle avec force qu’Alfred Dreyfus fut son premier défenseur, par sa volonté d'écrire son combat personnel pour son honneur dans celui de la justice et de la vérité. ​ Avec Joël Abadie, Lucile Chevalier, Claire Vidoni. Auteurs : Marie-Neige Coche et Joël Abadie ; mise en scène : Éric Cénat. ​ Production : Le Théâtre de l’Imprévu, Orléans – Compagnie portée par la Région Centre-Val de Loire, et soutenue par le Département du Loiret et la Ville d’Orléans ​ ​ Soutiens et Mécène : La ville d’Orléans , La Fondation La Poste, L’espace Béraire de la Chapelle-Saint-Mesmin**, ECUJE (Espace Culturel et Universitaire Juif d'Europe), Communauté de Communes Terres du Haut Berry, Avec le soutien de l’espace culturel Bernard Dague de Louvres, Le Théâtre Gérard Philipe de Meaux, La SACD**"
+      },
+      "start": "2026-09-20T14:30:00",
+      "end": "2026-09-20T15:40:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/6108f0b375aa4fe08761c8935d6a943d.base.image.jpg",
+      "link": "https://openagenda.com/events/32173541"
     },
     {
       "uid": "60338874",
@@ -46,280 +270,56 @@
       "location": {
         "name": "Espace des sciences - Salles d'exposition - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/616be8d882b24248baa0c5596a4dfb8c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9d90e3cd5f8c4c00bf3bad07dbc526a7.base.image.jpg",
       "link": "https://openagenda.com/events/60338874"
     },
     {
-      "uid": "32068936",
+      "uid": "52249254",
       "title": {
-        "fr": "Visite hors les murs - Les femmes et le procès Dreyfus à Rennes"
+        "fr": "Soyons eaux, inventaire de fleuves absents - Nathyfa Michel et Jérôme Blin"
       },
       "description": {
-        "fr": "Mardi 22 septembre, 17h45 Lors du procès en révision d'Alfred Dreyfus à Rennes pendant l'été 1899, des femmes ont joué un rôle important. Et pourtant, leur implication dans l'Affaire a été minimisée, voir oubliée par l'histoire. Au premier plan, Lucie Dreyfus, la femme du capitaine. Autour d'elle, engagées pour soutenir la cause de Dreyfus, 3 rennaises et 3 parisiennes. ​ ​A travers une déambulation dans la ville, l'association Histoire du féminisme à Rennes vous emmène sur les pas de ces femmes, pour découvrir leur histoire et leur implication dans l'Affaire. ​ ​Inscription obligatoire jusqu’au 18 septembre à l’adresse suivante en indiquant le nom, prénom, numéro de téléphone et nombre de personnes : histoire.feminisme.rennes@gmail.com"
+        "fr": "13 octobre 2026 - 3 janvier 2027 Deux artistes, deux fleuves, une même question : que charrient les eaux ? Nathyfa Michel, photographe née en Guyane, remonte en hexagone pour chercher l'eau le long de la Loire et de l'Erdre, et explore des bras de fleuve disparus, engloutis sous la ville qui a prospéré grâce au commerce triangulaire. Jérôme Blin, photographe nantais, descend vers la Guyane pour ausculter les rivières polluées par le mercure de l'orpaillage clandestin. Deux trajectoires qui se croisent comme des affluents. Un chassé-croisé géographique qui révèle une continuité : l'extraction des richesses du Sud vers le Nord, du XVIIIe siècle à aujourd'hui. En partenariat avec le Centre Claude Cahun – Nantes"
       },
-      "start": "2026-09-22T17:45:00",
-      "end": "2026-09-22T19:15:00",
+      "start": "2026-10-13T12:00:00",
+      "end": "2027-01-03T19:00:00",
       "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+        "name": "La galerie - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/412e3ca6057f4500bc4b31a51519278e.base.image.jpg",
-      "link": "https://openagenda.com/events/32068936"
+      "image": "https://img.openagenda.com/main/1a9c876e69cf49cd870e0103cdbbfa71.base.image.jpg",
+      "link": "https://openagenda.com/events/52249254"
     },
     {
-      "uid": "27656885",
+      "uid": "6524264",
       "title": {
-        "fr": "Lectures de lettres"
+        "fr": "Visite de l'exposition \"La mer jamais ne s'oublie\""
       },
       "description": {
-        "fr": "Dimanche 20 septembre, 16h00 Des personnes détenues des centres pénitentiaires pour femmes et pour hommes de Rennes ont participé, en juin, à un projet mené par le Théâtre de l’Imprévu. Alliant écriture et interprétation de lettres fictionnelles aux divers protagonistes de l’Affaire Dreyfus, une partie de ces correspondances sera lue à l’issue de la représentation du spectacle « Si tu veux que je vive, Lucie et Alfred Dreyfus »"
+        "fr": "2 mai - 13 septembre Découvrez l'exposition \"La mer jamais ne s'oublie\" qui propose une approche à la fois documentaire et poétique de notre rapport à la mer, à sa beauté mais aussi à sa fragilité. La visite de l'exposition sollicite les sens de chacun pour offrir une expérience originale et conviviale."
       },
-      "start": "2026-09-20T16:00:00",
-      "end": "2026-09-20T16:30:00",
+      "start": "2026-05-02T14:30:00",
+      "end": "2026-09-13T15:15:00",
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fe400f5fc19a40749f2cdab56f3e4ea3.base.image.jpg",
-      "link": "https://openagenda.com/events/27656885"
+      "image": "https://img.openagenda.com/main/d8b2cd4f9966457894b1b4ecfb0a2345.base.image.jpg",
+      "link": "https://openagenda.com/events/6524264"
     },
     {
-      "uid": "43072460",
+      "uid": "64943468",
       "title": {
-        "fr": "Visite : l'Affaire Dreyfus à Rennes"
+        "fr": "Laboratoire de Merlin"
       },
       "description": {
-        "fr": "17 - 31 octobre A l'été 1899, le second procès du capitaine Alfred Dreyfus a lieu à Rennes. C'est l'une des affaires judiciaires les plus marquantes de l'histoire de France. À travers des documents d'archives, des journaux d'époque, et quelques objets personnels, la visite retrace les étapes clés de cette affaire qui déchira le pays et marqua un tournant dans l'histoire politique et sociale de la France."
+        "fr": "2 janvier 2026 - 31 août 2027 Bienvenue au Laboratoire de Merlin, une destination où la magie de la science prend vie ! Le Laboratoire de Merlin invite à découvrir de multiples phénomènes scientifiques par le jeu. Un panel de manipulations interactives est à disposition pour tester librement ses connaissances. Séances d'1h : séances libres (sans animation) ou séances avec une animation Flash : https://www.espace-sciences.org/rennes/agenda"
       },
-      "start": "2026-10-17T14:30:00",
-      "end": "2026-10-31T15:00:00",
+      "start": "2026-01-02T10:00:00",
+      "end": "2027-08-31T19:00:00",
       "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Laboratoire de Merlin - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/5d545af75a1b4929be5cd7c24d322ef1.base.image.jpg",
-      "link": "https://openagenda.com/events/43072460"
-    },
-    {
-      "uid": "87217212",
-      "title": {
-        "fr": "Un petit crabe au musée"
-      },
-      "description": {
-        "fr": "20 - 29 octobre Le petit crabe Odorico est un peu timide, il s'est caché dans le musée. Partez à sa recherche en découvrant son histoire à travers les collections du musée. ​ ​Pour les enfants accompagnés de 3 à 5 ans. ​Sans réservation, dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
-      },
-      "start": "2026-10-20T10:30:00",
-      "end": "2026-10-29T11:50:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/72f9ca614fdd4a2098b2064ce6903d1a.base.image.jpg",
-      "link": "https://openagenda.com/events/87217212"
-    },
-    {
-      "uid": "65476422",
-      "title": {
-        "fr": "La visite qui fait (un peu) peur"
-      },
-      "description": {
-        "fr": "17 - 31 octobre Des rencontres surprenantes, quelques fantômes et revenants… Venez frissonner à travers de mystérieuses légendes de Bretagne, tout en vous amusant en famille lors de cette visite contée ! Dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
-      },
-      "start": "2026-10-17T16:00:00",
-      "end": "2026-10-31T16:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/ba3cc4accbf34dd1b2b06102057e5115.base.image.jpg",
-      "link": "https://openagenda.com/events/65476422"
-    },
-    {
-      "uid": "82761416",
-      "title": {
-        "fr": "Visite flash de l'exposition \"La mer jamais ne s'oublie\""
-      },
-      "description": {
-        "fr": "Dimanche 27 septembre, 14h15 L'exposition \"La mer jamais ne s'oublie\" propose une approche à la fois documentaire et poétique de notre rapport à la mer, à sa beauté mais aussi à sa fragilité. Pour le dernier jour d'ouverture, retrouvez Guillaume, médiateur, pour des visites flashs de découverte ou redécouverte de l'exposition."
-      },
-      "start": "2026-09-27T14:15:00",
-      "end": "2026-09-27T18:30:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e625daafce5a483abb6eadc42c996584.base.image.jpg",
-      "link": "https://openagenda.com/events/82761416"
-    },
-    {
-      "uid": "47313360",
-      "title": {
-        "fr": "Arpentage Littéraire de \"Ethnographies des mondes à venir\" de Philippe Descola et Alessandro Pignocchi"
-      },
-      "description": {
-        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un dialogue riche \"Ethnographie des mondes à venir\" de Philippe Descola, anthropo Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
-      },
-      "start": "2026-12-04T15:00:00",
-      "end": "2026-12-04T18:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/5c9c0c5900a84ffebbfaedf2937e17dc.base.image.jpg",
-      "link": "https://openagenda.com/events/47313360"
-    },
-    {
-      "uid": "25798343",
-      "title": {
-        "fr": "Boire et manger en Bretagne"
-      },
-      "description": {
-        "fr": "10 et 11 octobre **Au pays du kouign amann, des crêpes et des galettes,** la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
-      },
-      "start": "2026-10-10T16:00:00",
-      "end": "2026-10-11T17:00:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/4264e1619e8b49f6995b24eb3867084a.base.image.jpg",
-      "link": "https://openagenda.com/events/25798343"
-    },
-    {
-      "uid": "4146535",
-      "title": {
-        "fr": "Lecture de ouf signées"
-      },
-      "description": {
-        "fr": "Samedi 17 octobre, 15h00 Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
-      },
-      "start": "2026-10-17T15:00:00",
-      "end": "2026-10-17T15:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/4146535"
-    },
-    {
-      "uid": "23945051",
-      "title": {
-        "fr": "Projection en audio-description"
-      },
-      "description": {
-        "fr": "25 septembre - 11 décembre, certains vendredis Projection de films Un vendredi par mois, profitez d'une séance de cinéma en audio-description, accessible aux aveugles et malvoyants. Au programme : une sélection de films français récents. Pour connaître la programmation, adressez-vous à l'accueil."
-      },
-      "start": "2026-09-25T15:00:00",
-      "end": "2026-12-11T17:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/23945051"
-    },
-    {
-      "uid": "5423950",
-      "title": {
-        "fr": "Les vidéos du mercredi"
-      },
-      "description": {
-        "fr": "21 octobre 2026 - 28 avril 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
-      },
-      "start": "2026-10-21T10:30:00",
-      "end": "2027-04-28T11:15:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/34123d934c764b4b90a41224b31e95de.base.image.jpg",
-      "link": "https://openagenda.com/events/5423950"
-    },
-    {
-      "uid": "46561996",
-      "title": {
-        "fr": "Les vidéos du mercredi"
-      },
-      "description": {
-        "fr": "2 septembre 2026 - 16 juin 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
-      },
-      "start": "2026-09-02T15:30:00",
-      "end": "2027-06-16T16:15:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/40008f6959004c9f8c19e6503f8dc35d.base.image.jpg",
-      "link": "https://openagenda.com/events/46561996"
-    },
-    {
-      "uid": "76491557",
-      "title": {
-        "fr": "Bons baisers des grèves"
-      },
-      "description": {
-        "fr": "Dimanche 8 novembre, 16h00 De 1905 à 1912, la France est secouée par une vague de conflits sociaux et le syndicalisme naissant invente de nouveaux modes d’action. De 1905 à 1912, la France est secouée par une vague de conflits sociaux. Les grèves sont dures et violemment réprimées. De Limoges à Courrières en passant par Fougères, un jeune photographe parcourt cette France industrieuse en colère et diffuse ses photographies au plus grand nombre grâce à un média visuel populaire : la carte postale. ​ Un doc du dimanche suivi d’une rencontre avec Philippe Baron , le réalisateur (2025, 52 min, Vivement Lundi !)."
-      },
-      "start": "2026-11-08T16:00:00",
-      "end": "2026-11-08T17:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/a272db7e9f7f4c07b8a36c09822b034d.base.image.jpg",
-      "link": "https://openagenda.com/events/76491557"
-    },
-    {
-      "uid": "30448176",
-      "title": {
-        "fr": "Les tout P'tits RDV du matin"
-      },
-      "description": {
-        "fr": "23 octobre 2026 - 30 avril 2027, certains vendredis Le Tout p'tit rdv du matin, c'est le rendez-vous des 0-3 ans : lectures, comptines et chansons pour les tout-petits. Sur inscription à l'espace Chez les enfants ou par téléphone au 02 23 40 66 97 sur les heures d'ouverture de la bibliothèque."
-      },
-      "start": "2026-10-23T10:15:00",
-      "end": "2027-04-30T11:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/30448176"
-    },
-    {
-      "uid": "79717146",
-      "title": {
-        "fr": "Les P'tits RDV du matin"
-      },
-      "description": {
-        "fr": "20 octobre 2026 - 29 avril 2027 Un rendez-vous où découvertes graphiques et ludiques sont proposées par les bibliothécaires. Pour les enfants à partir de 6 ans accompagnés d'un adulte. Sous réserve des places disponibles."
-      },
-      "start": "2026-10-20T10:30:00",
-      "end": "2027-04-29T12:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/9c4a53a2897a4d879b664bbac6aebc60.base.image.jpg",
-      "link": "https://openagenda.com/events/79717146"
-    },
-    {
-      "uid": "87440664",
-      "title": {
-        "fr": "Lectures de Ouf - chez les enfants"
-      },
-      "description": {
-        "fr": "29 août 2026 - 20 juin 2027 Tous les mercredis, samedis et dimanches, Les bibliothécaires déplient le \"fauteuil de Ouf\" pour raconter des histoires aux enfants à partir de 3-4 ans ! Venez écouter la sélection des bibliothécaires; au programme : nouveautés, coups de cœurs et classiques de la littérature jeunesse."
-      },
-      "start": "2026-08-29T17:00:00",
-      "end": "2027-06-20T17:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/6ace76e1fda241298f9a7c804f99d9e9.base.image.jpg",
-      "link": "https://openagenda.com/events/87440664"
-    },
-    {
-      "uid": "92769191",
-      "title": {
-        "fr": "Visite de l'exposition \"Jeanne Malivel, une Bretonne art déco\""
-      },
-      "description": {
-        "fr": "Samedi 19 septembre, 16h00 A l'occasion des Journées du matrimoine et du patrimoine, la Bibliothèque propose une visite de l'exposition Jeanne Malivel, une Bretonne art déco. Pour mettre en lumière le travail de cette artiste disparue il y a 100 ans, en 1926, la bibliothèque des Champs Libres et le Musée de Bretagne présentent l’univers de cette jeune créatrice aux multiples talents qui, en à peine une décennie, a contribué au renouveau des arts décoratifs bretons. ​Sans réservation et dans la limite des places disponibles."
-      },
-      "start": "2026-09-19T16:00:00",
-      "end": "2026-09-19T17:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - L'escalier - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/3432e5388e38437daf05e21233f9e498.base.image.jpg",
-      "link": "https://openagenda.com/events/92769191"
+      "image": "https://img.openagenda.com/main/1d09fa9dafde4138b0243cdb423ad444.base.image.jpg",
+      "link": "https://openagenda.com/events/64943468"
     }
   ]
 }
