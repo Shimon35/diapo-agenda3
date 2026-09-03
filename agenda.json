@@ -2,6 +2,54 @@
   "total": 20,
   "events": [
     {
+      "uid": "78620219",
+      "title": {
+        "fr": "Le Monde invisible - Flavien Théry & Fred Murie"
+      },
+      "description": {
+        "fr": "10 et 11 octobre Avec Le monde invisible, Fred Murie et Flavien Théry nous invitent à franchir le seuil d’un monde qui s’étend au-delà du perceptible. Conçu en résidence à l’Université de Rennes et coproduit par Les Champs Libres, le projet rassemble une vingtaine d’œuvres multimédias relevant d’un dialogue Art et Sciences. Le parcours d’exposition déploie un imaginaire où affleurent des réalités dissimulées derrière les apparences. L’immersion dans cet univers contrasté, entre ombre et lumière, s’accompagne d’une création musicale originale signée Thomas Poli. Le monde invisible offre une pluralité de regards sur un monde qui nous échappe, nous attire ou nous inquiète, et continue pourtant de nous émerveiller."
+      },
+      "start": "2026-10-10T14:00:00",
+      "end": "2026-10-11T19:00:00",
+      "location": {
+        "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/b5d5f9c5e9e5455d8634f90c247c0d2b.base.image.jpg",
+      "link": "https://openagenda.com/events/78620219"
+    },
+    {
+      "uid": "88606159",
+      "title": {
+        "fr": "Hors Champ : un film, un débat"
+      },
+      "description": {
+        "fr": "Mardi 27 octobre, 20h30 Partez à la découverte de deux terrains de recherche grâce à deux documentaires du CNRS. Du Rwanda, où des géologues se rendent tous les six mois pour étudier les glissements de terrain, au Botswana, avec des scientifiques français qui en étudient les particularités géologiques, hydrologiques et climatiques. Projection suivie d’un échange avec les scientifiques Olivier Dauteuil et Marc Jolivet, géomorphologues à Géosciences Rennes et à l’Institut physique du globe de Paris. Dans le cadre des Échappées inattendues du CNRS."
+      },
+      "start": "2026-10-27T20:30:00",
+      "end": "2026-10-27T22:30:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/61ce7f4a851d4b7ab488cbc6338ea93f.base.image.jpg",
+      "link": "https://openagenda.com/events/88606159"
+    },
+    {
+      "uid": "60338874",
+      "title": {
+        "fr": "Fourmis"
+      },
+      "description": {
+        "fr": "29 septembre 2026 - 7 mars 2027 Du sous-sol à la cime des arbres, les fourmis peuplent notre environnement et sont plusieurs millions de milliards d’individus sur Terre ! Mais, c’est quoi une fourmi ? Cette exposition vous présente cet insecte et ses incroyables comportements collectifs : sa fascinante organisation, l’importance de son rôle dans les écosystèmes et son pouvoir d’adaptabilité. ​ ​Le billet permet de visiter également l'exposition \"Incroyable Cerveau\". Période scolaire Du mardi au vendredi : visite en continu de 12h à 19h Samedi et dimanche : séances* à 14h30 et 16h45 Vacances scolaires (uniquement en zone B) Du mardi au vendredi : séances* à 10h, 12h15, 14h30 et 16h45 Samedi et dimanche : séances* à 14h30 et 16h45 * Séances de deux heures"
+      },
+      "start": "2026-09-29T12:00:00",
+      "end": "2027-03-07T18:45:00",
+      "location": {
+        "name": "Espace des sciences - Salles d'exposition - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/616be8d882b24248baa0c5596a4dfb8c.base.image.jpg",
+      "link": "https://openagenda.com/events/60338874"
+    },
+    {
       "uid": "32068936",
       "title": {
         "fr": "Visite hors les murs - Les femmes et le procès Dreyfus à Rennes"
@@ -272,54 +320,6 @@
       },
       "image": "https://img.openagenda.com/main/3432e5388e38437daf05e21233f9e498.base.image.jpg",
       "link": "https://openagenda.com/events/92769191"
-    },
-    {
-      "uid": "82908048",
-      "title": {
-        "fr": "Visites des réserves de la bibliothèque des Champs Libres"
-      },
-      "description": {
-        "fr": "19 et 20 septembre A l'occasion des journées du matrimoine et du patrimoine, la bibliothèque ouvre exceptionnellement les portes de ses réserves. découverte des coulisses d'un lieu et des dessous d'un métier avec Sarah Toulouse, conservatrice du fonds patrimonial. ​Dans la limite des places disponibles."
-      },
-      "start": "2026-09-19T14:30:00",
-      "end": "2026-09-20T18:30:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/59dd36bd25f044308b115df2aab7967f.base.image.jpg",
-      "link": "https://openagenda.com/events/82908048"
-    },
-    {
-      "uid": "59595761",
-      "title": {
-        "fr": "Parlons ciné"
-      },
-      "description": {
-        "fr": "1 octobre 2026 - 14 janvier 2027, certains jeudis Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
-      },
-      "start": "2026-10-01T17:30:00",
-      "end": "2027-01-14T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/846adf62ab584518b6fb3266a7307a7f.base.image.jpg",
-      "link": "https://openagenda.com/events/59595761"
-    },
-    {
-      "uid": "23703808",
-      "title": {
-        "fr": "Ni d'Eve ni d'Adam, une histoire intersexe"
-      },
-      "description": {
-        "fr": "Dimanche 13 décembre, 16h00 Deux films qui proposent une réflexion sur la manière dont les personnes intersexuées cherchent à se réapproprier leur corps et à construire leur identité. Dans son film Ni d’Eve, ni d’Adam (58 min), Floriane Devigne suit le parcours de M. et Deborah, qui, comme 1,7% de la population, sont nées intersexuées. Opérées sans consentement pour \"normaliser\" leur corps, elles questionnent aujourd’hui cette violence médicale et la construction de leur identité. Johanna Lagarde, dans Et si on s’en foutait (12 min), rencontre Sasha 3 ans, et ses parents qui ont fait le choix de ne pas l'opérer. Ils désirent que Sasha choisisse son genre, un jour, plus tard, quand il ou elle sera plus grand·e. ​ ​Un doc du dimanche suivi d'une rencontre. Dans le cadre du festival Regard(s)."
-      },
-      "start": "2026-12-13T16:00:00",
-      "end": "2026-12-13T18:00:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/23703808"
     }
   ]
 }
