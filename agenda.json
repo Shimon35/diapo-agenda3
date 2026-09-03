@@ -2,6 +2,246 @@
   "total": 20,
   "events": [
     {
+      "uid": "32068936",
+      "title": {
+        "fr": "Visite hors les murs - Les femmes et le procès Dreyfus à Rennes"
+      },
+      "description": {
+        "fr": "Mardi 22 septembre, 17h45 Lors du procès en révision d'Alfred Dreyfus à Rennes pendant l'été 1899, des femmes ont joué un rôle important. Et pourtant, leur implication dans l'Affaire a été minimisée, voir oubliée par l'histoire. Au premier plan, Lucie Dreyfus, la femme du capitaine. Autour d'elle, engagées pour soutenir la cause de Dreyfus, 3 rennaises et 3 parisiennes. ​ ​A travers une déambulation dans la ville, l'association Histoire du féminisme à Rennes vous emmène sur les pas de ces femmes, pour découvrir leur histoire et leur implication dans l'Affaire. ​ ​Inscription obligatoire jusqu’au 18 septembre à l’adresse suivante en indiquant le nom, prénom, numéro de téléphone et nombre de personnes : histoire.feminisme.rennes@gmail.com"
+      },
+      "start": "2026-09-22T17:45:00",
+      "end": "2026-09-22T19:15:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/b4e054f026734395abf0d3023aca5250.base.image.jpg",
+      "link": "https://openagenda.com/events/32068936"
+    },
+    {
+      "uid": "27656885",
+      "title": {
+        "fr": "Lectures de lettres"
+      },
+      "description": {
+        "fr": "Dimanche 20 septembre, 16h00 Des personnes détenues des centres pénitentiaires pour femmes et pour hommes de Rennes ont participé, en juin, à un projet mené par le Théâtre de l’Imprévu. Alliant écriture et interprétation de lettres fictionnelles aux divers protagonistes de l’Affaire Dreyfus, une partie de ces correspondances sera lue à l’issue de la représentation du spectacle « Si tu veux que je vive, Lucie et Alfred Dreyfus »"
+      },
+      "start": "2026-09-20T16:00:00",
+      "end": "2026-09-20T16:30:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/6d4e202e81144bac8ea1d34d925488fb.base.image.jpg",
+      "link": "https://openagenda.com/events/27656885"
+    },
+    {
+      "uid": "43072460",
+      "title": {
+        "fr": "Visite : l'Affaire Dreyfus à Rennes"
+      },
+      "description": {
+        "fr": "17 - 31 octobre A l'été 1899, le second procès du capitaine Alfred Dreyfus a lieu à Rennes. C'est l'une des affaires judiciaires les plus marquantes de l'histoire de France. À travers des documents d'archives, des journaux d'époque, et quelques objets personnels, la visite retrace les étapes clés de cette affaire qui déchira le pays et marqua un tournant dans l'histoire politique et sociale de la France."
+      },
+      "start": "2026-10-17T14:30:00",
+      "end": "2026-10-31T15:00:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/ace503d451884619aca2043e53c72879.base.image.jpg",
+      "link": "https://openagenda.com/events/43072460"
+    },
+    {
+      "uid": "87217212",
+      "title": {
+        "fr": "Un petit crabe au musée"
+      },
+      "description": {
+        "fr": "20 - 29 octobre Le petit crabe Odorico est un peu timide, il s'est caché dans le musée. Partez à sa recherche en découvrant son histoire à travers les collections du musée. ​ ​Pour les enfants accompagnés de 3 à 5 ans. ​Sans réservation, dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
+      },
+      "start": "2026-10-20T10:30:00",
+      "end": "2026-10-29T11:50:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/20076bd2547d4fa2912e1a19fe789e26.base.image.jpg",
+      "link": "https://openagenda.com/events/87217212"
+    },
+    {
+      "uid": "65476422",
+      "title": {
+        "fr": "La visite qui fait (un peu) peur"
+      },
+      "description": {
+        "fr": "17 - 31 octobre Des rencontres surprenantes, quelques fantômes et revenants… Venez frissonner à travers de mystérieuses légendes de Bretagne, tout en vous amusant en famille lors de cette visite contée ! Dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
+      },
+      "start": "2026-10-17T16:00:00",
+      "end": "2026-10-31T16:45:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/62f7f4d98f7c4930bcfa4c75982f5f1d.base.image.jpg",
+      "link": "https://openagenda.com/events/65476422"
+    },
+    {
+      "uid": "82761416",
+      "title": {
+        "fr": "Visite flash de l'exposition \"La mer jamais ne s'oublie\""
+      },
+      "description": {
+        "fr": "Dimanche 27 septembre, 14h15 L'exposition \"La mer jamais ne s'oublie\" propose une approche à la fois documentaire et poétique de notre rapport à la mer, à sa beauté mais aussi à sa fragilité. Pour le dernier jour d'ouverture, retrouvez Guillaume, médiateur, pour des visites flashs de découverte ou redécouverte de l'exposition."
+      },
+      "start": "2026-09-27T14:15:00",
+      "end": "2026-09-27T18:30:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/72a63a2cc3094aca9366205c6d2fbd17.base.image.jpg",
+      "link": "https://openagenda.com/events/82761416"
+    },
+    {
+      "uid": "47313360",
+      "title": {
+        "fr": "Arpentage Littéraire de \"Ethnographies des mondes à venir\" de Philippe Descola et Alessandro Pignocchi"
+      },
+      "description": {
+        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un dialogue riche \"Ethnographie des mondes à venir\" de Philippe Descola, anthropo Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
+      },
+      "start": "2026-12-04T15:00:00",
+      "end": "2026-12-04T18:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/6968021bd7b04d9e9951fb009b789fbb.base.image.jpg",
+      "link": "https://openagenda.com/events/47313360"
+    },
+    {
+      "uid": "25798343",
+      "title": {
+        "fr": "Boire et manger en Bretagne"
+      },
+      "description": {
+        "fr": "10 et 11 octobre **Au pays du kouign amann, des crêpes et des galettes,** la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
+      },
+      "start": "2026-10-10T16:00:00",
+      "end": "2026-10-11T17:00:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/1ebe2122752d4d02ba7587ec82c43693.base.image.jpg",
+      "link": "https://openagenda.com/events/25798343"
+    },
+    {
+      "uid": "4146535",
+      "title": {
+        "fr": "Lecture de ouf signées"
+      },
+      "description": {
+        "fr": "Samedi 17 octobre, 15h00 Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
+      },
+      "start": "2026-10-17T15:00:00",
+      "end": "2026-10-17T15:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/4146535"
+    },
+    {
+      "uid": "23945051",
+      "title": {
+        "fr": "Projection en audio-description"
+      },
+      "description": {
+        "fr": "25 septembre - 11 décembre, certains vendredis Projection de films Un vendredi par mois, profitez d'une séance de cinéma en audio-description, accessible aux aveugles et malvoyants. Au programme : une sélection de films français récents. Pour connaître la programmation, adressez-vous à l'accueil."
+      },
+      "start": "2026-09-25T15:00:00",
+      "end": "2026-12-11T17:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/23945051"
+    },
+    {
+      "uid": "5423950",
+      "title": {
+        "fr": "Les vidéos du mercredi"
+      },
+      "description": {
+        "fr": "21 octobre 2026 - 28 avril 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
+      },
+      "start": "2026-10-21T10:30:00",
+      "end": "2027-04-28T11:15:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/8d74fc80f3e444f0a7ca2e06f96f25bd.base.image.jpg",
+      "link": "https://openagenda.com/events/5423950"
+    },
+    {
+      "uid": "46561996",
+      "title": {
+        "fr": "Les vidéos du mercredi"
+      },
+      "description": {
+        "fr": "2 septembre 2026 - 16 juin 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
+      },
+      "start": "2026-09-02T15:30:00",
+      "end": "2027-06-16T16:15:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/08d809154f9748dfabb476587fcee6d6.base.image.jpg",
+      "link": "https://openagenda.com/events/46561996"
+    },
+    {
+      "uid": "76491557",
+      "title": {
+        "fr": "Bons baisers des grèves"
+      },
+      "description": {
+        "fr": "Dimanche 8 novembre, 16h00 De 1905 à 1912, la France est secouée par une vague de conflits sociaux et le syndicalisme naissant invente de nouveaux modes d’action. De 1905 à 1912, la France est secouée par une vague de conflits sociaux. Les grèves sont dures et violemment réprimées. De Limoges à Courrières en passant par Fougères, un jeune photographe parcourt cette France industrieuse en colère et diffuse ses photographies au plus grand nombre grâce à un média visuel populaire : la carte postale. ​ Un doc du dimanche suivi d’une rencontre avec Philippe Baron , le réalisateur (2025, 52 min, Vivement Lundi !)."
+      },
+      "start": "2026-11-08T16:00:00",
+      "end": "2026-11-08T17:30:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/17a22484c3fd40098b77c8927750c7ec.base.image.jpg",
+      "link": "https://openagenda.com/events/76491557"
+    },
+    {
+      "uid": "30448176",
+      "title": {
+        "fr": "Les tout P'tits RDV du matin"
+      },
+      "description": {
+        "fr": "23 octobre 2026 - 30 avril 2027, certains vendredis Le Tout p'tit rdv du matin, c'est le rendez-vous des 0-3 ans : lectures, comptines et chansons pour les tout-petits. Sur inscription à l'espace Chez les enfants ou par téléphone au 02 23 40 66 97 sur les heures d'ouverture de la bibliothèque."
+      },
+      "start": "2026-10-23T10:15:00",
+      "end": "2027-04-30T11:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/30448176"
+    },
+    {
+      "uid": "79717146",
+      "title": {
+        "fr": "Les P'tits RDV du matin"
+      },
+      "description": {
+        "fr": "20 octobre 2026 - 29 avril 2027 Un rendez-vous où découvertes graphiques et ludiques sont proposées par les bibliothécaires. Pour les enfants à partir de 6 ans accompagnés d'un adulte. Sous réserve des places disponibles."
+      },
+      "start": "2026-10-20T10:30:00",
+      "end": "2027-04-29T12:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/2860f14dbb17438b819719d5368165bc.base.image.jpg",
+      "link": "https://openagenda.com/events/79717146"
+    },
+    {
       "uid": "87440664",
       "title": {
         "fr": "Lectures de Ouf - chez les enfants"
@@ -80,246 +320,6 @@
       },
       "image": null,
       "link": "https://openagenda.com/events/23703808"
-    },
-    {
-      "uid": "28912915",
-      "title": {
-        "fr": "Pochettes [Vinyles] Surprises"
-      },
-      "description": {
-        "fr": "Jeudi 10 décembre, 17h30 Des pépites, des coups de cœur, de la convivialité ! Un rendez-vous participatif animé par les bibliothécaires pour échanger sur la musique et tout particulièrement sur le vinyle ! ​Des albums, des pochettes mythiques, une anecdote musicale, un concert : venez parler de vos disques ou de ceux de la bibliothèque, et partager un moment d'écoute !"
-      },
-      "start": "2026-12-10T17:30:00",
-      "end": "2026-12-10T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/6b6c231d20764fc88772b2efaf9cbccd.base.image.jpg",
-      "link": "https://openagenda.com/events/28912915"
-    },
-    {
-      "uid": "87536647",
-      "title": {
-        "fr": "Pochettes [Vinyles] Surprises"
-      },
-      "description": {
-        "fr": "Jeudi 26 novembre, 17h30 Des pépites, des coups de cœur, de la convivialité ! Un rendez-vous participatif animé par les bibliothécaires pour échanger sur la musique et tout particulièrement sur le vinyle ! ​Des albums, des pochettes mythiques, une anecdote musicale, un concert : venez parler de vos disques ou de ceux de la bibliothèque, et partager un moment d'écoute !"
-      },
-      "start": "2026-11-26T17:30:00",
-      "end": "2026-11-26T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/7f5f1b686cee4e44a7c0e411ac6aa70f.base.image.jpg",
-      "link": "https://openagenda.com/events/87536647"
-    },
-    {
-      "uid": "74652958",
-      "title": {
-        "fr": "Pochettes [Vinyles] Surprises"
-      },
-      "description": {
-        "fr": "Jeudi 8 octobre, 17h30 Des pépites, des coups de cœur, de la convivialité ! Un rendez-vous participatif animé par les bibliothécaires pour échanger sur la musique et tout particulièrement sur le vinyle ! ​Des albums, des pochettes mythiques, une anecdote musicale, un concert : venez parler de vos disques ou de ceux de la bibliothèque, et partager un moment d'écoute !"
-      },
-      "start": "2026-10-08T17:30:00",
-      "end": "2026-10-08T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/50293e31d2ba470ebb50e89f1e8ba36c.base.image.jpg",
-      "link": "https://openagenda.com/events/74652958"
-    },
-    {
-      "uid": "42187904",
-      "title": {
-        "fr": "Parlons BD !"
-      },
-      "description": {
-        "fr": "24 septembre 2026 - 13 mai 2027, certains jeudis Dans une ambiance conviviale et participative, parlons BD ! Venez découvrir les derniers coups de cœur BD des bibliothécaires des Champs Libres : nouveautés, rééditions, romans graphiques, comics ou mangas."
-      },
-      "start": "2026-09-24T17:30:00",
-      "end": "2027-05-13T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 4e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/0d08f12fc75c4574b33e24bad68b844c.base.image.jpg",
-      "link": "https://openagenda.com/events/42187904"
-    },
-    {
-      "uid": "81328887",
-      "title": {
-        "fr": "Menus plaisirs - Les Troisgros"
-      },
-      "description": {
-        "fr": "Dimanche 11 octobre, 14h15 Fondée en 1930, la maison Troisgros détient trois étoiles Michelin depuis 55 ans. Enfants de la quatrième génération, les fils de Marie-Pierre et Michel poursuivent la voie de l'entreprise familiale ; César dirige le restaurant étoilé, Le Bois sans Feuilles , et Léo est à la tête de l'un des deux autres restaurants Troisgros : la Colline du Colombier . ​ Du marché aux caves d’affinage du fromage, en passant par le vignoble, l'élevage bovin et le potager, Menus-Plaisirs est un voyage intime et sensoriel dans les cuisines d’un des plus prestigieux restaurants du monde. ​ ​Un film de Frederick Wiseman, 4h, 2023, Météore Films. Le film est projeté en deux parties, avec une pause au milieu : 14h15 à 16h15 et 16h30 à 18h30."
-      },
-      "start": "2026-10-11T14:15:00",
-      "end": "2026-10-11T18:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/3774ba37f4a14612ac0fcdb94d4639b4.base.image.jpg",
-      "link": "https://openagenda.com/events/81328887"
-    },
-    {
-      "uid": "39874729",
-      "title": {
-        "fr": "Le cueilleur de mémoire"
-      },
-      "description": {
-        "fr": "Dimanche 4 octobre, 16h00 À l’heure de léguer 70 ans d’images personnelles à la Cinémathèque de Bretagne, Gilbert Nexer, cinéaste amateur, se souvient de sa vie. Un film en forme de voyage dans les différentes strates temporelles d’une mémoire humaine et d’un village, celui de Locmaria, sur l’île de Groix, (Morbihan). ​ Un doc du dimanche suivi d’une rencontre avec le réalis ateur Samuel Poisson-Quinton et Gilbert Nexer **(**Samuel Poisson-Quinton, 2025, 62 min, Les 48° Rugissants). ​​En partenariat avec la Cinémathèque de Bretagne."
-      },
-      "start": "2026-10-04T16:00:00",
-      "end": "2026-10-04T17:45:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/876eed24da3a48d3b338e9f93419be0a.base.image.jpg",
-      "link": "https://openagenda.com/events/39874729"
-    },
-    {
-      "uid": "13873762",
-      "title": {
-        "fr": "Nuestra Tierra"
-      },
-      "description": {
-        "fr": "Dimanche 18 octobre, 16h00 Argentine, 2009. Trois hommes blancs tentent d'expulser les membres de la communauté autochtone Chuschagasta, revendiquant la propriété des terres. Armés, ils tuent le chef de la communauté, Javier Chocobar. Le meurtre est filmé. En 2018, après neuf ans d’impunité et des siècles d’histoire coloniale, le procès s’ouvre. ​ ​Un doc du dimanche suivi d'une rencontre avec Christophe Giudicelli ,professeur d’histoire et de civilisation latino-américaine à Sorbonne-Université, spécialiste de l’Argentine. ​ ​Dans le cadre du cycle Justice(s) en partenariat avec la Cinémathèque de Bretagne (Lucrecia Martel, 2025, 2h02 min, Argentine, Météore Films, vostfr)."
-      },
-      "start": "2026-10-18T16:00:00",
-      "end": "2026-10-18T18:40:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e4ac891350ca406482fb80617d23573b.base.image.jpg",
-      "link": "https://openagenda.com/events/13873762"
-    },
-    {
-      "uid": "40962340",
-      "title": {
-        "fr": "Citizenfour"
-      },
-      "description": {
-        "fr": "Dimanche 27 septembre, 16h00 En 2013, Edward Snowden déclenche l’un des plus grands séismes politiques aux Etats-Unis en révélant des documents secret-défense de la NSA. Sous le nom le code « CITIZENFOUR », il contacte la documentariste américaine Laura Poitras. Celle-ci le rejoint à Hong Kong et réalise en temps réel ce triller documentaire historique qui éclaire les arcanes d’une affaire politique, informatique et judiciaire. ​Le film a obtenu l’oscar du meilleur film documentaire en 2015. ​ ​Un doc du Dimanche suivi d'une rencontre avec Christian Vigouroux, conseiller d’État honoraire et animé par Mirabelle Fréville. Christian Vigouroux est l'auteur de Georges Picquart, dreyfusard, proscrit, ministre : La justice par l'exactitude (Dalloz, 2008). ​ En partenariat avec la Cinémathèque de Bretagne, dans le cadre du cycle Justice(s) . (Laura Poitras, 1h45, 2014, Praxis Film, vostfr)"
-      },
-      "start": "2026-09-27T16:00:00",
-      "end": "2026-09-27T18:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/b0ff6b1a8c5b487aa25ee649571b766c.base.image.jpg",
-      "link": "https://openagenda.com/events/40962340"
-    },
-    {
-      "uid": "32706973",
-      "title": {
-        "fr": "L'affaire Dreyfus et le procès du siècle"
-      },
-      "description": {
-        "fr": "Dimanche 20 septembre, 16h30 L’affaire Dreyfus débute en 1894, par l’arrestation du Capitaine Alfred Dreyfus, accusé de haute trahison puis condamné. Elle se termine officiellement en 1906 par la réhabilitation d’Alfred Dreyfus. Mais que sait-on exactement de l’Affaire ? Pourquoi le procès du siècle s’est-il tenu à Rennes ? ​ ​ André Hélard et Philippe Oriol , historiens, racontent ce long combat de 12 années durant lesquelles Alfred Dreyfus n’a cessé de démontrer son innocence, face à cette terrible machination politico-judiciaire dont il a été victime. ​ ​Rencontre animée par Arnaud Wassmer, dans le cadre des Journées européennes du matrimoine et du patrimoine. ​Suivie d'une séance de dédicace."
-      },
-      "start": "2026-09-20T16:30:00",
-      "end": "2026-09-20T18:00:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/5e665434c4464329a26722441f5d8480.base.image.jpg",
-      "link": "https://openagenda.com/events/32706973"
-    },
-    {
-      "uid": "13388153",
-      "title": {
-        "fr": "L'affaire Dreyfus, un héritage"
-      },
-      "description": {
-        "fr": "Samedi 19 septembre, 14h30 Comment l’affaire Dreyfus a-t-elle traversé le 20ᵉ siècle et pourquoi nous parle-t-elle encore aujourd’hui ? Alors qu'Alfred Dreyfus a été élevé au rang de général en 2025, l'Affaire continue de nourrir notre réflexion sur la justice, la vérité, l’antisémitisme et la démocratie. ​ ​Entre mémoire, oubli, polémiques et réappropriations, l'historienne et philosophe de l'histoire Perrine Simon-Nahum et l’historien et académicien Pascal Ory décryptent la longue histoire de l’héritage dreyfusard, de la réhabilitation d’Alfred Dreyfus jusqu’à nos jours. ​​ ​Rencontre animée par Arnaud Wassmer, dans le cadre des Journées européennes du matrimoine et du patrimoine. ​Suivie d'une séance de dédicace."
-      },
-      "start": "2026-09-19T14:30:00",
-      "end": "2026-09-19T16:00:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/666e4d5c6bf048c3a7df991802b2572f.base.image.jpg",
-      "link": "https://openagenda.com/events/13388153"
-    },
-    {
-      "uid": "75332928",
-      "title": {
-        "fr": "L'affaire Dreyfus au cinéma"
-      },
-      "description": {
-        "fr": "Samedi 19 septembre, 16h30 Des débuts du cinéma à aujourd'hui, comment les réalisateurs se sont-ils emparés de l’Affaire et de la figure d’Alfred Dreyfus ? Dès l’automne 1899, juste après le procès de Rennes, Georges Mélies tourne un film ouvertement dreyfusard qui reconstitue l’affaire Dreyfus. Après lui, d’autres cinéastes ont manifesté un intérêt pour l’Affaire tout au long du siècle. ​ Erwan Cadoret , enseignant-chercheur en cinéma, explore la façon dont elle a été traitée au cinéma. ​ Animée par Arnaud Wassmer. Dans le cadre des Journées européennes du matrimoine et du patrimoine, en partenariat avec l’association Clair Obscur."
-      },
-      "start": "2026-09-19T16:30:00",
-      "end": "2026-09-19T17:45:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/55e48a491818488e96cd0c15b67cf94a.base.image.jpg",
-      "link": "https://openagenda.com/events/75332928"
-    },
-    {
-      "uid": "27684352",
-      "title": {
-        "fr": "Les troubles Dys, enquête et témoignages avec Elvire Cassan"
-      },
-      "description": {
-        "fr": "Vendredi 25 septembre, 17h30 **Journaliste et productrice pour France Culture, Elvire Cassan enquête** depuis plusieurs années sur le handicap et la neurodiversité. Autrice de la série documentaire Une vie de dys et du livre Troubles dys : des vies à inventer , elle évoque les défis rencontrés par les personnes dys et leurs familles, ainsi que les impacts de ces troubles sur les parcours scolaires, professionnels et familiaux. Rencontre suivie d’un échange et d’une séance de dédicaces, avec la librairie La Rencontre."
-      },
-      "start": "2026-09-25T17:30:00",
-      "end": "2026-09-25T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/10cd756e7b48444d97b24499172e0550.base.image.jpg",
-      "link": "https://openagenda.com/events/27684352"
-    },
-    {
-      "uid": "46926012",
-      "title": {
-        "fr": "Et vous, vous êtes plutôt crêpes ou galettes ?"
-      },
-      "description": {
-        "fr": "Samedi 10 octobre, 16h30 Alain-Gilles Chaussat, docteur en histoire rurale et directeur de l’Écomusée de la Bintinais, nous dévoile tous les secrets du sarrasin. Introduit dans l’ouest de la France au 15e siècle, le sarrasin devient la principale culture et denrée alimentaire à partir du 17e siècle. Rencontre avec le directeur de l’Écomusée de la Bintinais pour tout savoir sur l’origine de cette plante, son introduction, sa diffusion ou encore ses formes de consommation. Le blé noir n’aura plus aucun secret pour vous. ​ Rencontre suivie d’une séance de dédicaces. Dans le cadre de la Fête de la Science."
-      },
-      "start": "2026-10-10T16:30:00",
-      "end": "2026-10-10T18:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/d44d598148504560bfb8fe94a6e32aa7.base.image.jpg",
-      "link": "https://openagenda.com/events/46926012"
-    },
-    {
-      "uid": "57559895",
-      "title": {
-        "fr": "Visites flash « L’affaire Dreyfus à Rennes »"
-      },
-      "description": {
-        "fr": "19 et 20 septembre Été 1899. Rennes vit sous une tension extrême tandis que journalistes, militants et curieux affluent pour suivre le procès en révision du capitaine Dreyfus. En 1894, un premier procès l’a condamné pour trahison : coupable « idéal » dans un contexte marqué par un fort antisémitisme, Alfred Dreyfus est en réalité victime d’une machination judiciaire. Venez découvrir la nouvelle exposition du Musée de Bretagne avec des visites flash tout au long de l'après-midi."
-      },
-      "start": "2026-09-19T14:30:00",
-      "end": "2026-09-20T17:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/8db579b0eb184a98ab5a4be738caa927.base.image.jpg",
-      "link": "https://openagenda.com/events/57559895"
-    },
-    {
-      "uid": "18332458",
-      "title": {
-        "fr": "Visite des réserves du Musée de Bretagne"
-      },
-      "description": {
-        "fr": "Dimanche 20 septembre, 14h15, 15h45, 17h15 Le Musée de Bretagne ouvre exceptionnellement les portes de ses réserves et vous invite à découvrir les coulisses des collections. Près d’un million d’objets et de documents sont conservés dans les réserves du musée. De la réserve des textiles aux arts graphiques, en passant par la photographie, découvrez ces espaces habituellement fermés au public."
-      },
-      "start": "2026-09-20T14:15:00",
-      "end": "2026-09-20T18:15:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/04e2a9a27dff49e084b1b6e570aa4612.base.image.jpg",
-      "link": "https://openagenda.com/events/18332458"
     }
   ]
 }
