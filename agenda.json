@@ -14,7 +14,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0cb004d3c70f4e9ab5cd29cec79f24c7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/762658860ca14eaaa953f85904382d7d.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -30,7 +30,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a176d0bcd5c948f39fe00c2df542da92.base.image.jpg",
+      "image": "https://img.openagenda.com/main/07846e9a0acf491a9d643994816a69ba.base.image.jpg",
       "link": "https://openagenda.com/events/32068936"
     },
     {
@@ -46,7 +46,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/9f411dea83de4dee933ace50bb8a5f59.base.image.jpg",
+      "image": "https://img.openagenda.com/main/44735087c2a74f179389e66dfc5e395e.base.image.jpg",
       "link": "https://openagenda.com/events/27656885"
     },
     {
@@ -62,7 +62,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/62cbd08c481745a09830ca8a223b9655.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a9333f9aa4a1489799653135de53fe56.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -78,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/25a713d6d06f4f729aa8a7f5ba682fc8.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c28297d136f64f8fa55c01ab4069bc1f.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -94,7 +94,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6f06b418a3f0433ba4ffbca6b4e20c74.base.image.jpg",
+      "image": "https://img.openagenda.com/main/703114ce715f4e0597b7a8b93e209984.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -110,7 +110,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3f66a043e0f94a9b92725900945a62e1.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9f0845dff70a426fa957bad0a58b600b.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
     },
     {
@@ -126,7 +126,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/53a861be11bd428ab698cef811c7c43e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/09c2e25f48ee48d09840165721debdea.base.image.jpg",
       "link": "https://openagenda.com/events/47313360"
     },
     {
@@ -142,7 +142,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6074c7d3de7c4382b87c10368ae63922.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d62aa3c9727e435fb2e8458e12f2b1de.base.image.jpg",
       "link": "https://openagenda.com/events/25798343"
     },
     {
@@ -162,22 +162,6 @@
       "link": "https://openagenda.com/events/4146535"
     },
     {
-      "uid": "5423950",
-      "title": {
-        "fr": "Les vidéos du mercredi"
-      },
-      "description": {
-        "fr": "21 octobre 2026 - 28 avril 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
-      },
-      "start": "2026-10-21T10:30:00",
-      "end": "2027-04-28T11:15:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/5d763111ae2540078448fcf9ddf01f52.base.image.jpg",
-      "link": "https://openagenda.com/events/5423950"
-    },
-    {
       "uid": "23945051",
       "title": {
         "fr": "Projection en audio-description"
@@ -194,6 +178,22 @@
       "link": "https://openagenda.com/events/23945051"
     },
     {
+      "uid": "5423950",
+      "title": {
+        "fr": "Les vidéos du mercredi"
+      },
+      "description": {
+        "fr": "21 octobre 2026 - 28 avril 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
+      },
+      "start": "2026-10-21T10:30:00",
+      "end": "2027-04-28T11:15:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/0e7ecd78b7d14bb6901e24c31879cff8.base.image.jpg",
+      "link": "https://openagenda.com/events/5423950"
+    },
+    {
       "uid": "46561996",
       "title": {
         "fr": "Les vidéos du mercredi"
@@ -206,7 +206,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/07a2653e19274b61b92ddd518f47acda.base.image.jpg",
+      "image": "https://img.openagenda.com/main/550cdca3bf034ebcb9471c56502c8d94.base.image.jpg",
       "link": "https://openagenda.com/events/46561996"
     },
     {
@@ -222,7 +222,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c80736a50e9541d7b5dfe5282b8b5bd0.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e9df89be07a44495b806e267a59ba50b.base.image.jpg",
       "link": "https://openagenda.com/events/76491557"
     },
     {
@@ -254,8 +254,24 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7d996ba7923046e8a71a16d678a4d11e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9c76cb9e2e0146b0bd87cf774844e767.base.image.jpg",
       "link": "https://openagenda.com/events/79717146"
+    },
+    {
+      "uid": "61900840",
+      "title": {
+        "fr": "Jouer, colorier, créer"
+      },
+      "description": {
+        "fr": "19 et 20 septembre Venez jouer en famille avec des ateliers inspirés des collections de la Bibliothèque et du Musée de Bretagne : puzzles, coloriages,réalisation de vitraux sur rhodoïd, jeux..."
+      },
+      "start": "2026-09-19T14:00:00",
+      "end": "2026-09-20T18:45:00",
+      "location": {
+        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/54c6b680a15341a1ac3a9935c0e5bfdc.base.image.jpg",
+      "link": "https://openagenda.com/events/61900840"
     },
     {
       "uid": "87440664",
@@ -270,7 +286,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b69b964ab9894bbfbe34b3b8acaca48f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/16cce973d89043abbdf99d602218e763.base.image.jpg",
       "link": "https://openagenda.com/events/87440664"
     },
     {
@@ -286,7 +302,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - L'escalier - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2f3ec6f64a8947e7a82cee3c38f73653.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f7c1b7b104324e37bd1941f64a4af101.base.image.jpg",
       "link": "https://openagenda.com/events/92769191"
     },
     {
@@ -302,24 +318,8 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/517dbb25d0a241d2b9bc99df5c42d928.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bdd6fe0e2e4d4e9aabb70c475a6c51a3.base.image.jpg",
       "link": "https://openagenda.com/events/82908048"
-    },
-    {
-      "uid": "59595761",
-      "title": {
-        "fr": "Parlons ciné"
-      },
-      "description": {
-        "fr": "1 octobre 2026 - 14 janvier 2027, certains jeudis Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
-      },
-      "start": "2026-10-01T17:30:00",
-      "end": "2027-01-14T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e98a84a4d930461fa73851be2fcd5fbc.base.image.jpg",
-      "link": "https://openagenda.com/events/59595761"
     }
   ]
 }
