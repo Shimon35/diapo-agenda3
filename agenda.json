@@ -2,22 +2,6 @@
   "total": 20,
   "events": [
     {
-      "uid": "19385202",
-      "title": {
-        "fr": "Les pouvoirs insoupçonnés des aliments fermentés"
-      },
-      "description": {
-        "fr": "10 et 11 octobre De la transformation du lait en fromage à de nouvelles possibilités pour les aliments végétaux, la fermentation pourrait bien révolutionner notre manière de manger. Pour tout savoir sur ce sujet fascinant. Ne manquez pas l'escape game « Aux petits bocaux » ! Plongez dans une aventure originale : un chef étoilé a besoin de vous pour sauver son plat signature, menacé par une rupture de produits fermentés. Votre mission ? Comprendre les secrets de la fermentation, résoudre des énigmes et recréer les ingrédients indispensables… en seulement 15 minutes ! Une activité qui promet suspense, découvertes et rires en famille ou entre amis. Organisation et animation par des chercheurs de l’INRAE"
-      },
-      "start": "2026-10-10T14:00:00",
-      "end": "2026-10-11T19:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e7831c0ecbce4ae899b3fbea7627e229.base.image.jpg",
-      "link": "https://openagenda.com/events/19385202"
-    },
-    {
       "uid": "78620219",
       "title": {
         "fr": "Le Monde invisible - Flavien Théry & Fred Murie"
@@ -30,7 +14,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/482a2a2346504252af7958e5aa48bf07.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6d850c259b67434bb959c23188d58422.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -46,7 +30,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3c0c144e0a58404bbb25ed9f0df0d80b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d6ef748d23344efc8881e08fb4954095.base.image.jpg",
       "link": "https://openagenda.com/events/32068936"
     },
     {
@@ -62,7 +46,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/5dead88382cf4e78b7b2d7e15da4af04.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c31a095701f84e42bb3c30dc555c6d81.base.image.jpg",
       "link": "https://openagenda.com/events/27656885"
     },
     {
@@ -78,7 +62,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/1419821785844d5380444b86e5987b68.base.image.jpg",
+      "image": "https://img.openagenda.com/main/00794187d6c749a4810b1eb500a8a23e.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -94,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c44c3aacef9c41e3ae565a9c8e7e6f37.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4b9650a392c940488ddf24357e7915ec.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -110,7 +94,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b8e9f8ebf438464ca8e1de6b397c09f5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/ee150ee94eb94760a48d5c672964e4b3.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -126,8 +110,24 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/35eee748b942462293f1b650d6991f33.base.image.jpg",
+      "image": "https://img.openagenda.com/main/32e7af32aad54c829496fc0ce933ab3c.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
+    },
+    {
+      "uid": "19385202",
+      "title": {
+        "fr": "Les pouvoirs insoupçonnés des aliments fermentés"
+      },
+      "description": {
+        "fr": "10 et 11 octobre De la transformation du lait en fromage à de nouvelles possibilités pour les aliments végétaux, la fermentation pourrait bien révolutionner notre manière de manger. Pour tout savoir sur ce sujet fascinant. Ne manquez pas l'escape game « Aux petits bocaux » ! Plongez dans une aventure originale : un chef étoilé a besoin de vous pour sauver son plat signature, menacé par une rupture de produits fermentés. Votre mission ? Comprendre les secrets de la fermentation, résoudre des énigmes et recréer les ingrédients indispensables… en seulement 15 minutes ! Une activité qui promet suspense, découvertes et rires en famille ou entre amis. Organisation et animation par des chercheurs de l’INRAE"
+      },
+      "start": "2026-10-10T14:00:00",
+      "end": "2026-10-11T19:00:00",
+      "location": {
+        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/4e41fd31c53b47bb982946215b72ef8b.base.image.jpg",
+      "link": "https://openagenda.com/events/19385202"
     },
     {
       "uid": "47313360",
@@ -142,7 +142,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/47c2d1270f7f4bfdb05869fa1eb18ad0.base.image.jpg",
+      "image": "https://img.openagenda.com/main/48a09e2c15fb4d36b02df1b479eac032.base.image.jpg",
       "link": "https://openagenda.com/events/47313360"
     },
     {
@@ -158,7 +158,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/15e2d8da97f24de4a76446e50fe407e9.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4c5d6f10e593476bb3d428afae9a41d6.base.image.jpg",
       "link": "https://openagenda.com/events/25798343"
     },
     {
@@ -206,7 +206,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d29e9e5fe4924f7f9154ef2afa44b44b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f1e9eda91f294fedb30681b22ae49c9c.base.image.jpg",
       "link": "https://openagenda.com/events/5423950"
     },
     {
@@ -222,7 +222,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/045e0a0149fe45a3af9fe5f21cd2de1b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/008eaab8f4334b038863aa94864a844a.base.image.jpg",
       "link": "https://openagenda.com/events/46561996"
     },
     {
@@ -238,7 +238,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/210e7cf7d256479d9380fd2b521798a4.base.image.jpg",
+      "image": "https://img.openagenda.com/main/86056b563078462dae7d75cf06588995.base.image.jpg",
       "link": "https://openagenda.com/events/76491557"
     },
     {
@@ -270,7 +270,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/aedfd5fbae0c4f74b55a6bfda8013247.base.image.jpg",
+      "image": "https://img.openagenda.com/main/93187cc646d94019aaad6285521e5796.base.image.jpg",
       "link": "https://openagenda.com/events/79717146"
     },
     {
@@ -286,7 +286,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/62b9757aca694cbda66a485094a371a6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/cc150e4a8d784cd4a8ab63069ee837c4.base.image.jpg",
       "link": "https://openagenda.com/events/87440664"
     },
     {
@@ -302,7 +302,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/9d447bcf374a4b67866d00715cad163a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5247aba7e81e4ae684e24c21253efd3a.base.image.jpg",
       "link": "https://openagenda.com/events/61900840"
     },
     {
@@ -318,7 +318,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - L'escalier - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2dfed51fab4b4c6b9f0f8bcee489ac6a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5a6eaae8fe204be5ab29ac4034696d0c.base.image.jpg",
       "link": "https://openagenda.com/events/92769191"
     }
   ]
