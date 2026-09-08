@@ -2,22 +2,6 @@
   "total": 20,
   "events": [
     {
-      "uid": "30188391",
-      "title": {
-        "fr": "RDV4C Club de lecture féministe"
-      },
-      "description": {
-        "fr": "9 septembre 2026 - 9 juin 2027, certains mercredis Partager des lectures qui nourrissent nos réflexions féministes. Pour toutes personnes curieuses et sympathiques. Partager des lectures qui nourrissent nos réflexions féministes. Pour toutes personnes curieuses et sympathiques. ​ Quand ? ​Les 2èmes mercredis du mois à 18h30 ​ ​Où ? Petit Salon du Café des Champs Libres"
-      },
-      "start": "2026-09-09T18:30:00",
-      "end": "2027-06-09T20:00:00",
-      "location": {
-        "name": "Petit salon du café - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/c0f1dba1262749b9853e2ab3b7fd9926.base.image.jpg",
-      "link": "https://openagenda.com/events/30188391"
-    },
-    {
       "uid": "24968895",
       "title": {
         "fr": "Les soutiens anonymes de Lucie et Alfred Dreyfus - lectures"
@@ -62,7 +46,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/613559decd1d4fde9026715702a5ec2f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/77edbc07c4fe45f6aa8a55b475a556f2.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -78,7 +62,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/faad0d8b9fd349ea81e8d506b6962893.base.image.jpg",
+      "image": "https://img.openagenda.com/main/38311a71311b4d3ab488054e064f014b.base.image.jpg",
       "link": "https://openagenda.com/events/32068936"
     },
     {
@@ -94,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c85f253f97f140a8bac86416e525801f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7ae18eb211014e0bbbf3d668fd653068.base.image.jpg",
       "link": "https://openagenda.com/events/27656885"
     },
     {
@@ -110,7 +94,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/e6687e82788d44feb471ef1678ba2edf.base.image.jpg",
+      "image": "https://img.openagenda.com/main/1c6bfbed7cf44c34a505fbe7063c8a09.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -126,7 +110,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6f315d5537d84e52b68a4639946163b3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8cd0ff185190424785f55a531971696f.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -142,7 +126,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f79be0c9325c4f5a8a803fc2ce27bce7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d7eec216070d42c981f1deac33415b2d.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -158,8 +142,24 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0a3cd51a36154f56b2a1a87e4604f661.base.image.jpg",
+      "image": "https://img.openagenda.com/main/33400ee425334cabaf6d0ec401334075.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
+    },
+    {
+      "uid": "82924830",
+      "title": {
+        "fr": "Le Rallye de l'énergie : sur la piste du réseau de chaleur caché"
+      },
+      "description": {
+        "fr": "Mercredi 7 octobre, 14h00 Enersud et l’Agence Locale de l’Energie et du Climat du Pays de Rennes vous proposent de partir à l’aventure et d’enquêter, le temps d’un après-midi. Votre mission sera de partir à la recherche du réseau de chaleur Sud de Rennes Métropole : un véritable labyrinthe d’infrastructures qui réchauffent des logements, piscines, écoles ou encore des locaux d’entreprises à travers la ville. Toutefois, cette quête s’annonce semée d’embuches : malgré sa taille colossale, ce réseau demeure mystérieusement introuvable ! Seul ou à plusieurs, saurez-vous relever les énigmes et percer tous les mystères qui entourent cette installation ? ​Départs à 14h, 15h et 16h ​ ​Inscription conseillée ​ https://www.helloasso.com/associations/alec-du-pays-de-rennes/evenements/rallye-de-l-energie-aux-champs-libres"
+      },
+      "start": "2026-10-07T14:00:00",
+      "end": "2026-10-07T17:00:00",
+      "location": {
+        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/bc7a3a7aa5ac4a939a0fff485f1b0158.base.image.jpg",
+      "link": "https://openagenda.com/events/82924830"
     },
     {
       "uid": "19385202",
@@ -174,7 +174,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/666112405ed74245bc0b19b23d6c9ad9.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a2668b58a3a745729fb8442a953caad3.base.image.jpg",
       "link": "https://openagenda.com/events/19385202"
     },
     {
@@ -190,7 +190,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d947028ce6bf4c0887ad13c39013e819.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a53158732aed4e769deb0fec14a50247.base.image.jpg",
       "link": "https://openagenda.com/events/47313360"
     },
     {
@@ -206,7 +206,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d000c0e282e94d3f90a6513218d1d6e4.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5c6455206c7341eab81be12e4e46effd.base.image.jpg",
       "link": "https://openagenda.com/events/25798343"
     },
     {
@@ -254,7 +254,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0241a45873b74064b78ced587a5d9c91.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c49f75bedbc44f7a902267bc113f52aa.base.image.jpg",
       "link": "https://openagenda.com/events/5423950"
     },
     {
@@ -270,7 +270,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/962c3a050894446cb8e1ee13aeb4b0ab.base.image.jpg",
+      "image": "https://img.openagenda.com/main/80f4a4232e8c4b78ade03efb78cc6bab.base.image.jpg",
       "link": "https://openagenda.com/events/46561996"
     },
     {
@@ -286,7 +286,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/94dd1bd0875c460d89cd74efbb85f30f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8f6c7762abe84420af13caeed64fcaf1.base.image.jpg",
       "link": "https://openagenda.com/events/76491557"
     },
     {
@@ -318,7 +318,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/09d0b60604294aeda981a72e38425891.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5b08b676b53b4b00a1650b6ef7554e7c.base.image.jpg",
       "link": "https://openagenda.com/events/79717146"
     }
   ]
