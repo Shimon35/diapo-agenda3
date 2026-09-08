@@ -2,6 +2,54 @@
   "total": 20,
   "events": [
     {
+      "uid": "30188391",
+      "title": {
+        "fr": "RDV4C Club de lecture féministe"
+      },
+      "description": {
+        "fr": "9 septembre 2026 - 9 juin 2027, certains mercredis Partager des lectures qui nourrissent nos réflexions féministes. Pour toutes personnes curieuses et sympathiques. Partager des lectures qui nourrissent nos réflexions féministes. Pour toutes personnes curieuses et sympathiques. ​ Quand ? ​Les 2èmes mercredis du mois à 18h30 ​ ​Où ? Petit Salon du Café des Champs Libres"
+      },
+      "start": "2026-09-09T18:30:00",
+      "end": "2027-06-09T20:00:00",
+      "location": {
+        "name": "Petit salon du café - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/c0f1dba1262749b9853e2ab3b7fd9926.base.image.jpg",
+      "link": "https://openagenda.com/events/30188391"
+    },
+    {
+      "uid": "24968895",
+      "title": {
+        "fr": "Les soutiens anonymes de Lucie et Alfred Dreyfus - lectures"
+      },
+      "description": {
+        "fr": "Samedi 19 septembre, 15h00, 16h00, 17h00 Entre 1898 et 1899, Lucie et Alfred Dreyfus ont reçu des milliers de lettres, cartes postales et télégrammes de soutien. Ils ont également correspondu ensemble pendant toute la durée de la détention d'Alfred Dreyfus. Tout au long de l'après-midi, les élèves de la section Théâtre du Conservatoire Régional de Rennes vous invitent à plonger dans cette correspondance poignante à travers des lectures à haute voix . ​ ​L’occasion d’écouter quelques-unes de ces lettres, parmi les milliers conservées au Musée de Bretagne, et de revivre l’émotion et la solidarité qui ont marqué ce moment de l'Affaire. ​ ​Dans le cadre des journées européennes du patrimoine"
+      },
+      "start": "2026-09-19T15:00:00",
+      "end": "2026-09-19T17:25:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/24968895"
+    },
+    {
+      "uid": "69917796",
+      "title": {
+        "fr": "Visite : l'Affaire Dreyfus à Rennes"
+      },
+      "description": {
+        "fr": "6 octobre et 3 novembre A l'été 1899, le second procès du capitaine Alfred Dreyfus a lieu à Rennes. C'est l'une des affaires judiciaires les plus marquantes de l'histoire de France. À travers des documents d'archives, des journaux d'époque, et quelques objets personnels, la visite retrace les étapes clés de cette affaire qui déchira le pays et marqua un tournant dans l'histoire politique et sociale de la France."
+      },
+      "start": "2026-10-06T17:30:00",
+      "end": "2026-11-03T18:30:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/69917796"
+    },
+    {
       "uid": "78620219",
       "title": {
         "fr": "Le Monde invisible - Flavien Théry & Fred Murie"
@@ -14,7 +62,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6d850c259b67434bb959c23188d58422.base.image.jpg",
+      "image": "https://img.openagenda.com/main/613559decd1d4fde9026715702a5ec2f.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -30,7 +78,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d6ef748d23344efc8881e08fb4954095.base.image.jpg",
+      "image": "https://img.openagenda.com/main/faad0d8b9fd349ea81e8d506b6962893.base.image.jpg",
       "link": "https://openagenda.com/events/32068936"
     },
     {
@@ -46,7 +94,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c31a095701f84e42bb3c30dc555c6d81.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c85f253f97f140a8bac86416e525801f.base.image.jpg",
       "link": "https://openagenda.com/events/27656885"
     },
     {
@@ -62,7 +110,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/00794187d6c749a4810b1eb500a8a23e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e6687e82788d44feb471ef1678ba2edf.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -78,7 +126,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4b9650a392c940488ddf24357e7915ec.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6f315d5537d84e52b68a4639946163b3.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -94,7 +142,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ee150ee94eb94760a48d5c672964e4b3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f79be0c9325c4f5a8a803fc2ce27bce7.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -110,7 +158,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/32e7af32aad54c829496fc0ce933ab3c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0a3cd51a36154f56b2a1a87e4604f661.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
     },
     {
@@ -126,7 +174,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4e41fd31c53b47bb982946215b72ef8b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/666112405ed74245bc0b19b23d6c9ad9.base.image.jpg",
       "link": "https://openagenda.com/events/19385202"
     },
     {
@@ -142,7 +190,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/48a09e2c15fb4d36b02df1b479eac032.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d947028ce6bf4c0887ad13c39013e819.base.image.jpg",
       "link": "https://openagenda.com/events/47313360"
     },
     {
@@ -151,14 +199,14 @@
         "fr": "Boire et manger en Bretagne"
       },
       "description": {
-        "fr": "10 et 11 octobre **Au pays du kouign amann, des crêpes et des galettes,** la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
+        "fr": "Dimanche 11 octobre, 14h30, 16h00 **Au pays du kouign amann, des crêpes et des galettes,** la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
       },
-      "start": "2026-10-10T16:00:00",
+      "start": "2026-10-11T14:30:00",
       "end": "2026-10-11T17:00:00",
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4c5d6f10e593476bb3d428afae9a41d6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d000c0e282e94d3f90a6513218d1d6e4.base.image.jpg",
       "link": "https://openagenda.com/events/25798343"
     },
     {
@@ -206,7 +254,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f1e9eda91f294fedb30681b22ae49c9c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0241a45873b74064b78ced587a5d9c91.base.image.jpg",
       "link": "https://openagenda.com/events/5423950"
     },
     {
@@ -222,7 +270,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/008eaab8f4334b038863aa94864a844a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/962c3a050894446cb8e1ee13aeb4b0ab.base.image.jpg",
       "link": "https://openagenda.com/events/46561996"
     },
     {
@@ -238,7 +286,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/86056b563078462dae7d75cf06588995.base.image.jpg",
+      "image": "https://img.openagenda.com/main/94dd1bd0875c460d89cd74efbb85f30f.base.image.jpg",
       "link": "https://openagenda.com/events/76491557"
     },
     {
@@ -270,56 +318,8 @@
       "location": {
         "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/93187cc646d94019aaad6285521e5796.base.image.jpg",
+      "image": "https://img.openagenda.com/main/09d0b60604294aeda981a72e38425891.base.image.jpg",
       "link": "https://openagenda.com/events/79717146"
-    },
-    {
-      "uid": "87440664",
-      "title": {
-        "fr": "Lectures de Ouf - chez les enfants"
-      },
-      "description": {
-        "fr": "29 août 2026 - 20 juin 2027 Tous les mercredis, samedis et dimanches, Les bibliothécaires déplient le \"fauteuil de Ouf\" pour raconter des histoires aux enfants à partir de 3-4 ans ! Venez écouter la sélection des bibliothécaires; au programme : nouveautés, coups de cœurs et classiques de la littérature jeunesse."
-      },
-      "start": "2026-08-29T17:00:00",
-      "end": "2027-06-20T17:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/cc150e4a8d784cd4a8ab63069ee837c4.base.image.jpg",
-      "link": "https://openagenda.com/events/87440664"
-    },
-    {
-      "uid": "61900840",
-      "title": {
-        "fr": "Jouer, colorier, créer"
-      },
-      "description": {
-        "fr": "19 et 20 septembre Venez jouer en famille avec des ateliers inspirés des collections de la Bibliothèque et du Musée de Bretagne : puzzles, coloriages,réalisation de vitraux sur rhodoïd, jeux..."
-      },
-      "start": "2026-09-19T14:00:00",
-      "end": "2026-09-20T18:45:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/5247aba7e81e4ae684e24c21253efd3a.base.image.jpg",
-      "link": "https://openagenda.com/events/61900840"
-    },
-    {
-      "uid": "92769191",
-      "title": {
-        "fr": "Visite de l'exposition \"Jeanne Malivel, une Bretonne art déco\""
-      },
-      "description": {
-        "fr": "Samedi 19 septembre, 16h00 A l'occasion des Journées du matrimoine et du patrimoine, la Bibliothèque propose une visite de l'exposition Jeanne Malivel, une Bretonne art déco. Pour mettre en lumière le travail de cette artiste disparue il y a 100 ans, en 1926, la bibliothèque des Champs Libres et le Musée de Bretagne présentent l’univers de cette jeune créatrice aux multiples talents qui, en à peine une décennie, a contribué au renouveau des arts décoratifs bretons. ​Sans réservation et dans la limite des places disponibles."
-      },
-      "start": "2026-09-19T16:00:00",
-      "end": "2026-09-19T17:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - L'escalier - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/5a6eaae8fe204be5ab29ac4034696d0c.base.image.jpg",
-      "link": "https://openagenda.com/events/92769191"
     }
   ]
 }
