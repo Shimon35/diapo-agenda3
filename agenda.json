@@ -14,7 +14,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fc58bbcf54434dba9f609ce7ae2b6c0e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7ea41080ed6942489e88f16068ec9044.base.image.jpg",
       "link": "https://openagenda.com/events/1143810"
     },
     {
@@ -30,7 +30,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/00812eb7cd09411383d9d5a790cf041f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e77b0d68b9f744e1be94787e32aefef9.base.image.jpg",
       "link": "https://openagenda.com/events/17614513"
     },
     {
@@ -78,7 +78,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ac563c76f5a242b8a9e4ebc4ee151a07.base.image.jpg",
+      "image": "https://img.openagenda.com/main/99e6575b7aff4e08b27d593bf90d11ab.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -94,7 +94,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/07cea04dca8d46ebba6d83a07f425a51.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4dc0e3450df748a4baecc392670fdbb1.base.image.jpg",
       "link": "https://openagenda.com/events/32068936"
     },
     {
@@ -110,8 +110,24 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/75e8bcdfe9c44962a53d12793651fd01.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8a0213f9cb474b44a494ef846d8ad316.base.image.jpg",
       "link": "https://openagenda.com/events/27656885"
+    },
+    {
+      "uid": "83955983",
+      "title": {
+        "fr": "Étrangement Breizh"
+      },
+      "description": {
+        "fr": "26 et 27 septembre Découvrez les objets du musée les plus insolites, les plus curieux voire les plus étranges. Et accompagnez l’Ankou par-delà les sites funéraires, légendes et objets rituels qui peuplent la Bretagne depuis le néolithique. ​ ​Dans le cadre du festival Court Métrange"
+      },
+      "start": "2026-09-26T14:30:00",
+      "end": "2026-09-27T17:30:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/19eb040b25884b5491c6396f2b4ed837.base.image.jpg",
+      "link": "https://openagenda.com/events/83955983"
     },
     {
       "uid": "43072460",
@@ -126,7 +142,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7fc3c5f4c1e24fbb86ab920ab1f29a54.base.image.jpg",
+      "image": "https://img.openagenda.com/main/94568127abfb443f9440877385030a06.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -142,7 +158,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d7808683158f4653b6a9672b2ecddca9.base.image.jpg",
+      "image": "https://img.openagenda.com/main/082af79230a642f0b6b9fdc7e9ccf771.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -158,7 +174,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7641bfe3417c400d95ff23916d86fd45.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f4fe9b6943ce4f28bb4645a7ce581094.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -174,7 +190,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a208b6662d134bad82137ab01ab915d7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3d3f0d0e485e4439a9dfabc9d0fb2260.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
     },
     {
@@ -190,7 +206,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fcf4790dd51b4e49907121b9d22da737.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a1b5279b94224b0f978efe0367fa6b05.base.image.jpg",
       "link": "https://openagenda.com/events/82924830"
     },
     {
@@ -206,7 +222,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6eaf8a15988b4bf9aad36a3a31435373.base.image.jpg",
+      "image": "https://img.openagenda.com/main/aa441700bb2645b8a834ecb61f2fbf1d.base.image.jpg",
       "link": "https://openagenda.com/events/19385202"
     },
     {
@@ -222,7 +238,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0306f3fb5fa44510850aec15b088ea52.base.image.jpg",
+      "image": "https://img.openagenda.com/main/cf6f1e9820f547e9aea99b97ccde9a36.base.image.jpg",
       "link": "https://openagenda.com/events/47313360"
     },
     {
@@ -238,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/91b78621c31f430f8ea49e77ea302b7f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a44078acf2e24820a7728b62263c7458.base.image.jpg",
       "link": "https://openagenda.com/events/25798343"
     },
     {
@@ -286,7 +302,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8040f99f59b14bd68f91ffa0fea6bf4d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5fc3b755d15d4b279b08b0d5f6024ae0.base.image.jpg",
       "link": "https://openagenda.com/events/5423950"
     },
     {
@@ -302,24 +318,8 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/76928bb555644f5080646c5471c5acae.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e642fdd8626041a1be2c4496efb18c78.base.image.jpg",
       "link": "https://openagenda.com/events/46561996"
-    },
-    {
-      "uid": "76491557",
-      "title": {
-        "fr": "Bons baisers des grèves"
-      },
-      "description": {
-        "fr": "Dimanche 8 novembre, 16h00 De 1905 à 1912, la France est secouée par une vague de conflits sociaux et le syndicalisme naissant invente de nouveaux modes d’action. De Limoges à Courrières en passant par Fougères, un jeune photographe parcourt cette France industrieuse en colère et diffuse ses photographies au plus grand nombre grâce à un média visuel populaire : la carte postale. ​ Un doc du dimanche suivi d’une rencontre avec Philippe Baron , le réalisateur (2025, 52 min, Vivement Lundi !)."
-      },
-      "start": "2026-11-08T16:00:00",
-      "end": "2026-11-08T17:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/f6363456dfe94f618e88199679bfa461.base.image.jpg",
-      "link": "https://openagenda.com/events/76491557"
     }
   ]
 }
