@@ -82,22 +82,6 @@
       "link": "https://openagenda.com/events/32068936"
     },
     {
-      "uid": "27656885",
-      "title": {
-        "fr": "Lectures de lettres"
-      },
-      "description": {
-        "fr": "Dimanche 20 septembre, 16h00 Des personnes détenues des centres pénitentiaires pour femmes et pour hommes de Rennes ont participé, en juin, à un projet mené par le Théâtre de l’Imprévu. Alliant écriture et interprétation de lettres fictionnelles aux divers protagonistes de l’Affaire Dreyfus, une partie de ces correspondances sera lue à l’issue de la représentation du spectacle « Si tu veux que je vive, Lucie et Alfred Dreyfus »"
-      },
-      "start": "2026-09-20T16:00:00",
-      "end": "2026-09-20T16:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/8404beb2153140d4863bd69eaa3c16ab.base.image.jpg",
-      "link": "https://openagenda.com/events/27656885"
-    },
-    {
       "uid": "83955983",
       "title": {
         "fr": "Étrangement Breizh"
@@ -320,6 +304,22 @@
       },
       "image": "https://img.openagenda.com/main/ffc613eff21946d296889500d4be8c4e.base.image.jpg",
       "link": "https://openagenda.com/events/76491557"
+    },
+    {
+      "uid": "30448176",
+      "title": {
+        "fr": "Les tout P'tits RDV du matin"
+      },
+      "description": {
+        "fr": "23 octobre 2026 - 30 avril 2027, certains vendredis Le Tout p'tit rdv du matin, c'est le rendez-vous des 0-3 ans : lectures, comptines et chansons pour les tout-petits. Sur inscription à l'espace Chez les enfants ou par téléphone au 02 23 40 66 97 sur les heures d'ouverture de la bibliothèque."
+      },
+      "start": "2026-10-23T10:15:00",
+      "end": "2027-04-30T11:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/30448176"
     }
   ]
 }
