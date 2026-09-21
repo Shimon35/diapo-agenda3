@@ -2,19 +2,115 @@
   "total": 20,
   "events": [
     {
+      "uid": "14197349",
+      "title": {
+        "fr": "My dear Theo"
+      },
+      "description": {
+        "fr": "Mercredi 25 novembre, 20h00 Projection à Saint-Grégoire, dans le cadre des Dialogues Européens. Février 2022. Alisa Kovalenko s'engage volontairement dans les forces armées ukrainiennes, laissant derrière elle son fils Théo, âgé de cinq ans. À la fois témoignage d'amour maternel et documentaire de guerre, My Dear Theo entrelace le parcours personnel de la cinéaste avec le récit plus vaste de celles et ceux qui se battent pour que les générations futures puissent vivre en paix."
+      },
+      "start": "2026-11-25T20:00:00",
+      "end": "2026-11-25T21:40:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/14197349"
+    },
+    {
+      "uid": "9737509",
+      "title": {
+        "fr": "Vesna"
+      },
+      "description": {
+        "fr": "Jeudi 19 novembre, 20h15 Projection au cinéma Arvor, en partenariat avec les Dialogues Européens. Vesna de Rostislav Kirpičenko · Avant-première Lituanie, France, Estonie, 2026, 1h33, vostf, drame avec Kestutis Cicenas, Daumantas Ciunis, Viačeslav Lukjanov En Ukraine occupée, les Russes interdisent d’enterrer les civils ukrainiens exécutés. Andryï, prêtre de 35 ans, voit son église transformée en morgue. Contraint d’y stocker les corps de civils exécutés avant leur disparition en fosses communes, il résiste en secret : il identifie les morts, les rend aux familles, leur offre une sépulture digne. Mais l’hiver gèle la terre et la menace grandit. Comment continuer à résister ? Vesna fait exister puissamment la longue nuit de l’occupation et de la résistance. [Sélection officielle, Festival de Cannes 2026] Projection suivie d’une rencontre avec le cinéaste Rostislav Kirpičenko."
+      },
+      "start": "2026-11-19T20:15:00",
+      "end": "2026-11-19T21:50:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/9737509"
+    },
+    {
+      "uid": "56015590",
+      "title": {
+        "fr": "Rencontre avec Velibor Čolić"
+      },
+      "description": {
+        "fr": "Mardi 17 novembre, 17h00 Rencontre à la Bibliothèque Clôteaux-Bréquigny avec l'écrivain. Dans le cadre d’une résidence de la compagnie de théâtre rennaise Kali&Co, la bibliothèque Clôteaux-Bréquigny organise une rencontre avec Velibor Čolić, écrivain originaire d’ex Yougoslavie, dont le dernier roman Guerre et pluie livre un récit à la fois halluciné et drolatique en temps de guerre."
+      },
+      "start": "2026-11-17T17:00:00",
+      "end": "2026-11-17T18:30:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/events/56015590"
+    },
+    {
+      "uid": "91878811",
+      "title": {
+        "fr": "En tierra"
+      },
+      "description": {
+        "fr": "Dimanche 29 novembre, 16h45 À San Felipe, un village d’Amazonie colombienne, les habitants passent leurs journées à attendre l’arrivée hasardeuse du DC-3, un vieil avion. Il est leur seul lien avec le reste du pays. À des milliers de kilomètres du village, la propriétaire du mythique appareil mène un combat désespéré contre l’administration pour qu’il reste en vol. ​ ​Un doc du dimanche suivi d'une rencontre avec Simón Uribe , le réalisateur (en visio). ​ ​Dans le cadre du festival le Mois du Doc, en partenariat avec Comptoir du doc (un film de Simón Uribe, 1h20, 2025, Colombie, France, STANK et Vice Versa, vostfr)."
+      },
+      "start": "2026-11-29T16:45:00",
+      "end": "2026-11-29T18:45:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/e5ac0d74dc194fd6b08e2754d984ceb8.base.image.jpg",
+      "link": "https://openagenda.com/events/91878811"
+    },
+    {
+      "uid": "58877818",
+      "title": {
+        "fr": "Relicto"
+      },
+      "description": {
+        "fr": "Dimanche 29 novembre, 14h30 À 105 ans, Sixto Muñoz, dernier survivant du peuple Tinigua, a décidé de quitter sa cabane au bord de la lagune, dans l’Amazonie colombienne pour réaliser son dernier voyage. 4 ans plus tard, Guillermo Quintero, le réalisateur, part à la recherche de cet ultime dépositaire d’une langue et d’une culture autochtones. Il rencontre celles et ceux qui ont croisé sa route, ravivant l’imaginaire collectif qu’il continue de susciter.​​Un doc du dimanche suivi d'une rencontre avec Guillermo Quintero , réalisateur (en visio). ​ ​Dans le cadre du festival le Mois du Doc, en partenariat avec Comptoir du doc (un film de Guillermo Quintero, 1h37, 2026, France, Colombie, STANK et Palindroma, vostfr)."
+      },
+      "start": "2026-11-29T14:30:00",
+      "end": "2026-11-29T16:35:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/40a8499e8a0c41a1a82090af4418ad85.base.image.jpg",
+      "link": "https://openagenda.com/events/58877818"
+    },
+    {
+      "uid": "27043227",
+      "title": {
+        "fr": "La Bonga"
+      },
+      "description": {
+        "fr": "Samedi 28 novembre, 16h30 Ayant reçu des menaces de mort de paramilitaires d’extrême-droite, la communauté marronne de La Bonga (Colombie) a fui son village. 20 ans plus tard, ses membres entament une marche symbolique dans les jungles de la région caribéenne de la Colombie pour redonner vie à ce lieu où ils étaient chez eux et qui n’existe plus que dans leurs souvenirs. ​ ​Un doc du dimanche suivie d'une rencontre avec Bibata Uribe , programmatrice de cinéma latino-américain. Dans le cadre du festival le Mois du Doc, en partenariat avec Comptoir du doc (un film de Canela Reyes et Sebastián Pinzón-Silva, 1h17, 2023, Colombie, États-Unis, Jarana Cine, vostfr)."
+      },
+      "start": "2026-11-28T16:30:00",
+      "end": "2026-11-28T18:30:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/e5ec6d8fe2104402bd62399ac7c3764f.base.image.jpg",
+      "link": "https://openagenda.com/events/27043227"
+    },
+    {
       "uid": "1143810",
       "title": {
         "fr": "Dans la peau d'un journaliste scientifique"
       },
       "description": {
-        "fr": "10 et 11 octobre Venez débusquer, comme un journaliste scientifique, les 5 piliers de la désinformation scientifique. A l'aide d'un jeu-enquête, aiguisez votre esprit critique et votre sens de l'analyse pour déjouer les informations scientifiques biaisées et repartez en pouvant dire « cette désinformation ne passera pas par moi ! »"
+        "fr": "10 et 11 octobre Venez débusquer, comme un journaliste scientifique, les 5 piliers de la désinformation scientifique. A l'aide d'un jeu-enquête, aiguisez votre esprit critique et votre sens de l'analyse pour déjouer les informations scientifiques biaisées et repartez en pouvant dire « cette désinformation ne passera pas par moi ! » ​ ​Organisation et animation par l'association \"La Terre est ronde !\""
       },
       "start": "2026-10-10T14:00:00",
       "end": "2026-10-11T19:00:00",
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f2788879e8544ee1affba1c5ccd56a0b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6126335602374b3cab89970200583a13.base.image.jpg",
       "link": "https://openagenda.com/events/1143810"
     },
     {
@@ -30,7 +126,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/cb43f839701947a1b61c0c626fa98f6b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/ac569e41e0e740fa9da2eaf5fe1d7680.base.image.jpg",
       "link": "https://openagenda.com/events/17614513"
     },
     {
@@ -62,7 +158,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2ada1ffcbb2c4b03adc5c482439adf64.base.image.jpg",
+      "image": "https://img.openagenda.com/main/097cb09457334f87a7904d779a6ce7b3.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -78,7 +174,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/176b51623bfc47f1b30287ba36674aeb.base.image.jpg",
+      "image": "https://img.openagenda.com/main/91a0ff74dbb94afeaab6f1eba11ce984.base.image.jpg",
       "link": "https://openagenda.com/events/32068936"
     },
     {
@@ -94,7 +190,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/14bbb929f0b0444b90414f82ba5ec036.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e7b9040f9f4b42c79ca454555a33dc79.base.image.jpg",
       "link": "https://openagenda.com/events/83955983"
     },
     {
@@ -110,7 +206,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c6b6de29bab640efa4bfa0459ee1788c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d91e479e8bc2437dac9a90e4074b7f05.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -126,7 +222,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/64a6e7035ece43ccbac0663991c590ac.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3afa1700c8ae4515a3d23851ccce2cdb.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -142,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/791c344adf9b4e4aa7c2cfc252810038.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d93f74b3f87d4385a7ed226d420c1207.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -158,8 +254,24 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/9b489ce3aae6400c9c7fa246c9a93c12.base.image.jpg",
+      "image": "https://img.openagenda.com/main/cf855de8601d41aea29a28e7ed05bcc8.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
+    },
+    {
+      "uid": "40786908",
+      "title": {
+        "fr": "Comment étaient élevés les enfants dans le Finistère en 1899 ?"
+      },
+      "description": {
+        "fr": "Samedi 7 novembre, 16h00 En 2023, le Musée de Bretagne acquière un album unique : \"l'élevage des enfants du premier âge\". Rédigé par Émile Bérard pour l'exposition universelle de 1889, ce document original recense les pratiques liées aux soins et à l'éducation des jeunes enfants dans ce département breton. ​ ​En 2026, les étudiants du Master Humanités Numériques de l'université Rennes 2 imaginent un dispositif numérique pour en révéler toute la richesse. ​ Rencontre avec les étudiants et Laurence Prod'homme, conservatrice au musée. ​"
+      },
+      "start": "2026-11-07T16:00:00",
+      "end": "2026-11-07T17:00:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/2d0b99f8d218492c97fc73b2e79c2aad.base.image.jpg",
+      "link": "https://openagenda.com/events/40786908"
     },
     {
       "uid": "82924830",
@@ -174,7 +286,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/83b95cfc35f241e1beb7f15ab0dd23a0.base.image.jpg",
+      "image": "https://img.openagenda.com/main/278b7a9bb69943c2853d08a6a78a0f1f.base.image.jpg",
       "link": "https://openagenda.com/events/82924830"
     },
     {
@@ -190,7 +302,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8c229fa57f704e789d93e3068fc4ac06.base.image.jpg",
+      "image": "https://img.openagenda.com/main/2b359cabcbfc45cdb1a6b99d2ecb0d58.base.image.jpg",
       "link": "https://openagenda.com/events/19385202"
     },
     {
@@ -206,120 +318,8 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fac13cd2b4584538bc568d68980789ef.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9b4d3af760df4df3a69687a29a996126.base.image.jpg",
       "link": "https://openagenda.com/events/47313360"
-    },
-    {
-      "uid": "25798343",
-      "title": {
-        "fr": "Boire et manger en Bretagne"
-      },
-      "description": {
-        "fr": "Dimanche 11 octobre, 14h30, 16h00 Au pays du kouign amann, des crêpes et des galettes, la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
-      },
-      "start": "2026-10-11T14:30:00",
-      "end": "2026-10-11T17:00:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/7c2f954df17a4760b47af70d5fa5505b.base.image.jpg",
-      "link": "https://openagenda.com/events/25798343"
-    },
-    {
-      "uid": "4146535",
-      "title": {
-        "fr": "Lecture de ouf signées"
-      },
-      "description": {
-        "fr": "Samedi 17 octobre, 15h00 Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
-      },
-      "start": "2026-10-17T15:00:00",
-      "end": "2026-10-17T15:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/4146535"
-    },
-    {
-      "uid": "23945051",
-      "title": {
-        "fr": "Projection en audio-description"
-      },
-      "description": {
-        "fr": "25 septembre - 11 décembre, certains vendredis Projection de films Un vendredi par mois, profitez d'une séance de cinéma en audio-description, accessible aux aveugles et malvoyants. Au programme : une sélection de films français récents. Pour connaître la programmation, adressez-vous à l'accueil."
-      },
-      "start": "2026-09-25T15:00:00",
-      "end": "2026-12-11T17:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/23945051"
-    },
-    {
-      "uid": "5423950",
-      "title": {
-        "fr": "Les vidéos du mercredi"
-      },
-      "description": {
-        "fr": "21 octobre 2026 - 28 avril 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
-      },
-      "start": "2026-10-21T10:30:00",
-      "end": "2027-04-28T11:15:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/0ef5b2981f7a4aaba0856d5161927cfc.base.image.jpg",
-      "link": "https://openagenda.com/events/5423950"
-    },
-    {
-      "uid": "46561996",
-      "title": {
-        "fr": "Les vidéos du mercredi"
-      },
-      "description": {
-        "fr": "2 septembre 2026 - 16 juin 2027, certains mercredis Une projection dédiée au jeune public (à partir de 3 ans). Des films d'animation et des courts métrages pour faire rêver les enfants. Une sélection de films réalisée par les bibliothécaires spécialistes du cinéma jeunesse vous est proposée au 6ème étage de la bibliothèque."
-      },
-      "start": "2026-09-02T15:30:00",
-      "end": "2027-06-16T16:15:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/fa5420cdc92b4120a68e9946315af340.base.image.jpg",
-      "link": "https://openagenda.com/events/46561996"
-    },
-    {
-      "uid": "76491557",
-      "title": {
-        "fr": "Bons baisers des grèves"
-      },
-      "description": {
-        "fr": "Dimanche 8 novembre, 16h00 De 1905 à 1912, la France est secouée par une vague de conflits sociaux et le syndicalisme naissant invente de nouveaux modes d’action. De Limoges à Courrières en passant par Fougères, un jeune photographe parcourt cette France industrieuse en colère et diffuse ses photographies au plus grand nombre grâce à un média visuel populaire : la carte postale. ​ Un doc du dimanche suivi d’une rencontre avec Philippe Baron , le réalisateur (Un film de Philippe Baron, 2025, 52 min, Vivement Lundi !)."
-      },
-      "start": "2026-11-08T16:00:00",
-      "end": "2026-11-08T17:30:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/4b8b8ce89af2466099f64a1fe3fe055f.base.image.jpg",
-      "link": "https://openagenda.com/events/76491557"
-    },
-    {
-      "uid": "30448176",
-      "title": {
-        "fr": "Les tout P'tits RDV du matin"
-      },
-      "description": {
-        "fr": "23 octobre 2026 - 30 avril 2027, certains vendredis Le Tout p'tit rdv du matin, c'est le rendez-vous des 0-3 ans : lectures, comptines et chansons pour les tout-petits. Sur inscription à l'espace Chez les enfants ou par téléphone au 02 23 40 66 97 sur les heures d'ouverture de la bibliothèque."
-      },
-      "start": "2026-10-23T10:15:00",
-      "end": "2027-04-30T11:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/events/30448176"
     }
   ]
 }
