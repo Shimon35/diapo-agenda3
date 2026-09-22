@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "64943468",
+      "title": {
+        "fr": "Laboratoire de Merlin"
+      },
+      "description": {
+        "fr": "2 janvier 2026 - 31 août 2028 Bienvenue au Laboratoire de Merlin, une destination où la magie de la science prend vie ! Le Laboratoire de Merlin invite à découvrir de multiples phénomènes scientifiques par le jeu. Un panel de manipulations interactives est à disposition pour tester librement ses connaissances. Séances d'1h : séances libres (sans animation) ou séances avec une animation Flash : https://www.espace-sciences.org/rennes/agenda"
+      },
+      "start": "2026-01-02T10:00:00",
+      "end": "2028-08-31T19:00:00",
+      "location": {
+        "name": "Laboratoire de Merlin - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/1fc6a9fa9e9440abb9a16ab38a20c36e.base.image.jpg",
+      "link": "https://openagenda.com/events/64943468"
+    },
+    {
       "uid": "14197349",
       "title": {
         "fr": "My dear Theo"
@@ -160,22 +176,6 @@
       },
       "image": "https://img.openagenda.com/main/18e3da7b5fd14ee8a8379b303bc077f4.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
-    },
-    {
-      "uid": "32068936",
-      "title": {
-        "fr": "Visite hors les murs - Les femmes et le procès Dreyfus à Rennes"
-      },
-      "description": {
-        "fr": "Mardi 22 septembre, 17h45 Lors du procès en révision d'Alfred Dreyfus à Rennes pendant l'été 1899, des femmes ont joué un rôle important. Et pourtant, leur implication dans l'Affaire a été minimisée, voir oubliée par l'histoire. Au premier plan, Lucie Dreyfus, la femme du capitaine. Autour d'elle, engagées pour soutenir la cause de Dreyfus, 3 rennaises et 3 parisiennes. ​ ​A travers une déambulation dans la ville, l'association Histoire du féminisme à Rennes vous emmène sur les pas de ces femmes, pour découvrir leur histoire et leur implication dans l'Affaire. ​ ​Inscription obligatoire jusqu’au 18 septembre à l’adresse suivante en indiquant le nom, prénom, numéro de téléphone et nombre de personnes : histoire.feminisme.rennes@gmail.com"
-      },
-      "start": "2026-09-22T17:45:00",
-      "end": "2026-09-22T19:15:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/6bc45ca3c8a44424ada0d9aae78ca7bd.base.image.jpg",
-      "link": "https://openagenda.com/events/32068936"
     },
     {
       "uid": "83955983",
