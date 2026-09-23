@@ -2,22 +2,6 @@
   "total": 20,
   "events": [
     {
-      "uid": "64943468",
-      "title": {
-        "fr": "Laboratoire de Merlin"
-      },
-      "description": {
-        "fr": "2 janvier 2026 - 31 août 2028 Bienvenue au Laboratoire de Merlin, une destination où la magie de la science prend vie ! Le Laboratoire de Merlin invite à découvrir de multiples phénomènes scientifiques par le jeu. Un panel de manipulations interactives est à disposition pour tester librement ses connaissances. Séances d'1h : séances libres (sans animation) ou séances avec une animation Flash : https://www.espace-sciences.org/rennes/agenda"
-      },
-      "start": "2026-01-02T10:00:00",
-      "end": "2028-08-31T19:00:00",
-      "location": {
-        "name": "Laboratoire de Merlin - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/1fc6a9fa9e9440abb9a16ab38a20c36e.base.image.jpg",
-      "link": "https://openagenda.com/events/64943468"
-    },
-    {
       "uid": "14197349",
       "title": {
         "fr": "My dear Theo"
@@ -78,7 +62,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c384ff2669594ec595495b37261320fe.base.image.jpg",
+      "image": "https://img.openagenda.com/main/cda2f42e77d84acbb4f1958913160dfc.base.image.jpg",
       "link": "https://openagenda.com/events/91878811"
     },
     {
@@ -94,7 +78,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fa1310ff40a048309067949abdb63665.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f833f935cceb44689668e58db3c94e26.base.image.jpg",
       "link": "https://openagenda.com/events/58877818"
     },
     {
@@ -110,7 +94,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0c377395cf714857bfa63a1412e1afee.base.image.jpg",
+      "image": "https://img.openagenda.com/main/48e6c010509644a6856c8a5e0103c440.base.image.jpg",
       "link": "https://openagenda.com/events/27043227"
     },
     {
@@ -126,7 +110,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7b557b5072d84bcb9c4136a1cfe2a94c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/ab32bc1034384107ba21abcce61b16d3.base.image.jpg",
       "link": "https://openagenda.com/events/1143810"
     },
     {
@@ -142,7 +126,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7f3bc15c890f4d82ad578e31c78e234b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/230f5f094cf741e483bf7f815976508f.base.image.jpg",
       "link": "https://openagenda.com/events/17614513"
     },
     {
@@ -174,7 +158,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/18e3da7b5fd14ee8a8379b303bc077f4.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0b4b2218fe874445b53c2975c67c139b.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -190,7 +174,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8a60fbbe3ca04f80855bb2803c9e4db6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e6a56c63d95f40b18c057415d27d2805.base.image.jpg",
       "link": "https://openagenda.com/events/83955983"
     },
     {
@@ -206,7 +190,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4e2c033ad70f457e9f8ce702c8d29275.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4ec36de60ba945079bb03c531b172f89.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -222,7 +206,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/bfcfebc37a274aa6b86b5deb5422ace9.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e6f647547dfe4b2f9a071bbf3d4de8cd.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -238,7 +222,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b1455a4874a141d39d57528984639925.base.image.jpg",
+      "image": "https://img.openagenda.com/main/494230a734e54bba97e91d65017b3d9c.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -254,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a2720b4623c24398a0f79cb3c4d93a21.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f2493a67acc1443a86c6b3d8ff574f88.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
     },
     {
@@ -270,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/03daf4b9a3c54376a8474be81e51560a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/64b7141c933f449e8505c58c94dd04d4.base.image.jpg",
       "link": "https://openagenda.com/events/40786908"
     },
     {
@@ -286,7 +270,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2561ef058d704e38aeb0339c254de4d1.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f675cff23e9a4463aee9d7eaf17761bd.base.image.jpg",
       "link": "https://openagenda.com/events/82924830"
     },
     {
@@ -302,7 +286,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/9e8d56cec08d40e3bf8df7dbe67821cd.base.image.jpg",
+      "image": "https://img.openagenda.com/main/501e3a90444b4f90b3d030e7d3ecc4f8.base.image.jpg",
       "link": "https://openagenda.com/events/19385202"
     },
     {
@@ -318,8 +302,24 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0d6279689e954250a21ac8007c7df253.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8dfdc3f9eab3498c80f8e5a37731d114.base.image.jpg",
       "link": "https://openagenda.com/events/47313360"
+    },
+    {
+      "uid": "25798343",
+      "title": {
+        "fr": "Boire et manger en Bretagne"
+      },
+      "description": {
+        "fr": "Dimanche 11 octobre, 14h30, 16h00 Au pays du kouign amann, des crêpes et des galettes, la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
+      },
+      "start": "2026-10-11T14:30:00",
+      "end": "2026-10-11T17:00:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/169250c172f44d58b53ceb2bc5f0b65a.base.image.jpg",
+      "link": "https://openagenda.com/events/25798343"
     }
   ]
 }
