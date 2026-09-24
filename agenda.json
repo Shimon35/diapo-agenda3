@@ -2,6 +2,38 @@
   "total": 20,
   "events": [
     {
+      "uid": "32869459",
+      "title": {
+        "fr": "Nos futurs 2027"
+      },
+      "description": {
+        "fr": "19 - 21 mars 2027 Nos futurs, par les jeunes, pour tout le monde Des jeunes lycéen·nes, étudiant·es, engagé·es… accompagné·es par Les Champs Libres, Sciences Po Rennes et le journal Le Monde choisissent des sujets, invitent des personnalités, repèrent des initiatives, s’engagent et innovent."
+      },
+      "start": "2027-03-19T12:00:00",
+      "end": "2027-03-21T19:00:00",
+      "location": {
+        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/b99d6fabce2d4b14a9778de06eb63a64.base.image.jpg",
+      "link": "https://openagenda.com/events/32869459"
+    },
+    {
+      "uid": "81024512",
+      "title": {
+        "fr": "Jardins d'hiver 2027"
+      },
+      "description": {
+        "fr": "5 - 7 février 2027 Jardins d'hiver est un événement gratuit de rencontre et de partage autour de la littérature, et du plaisir de lire. Au programme, pour passer des bons moments à tout âge et pour tous les goûts : rencontres avec des auteurs, lectures musicales, ateliers, spectacles, jeux, promenades littéraires..."
+      },
+      "start": "2027-02-05T12:00:00",
+      "end": "2027-02-07T19:00:00",
+      "location": {
+        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/57a29926a53d414b8d7f4f8ce180e438.base.image.jpg",
+      "link": "https://openagenda.com/events/81024512"
+    },
+    {
       "uid": "14197349",
       "title": {
         "fr": "My dear Theo"
@@ -14,7 +46,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c2d7df07376a42938dafcebc77c0bcf7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c0a77b5bf4984994bd6ae964d93b21b4.base.image.jpg",
       "link": "https://openagenda.com/events/14197349"
     },
     {
@@ -30,7 +62,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/056c575393134dcaa477bcd6d783e36c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4d87c6607d9341fc9fce833cc20a9328.base.image.jpg",
       "link": "https://openagenda.com/events/9737509"
     },
     {
@@ -46,7 +78,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3213528a627c4c62a9da385655401bc8.base.image.jpg",
+      "image": "https://img.openagenda.com/main/86b3a622d5d64d29a985ebc02640fdbd.base.image.jpg",
       "link": "https://openagenda.com/events/56015590"
     },
     {
@@ -62,7 +94,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/606ae21dd9ae49ea89dfae81dd700a63.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5224d83becfa49ceb835aa49afc3de13.base.image.jpg",
       "link": "https://openagenda.com/events/91878811"
     },
     {
@@ -78,7 +110,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b324aab517e044aca1fccbfdc0532051.base.image.jpg",
+      "image": "https://img.openagenda.com/main/15176dfc94fb4bd1b64a3cef0f7aa9a2.base.image.jpg",
       "link": "https://openagenda.com/events/58877818"
     },
     {
@@ -94,7 +126,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a180ef2c4a2a42f7ac51f39f97fc06ce.base.image.jpg",
+      "image": "https://img.openagenda.com/main/56686e165f6847239db65088d19862d8.base.image.jpg",
       "link": "https://openagenda.com/events/27043227"
     },
     {
@@ -110,7 +142,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a69370b9a07f4a0a868d2b7c463024ce.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5cc777bc729544b4bb2b0997a58a22c6.base.image.jpg",
       "link": "https://openagenda.com/events/1143810"
     },
     {
@@ -126,7 +158,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/34249aaaf7064e1785cc8023be1513c1.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6b536d6d7ec844edadb2f8f63c925736.base.image.jpg",
       "link": "https://openagenda.com/events/17614513"
     },
     {
@@ -146,22 +178,6 @@
       "link": "https://openagenda.com/events/69917796"
     },
     {
-      "uid": "45044957",
-      "title": {
-        "fr": "L’Europe – un État qui s’ignore ?"
-      },
-      "description": {
-        "fr": "Samedi 21 novembre, 16h00 Qu’est-ce que l’Union européenne ? Une simple association de pays souverains, une fédération de nations ou encore un État ? Si ce n’est pas un État, peut-on quand même parler de « souveraineté européenne » ? Si c’est un État, en quoi est-il différent de ceux que nous connaissons ? Pour en parler et nous éclairer, dialogue entre deux spécialistes du sujet : Sylvain Kahn, auteur de l’Europe, un Etat qui s’ignore, et Isabelle Bosse-Platière, juriste, spécialiste du Droit européen."
-      },
-      "start": "2026-11-21T16:00:00",
-      "end": "2026-11-21T16:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/0c2cedc6e3be4e6aae2d30c9b06a647a.base.image.jpg",
-      "link": "https://openagenda.com/events/45044957"
-    },
-    {
       "uid": "78620219",
       "title": {
         "fr": "Le Monde invisible - Flavien Théry & Fred Murie"
@@ -174,8 +190,40 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/dc1c10f2f059445c93a0e37b4e99fb58.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5789594d2eec4e9d9a98a7917a2525ec.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
+    },
+    {
+      "uid": "5997080",
+      "title": {
+        "fr": "L’ennemi qui nous désigne"
+      },
+      "description": {
+        "fr": "Samedi 21 novembre, 17h00 Carte blanche au Grand Continent. \"L’ennemi qui nous désigne - Apprendre à résister aux prédateurs\" est la dernière publication du Grand Continent. L’ouvrage collectif sous la direction de Giuliano da Empoli, auteur du \"Mage du Kremlin\", nous éclaire sur la façon dont l’Europe, ce qu’elle est et ce qu’elle représente, est devenue une cible. Réunissant des chercheurs du monde entier, il nous aide à comprendre ce qui nous arrive pour mieux résister. Cette carte blanche au Grand Continent est aussi l’occasion de revenir sur l’aventure profondément européenne de ce nouveau média, qui s’est donné l’ambition de nous aider à décrypter le monde. ​ Animation : Pierre Ramond"
+      },
+      "start": "2026-11-21T17:00:00",
+      "end": "2026-11-21T17:45:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/3bf90a1607124a57a7d7cab4011a7144.base.image.jpg",
+      "link": "https://openagenda.com/events/5997080"
+    },
+    {
+      "uid": "45044957",
+      "title": {
+        "fr": "L’Europe – un État qui s’ignore ?"
+      },
+      "description": {
+        "fr": "Samedi 21 novembre, 16h00 Qu’est-ce que l’Union européenne ? Une simple association de pays souverains, une fédération de nations ou encore un État ? Si ce n’est pas un État, peut-on quand même parler de « souveraineté européenne » ? Si c’est un État, en quoi est-il différent de ceux que nous connaissons ? Pour en parler et nous éclairer, dialogue entre deux spécialistes du sujet : Sylvain Kahn, auteur de l’Europe, un Etat qui s’ignore, et Isabelle Bosse-Platière, juriste, spécialiste du Droit européen."
+      },
+      "start": "2026-11-21T16:00:00",
+      "end": "2026-11-21T16:45:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/a1d326ae590c49faa17ff9ce68b744ed.base.image.jpg",
+      "link": "https://openagenda.com/events/45044957"
     },
     {
       "uid": "83955983",
@@ -190,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/cb3322e47c5245a0874794b7329c0b9a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/db84e5c6d7ef4b3e975f84db11ea3604.base.image.jpg",
       "link": "https://openagenda.com/events/83955983"
     },
     {
@@ -206,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d9373547a60b426d8f7d62e684a6791f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/04a9ea5578744cf58fe7c7638d2c3fb8.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -222,7 +270,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/84712e027e9144049dc7e2bab38d3ed7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3b500a2ce5b943e49dd7bfe0cb0ce224.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -238,7 +286,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ce3bbad157194141929c36fab6318156.base.image.jpg",
+      "image": "https://img.openagenda.com/main/73b1d5080153411594fdd64e505422d1.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -254,7 +302,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/9e961b4e5cb74b40961e26496c680131.base.image.jpg",
+      "image": "https://img.openagenda.com/main/eb7063ca9f62432285cafda6249ba274.base.image.jpg",
       "link": "https://openagenda.com/events/82761416"
     },
     {
@@ -270,56 +318,8 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/e9f7a050b6b04fa589606d73a29a2d17.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9c893fe876b74ea9a24168047fc26687.base.image.jpg",
       "link": "https://openagenda.com/events/40786908"
-    },
-    {
-      "uid": "82924830",
-      "title": {
-        "fr": "Le Rallye de l'énergie : sur la piste du réseau de chaleur caché"
-      },
-      "description": {
-        "fr": "Mercredi 7 octobre, 14h00 Enersud et l’Agence Locale de l’Energie et du Climat du Pays de Rennes vous proposent de partir à l’aventure et d’enquêter, le temps d’un après-midi. Votre mission sera de partir à la recherche du réseau de chaleur Sud de Rennes Métropole : un véritable labyrinthe d’infrastructures qui réchauffent des logements, piscines, écoles ou encore des locaux d’entreprises à travers la ville. Toutefois, cette quête s’annonce semée d’embuches : malgré sa taille colossale, ce réseau demeure mystérieusement introuvable ! Seul ou à plusieurs, saurez-vous relever les énigmes et percer tous les mystères qui entourent cette installation ? ​Départs à 14h, 15h et 16h (durée 45') ​ ​Inscription conseillée https://www.helloasso.com/associations/agence-locale-de-l-energie/evenements/rallye-de-l-energie-aux-champs-libres"
-      },
-      "start": "2026-10-07T14:00:00",
-      "end": "2026-10-07T17:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e4abccc620b54f7ca7db222ff4a251e2.base.image.jpg",
-      "link": "https://openagenda.com/events/82924830"
-    },
-    {
-      "uid": "19385202",
-      "title": {
-        "fr": "Les pouvoirs insoupçonnés des aliments fermentés"
-      },
-      "description": {
-        "fr": "10 et 11 octobre De la transformation du lait en fromage à de nouvelles possibilités pour les aliments végétaux, la fermentation pourrait bien révolutionner notre manière de manger. Pour tout savoir sur ce sujet fascinant. Ne manquez pas l'escape game « Aux petits bocaux » ! Plongez dans une aventure originale : un chef étoilé a besoin de vous pour sauver son plat signature, menacé par une rupture de produits fermentés. Votre mission ? Comprendre les secrets de la fermentation, résoudre des énigmes et recréer les ingrédients indispensables… en seulement 15 minutes ! Une activité qui promet suspense, découvertes et rires en famille ou entre amis. Organisation et animation par des chercheurs de l’INRAE"
-      },
-      "start": "2026-10-10T14:00:00",
-      "end": "2026-10-11T19:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e0a984e3abca4eaa8123a85403fd06d2.base.image.jpg",
-      "link": "https://openagenda.com/events/19385202"
-    },
-    {
-      "uid": "47313360",
-      "title": {
-        "fr": "Arpentage Littéraire \"nous sommes les hôtes de la Terre\" de Philippe Descola"
-      },
-      "description": {
-        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un ouvrage riche \"politiques du faire-monde\" de Philippe Descola, anthropologue. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
-      },
-      "start": "2026-12-04T15:00:00",
-      "end": "2026-12-04T18:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/42f7a302ff8f42b4b6fa7f42c262c86e.base.image.jpg",
-      "link": "https://openagenda.com/events/47313360"
     }
   ]
 }
