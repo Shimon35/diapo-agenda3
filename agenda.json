@@ -194,22 +194,6 @@
       "link": "https://openagenda.com/events/5997080"
     },
     {
-      "uid": "83955983",
-      "title": {
-        "fr": "Étrangement Breizh"
-      },
-      "description": {
-        "fr": "26 et 27 septembre Découvrez les objets du musée les plus insolites, les plus curieux voire les plus étranges. Et accompagnez l’Ankou par-delà les sites funéraires, légendes et objets rituels qui peuplent la Bretagne depuis le néolithique. ​ ​Dans le cadre du festival Court Métrange"
-      },
-      "start": "2026-09-26T14:30:00",
-      "end": "2026-09-27T17:30:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/d9b1c7d311f24612b09d88c6b52e4819.base.image.jpg",
-      "link": "https://openagenda.com/events/83955983"
-    },
-    {
       "uid": "43072460",
       "title": {
         "fr": "Visite : l'Affaire Dreyfus à Rennes"
@@ -258,22 +242,6 @@
       "link": "https://openagenda.com/events/65476422"
     },
     {
-      "uid": "82761416",
-      "title": {
-        "fr": "Visite flash de l'exposition \"La mer jamais ne s'oublie\""
-      },
-      "description": {
-        "fr": "Dimanche 27 septembre, 14h15 L'exposition \"La mer jamais ne s'oublie\" propose une approche à la fois documentaire et poétique de notre rapport à la mer, à sa beauté mais aussi à sa fragilité. Pour le dernier jour d'ouverture, retrouvez Guillaume, médiateur, pour des visites flashs de découverte ou redécouverte de l'exposition."
-      },
-      "start": "2026-09-27T14:15:00",
-      "end": "2026-09-27T18:30:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/da34184e7a1c495cb7c321132f4fbe50.base.image.jpg",
-      "link": "https://openagenda.com/events/82761416"
-    },
-    {
       "uid": "40786908",
       "title": {
         "fr": "Comment étaient élevés les enfants dans le Finistère en 1899 ?"
@@ -320,6 +288,38 @@
       },
       "image": "https://img.openagenda.com/main/b8828abb1b1d42f28cd22d6b8b478fbd.base.image.jpg",
       "link": "https://openagenda.com/events/19385202"
+    },
+    {
+      "uid": "47313360",
+      "title": {
+        "fr": "Arpentage Littéraire \"nous sommes les hôtes de la Terre\" de Philippe Descola"
+      },
+      "description": {
+        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un ouvrage riche \"politiques du faire-monde\" de Philippe Descola, anthropologue. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
+      },
+      "start": "2026-12-04T15:00:00",
+      "end": "2026-12-04T18:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/7b39bd44c20a49a0a10e0a3b28159d03.base.image.jpg",
+      "link": "https://openagenda.com/events/47313360"
+    },
+    {
+      "uid": "25798343",
+      "title": {
+        "fr": "Boire et manger en Bretagne"
+      },
+      "description": {
+        "fr": "Dimanche 11 octobre, 14h30, 16h00 Au pays du kouign amann, des crêpes et des galettes, la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
+      },
+      "start": "2026-10-11T14:30:00",
+      "end": "2026-10-11T17:00:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/cee1bde510c648ffa7c151dc24b8ed8e.base.image.jpg",
+      "link": "https://openagenda.com/events/25798343"
     }
   ]
 }
