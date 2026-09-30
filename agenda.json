@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "3719356",
+      "title": {
+        "fr": "Face à la guerre - Dialogues européens 2026"
+      },
+      "description": {
+        "fr": "6 - 22 novembre Qu’est-ce qui fonde l’idée européenne ? Quelles menaces et quels enjeux traversent aujourd’hui le continent ? Quelles histoires nous rapprochent et quelles mémoires nous séparent ? Ces questions sont au cœur de la troisième édition des Dialogues européens. Tout au long du mois de novembre, une quinzaine de partenaires culturels et universitaires proposent des rencontres, des spectacles, des films témoignant de l’intrication de la question européenne dans notre vie artistique, démocratique, intellectuelle. Le temps fort se déroule aux Champs Libres du 19 au 22 novembre 2026."
+      },
+      "start": "2026-11-06T12:00:00",
+      "end": "2026-11-22T19:00:00",
+      "location": {
+        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/00854618022e4ca68d8a7b0ee0c95bf7.base.image.jpg",
+      "link": "https://openagenda.com/events/3719356"
+    },
+    {
       "uid": "14197349",
       "title": {
         "fr": "My dear Theo"
@@ -304,22 +320,6 @@
       },
       "image": null,
       "link": "https://openagenda.com/events/56555908"
-    },
-    {
-      "uid": "25798343",
-      "title": {
-        "fr": "Boire et manger en Bretagne"
-      },
-      "description": {
-        "fr": "Dimanche 11 octobre, 14h30, 16h00 Au pays du kouign amann, des crêpes et des galettes, la gastronomie en dit long sur la société bretonne, dès le Néolithique. Saviez-vous que le cidre n'était ni breton, ni normand ? Qui a inventé le tonneau ? Venez découvrir l’histoire bretonne à travers les objets du quotidien, liés à la nourriture et à la boisson : l’occasion de déconstruire certains clichés bretons, et de mieux comprendre les autres !"
-      },
-      "start": "2026-10-11T14:30:00",
-      "end": "2026-10-11T17:00:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/981f9f865219452b95ec67c3f7da5203.base.image.jpg",
-      "link": "https://openagenda.com/events/25798343"
     }
   ]
 }
