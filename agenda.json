@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "83500217",
+      "title": {
+        "fr": "Le Serment D'Europe"
+      },
+      "description": {
+        "fr": "23 septembre - 28 novembre Europe a 8 ans : elle assiste à un massacre, et sans le vouloir y prend part. 75 ans plus tard, une enquête rouvre les traces du passé. Europe doit témoigner. Pour retrouver les témoins, pour éclairer ce qui fut tu, Europe doit aujourd’hui parler. Mais comment affronter ce que l’on a enfoui ? Comment faire face à ce que l’on n’a jamais pu nommer ? Où sommes-nous ? Dans un présent composé où les lieux se superposent, où les époques cohabitent. Qui sont-ils ? Des femmes et des hommes surgis comme des figures de la nuit, traversées par l’héritage de la violence, la culpabilité, le silence. Comment en parler ? En laissant les langues se heurter, se traduire, au cœur d’un même crime. Avec cette pièce chorale, Wajdi Mouawad explore la mémoire d’un crime, le poids du silence et la manière dont le traumatisme traverse les âges."
+      },
+      "start": "2026-09-23T20:30:00",
+      "end": "2026-11-28T22:50:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/e5a95016f9dd49b2a0b389b114805619.base.image.jpg",
+      "link": "https://openagenda.com/events/83500217"
+    },
+    {
       "uid": "14197349",
       "title": {
         "fr": "My dear Theo"
@@ -14,24 +30,8 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fe27effef1e747c3b0b31b7497be75e5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/90afae1e80744912afd21d64251a45a0.base.image.jpg",
       "link": "https://openagenda.com/events/14197349"
-    },
-    {
-      "uid": "8628716",
-      "title": {
-        "fr": "Musiques interdites"
-      },
-      "description": {
-        "fr": "24 et 25 novembre Un spectacle à l'Opéra, en partenariat avec les Dialogues européens. Ce spectacle est un hommage à toutes celles et ceux, artistes, compositrices et compositeurs, qui ont contribué au bouillonnement culturel de l’Allemagne avant que leurs œuvres soient censurées et qualifiées de « dégénérées ». Le collectif ActeSix fait revivre ce répertoire oublié, perdu, caché dans un cabaret musical et engagé."
-      },
-      "start": "2026-11-24T20:00:00",
-      "end": "2026-11-25T21:45:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/8902150b99b04b2f81d700b25b3a4644.base.image.jpg",
-      "link": "https://openagenda.com/events/8628716"
     },
     {
       "uid": "9737509",
@@ -46,8 +46,24 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/976e58ae5e37400c9bcdb27b6fd398bf.base.image.jpg",
+      "image": "https://img.openagenda.com/main/ca78494a10ca47808ee76e9c36759410.base.image.jpg",
       "link": "https://openagenda.com/events/9737509"
+    },
+    {
+      "uid": "8628716",
+      "title": {
+        "fr": "Musiques interdites"
+      },
+      "description": {
+        "fr": "24 et 25 novembre Un spectacle à l'Opéra, en partenariat avec les Dialogues européens. Ce spectacle est un hommage à toutes celles et ceux, artistes, compositrices et compositeurs, qui ont contribué au bouillonnement culturel de l’Allemagne avant que leurs œuvres soient censurées et qualifiées de « dégénérées ». Le collectif ActeSix fait revivre ce répertoire oublié, perdu, caché dans un cabaret musical et engagé."
+      },
+      "start": "2026-11-24T20:00:00",
+      "end": "2026-11-25T21:45:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/a4c6efbd3f134e5b91d43605d1f1e9d3.base.image.jpg",
+      "link": "https://openagenda.com/events/8628716"
     },
     {
       "uid": "54610838",
@@ -62,7 +78,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6993e30dc99844818a4e7a52b9119cb9.base.image.jpg",
+      "image": "https://img.openagenda.com/main/872eb6f2ca454dcaa53d7eb1bafc98c6.base.image.jpg",
       "link": "https://openagenda.com/events/54610838"
     },
     {
@@ -78,7 +94,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3e8030d436f644b6b6f16364f5669225.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f55ee87fcdb040d6842111cdd906836e.base.image.jpg",
       "link": "https://openagenda.com/events/56015590"
     },
     {
@@ -94,7 +110,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8bc2ba2795e54d30af7e01f85bf4d95a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bef86ba2fa884796a0acfe7038d4e765.base.image.jpg",
       "link": "https://openagenda.com/events/91878811"
     },
     {
@@ -110,7 +126,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/5a752b7042904aaf81e77885de92d2d7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a1bbfade6c10409abca6a2ea2f6b31a5.base.image.jpg",
       "link": "https://openagenda.com/events/58877818"
     },
     {
@@ -126,7 +142,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7ca00d794b914b1b9dc469c1bc65b173.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e19b53db034e4c30ac3a85753c574627.base.image.jpg",
       "link": "https://openagenda.com/events/27043227"
     },
     {
@@ -142,7 +158,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7fddf218fb1a47f594bce419b26fde4c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/cbe31cc0402f4a73a6ce2cb0996c652d.base.image.jpg",
       "link": "https://openagenda.com/events/1143810"
     },
     {
@@ -158,7 +174,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/849993940571439489d0d70df5652b84.base.image.jpg",
+      "image": "https://img.openagenda.com/main/300343e9bf014530805f199835992eb1.base.image.jpg",
       "link": "https://openagenda.com/events/17614513"
     },
     {
@@ -174,7 +190,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/81ffcb013cd9408db533d37d8fe427a2.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e453ab0691964a8e98b8f74f6c2b8ac6.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -190,7 +206,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7e94ae8eb79548a9ac41593a85e58eed.base.image.jpg",
+      "image": "https://img.openagenda.com/main/18803ac5ac9c4ea6b4b064893839f2db.base.image.jpg",
       "link": "https://openagenda.com/events/45044957"
     },
     {
@@ -206,7 +222,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3870fd23627643fa94bda1a669e05b94.base.image.jpg",
+      "image": "https://img.openagenda.com/main/10ab471aefd84e88a35ee0e925f601f3.base.image.jpg",
       "link": "https://openagenda.com/events/5997080"
     },
     {
@@ -222,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/49ac25fcbc094413a7df0fa3799ce4ad.base.image.jpg",
+      "image": "https://img.openagenda.com/main/28de1ce2ca57424b885db9840933baca.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -238,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b2712b22da9b45d88055fe4a9bb7e925.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b101776a987340d591c5e9d811c1963e.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -254,7 +270,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f579c2de86e44f24b20e5f63d14f9209.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3162aa09835245e49cf9cef03f174c5c.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -270,7 +286,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/653198c31a07455595e72a2fedc8d1bc.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d1f58c5aa342404982d376e5386d35d5.base.image.jpg",
       "link": "https://openagenda.com/events/40786908"
     },
     {
@@ -286,7 +302,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d6a4de4c81944638a6b27da9ea423c17.base.image.jpg",
+      "image": "https://img.openagenda.com/main/47f7b898a2874922953466fe3b7f5706.base.image.jpg",
       "link": "https://openagenda.com/events/82924830"
     },
     {
@@ -302,24 +318,8 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/571e28e58d314104bdaeb900ffb033d1.base.image.jpg",
+      "image": "https://img.openagenda.com/main/08db26b4080c4343b6ea803057fd69c3.base.image.jpg",
       "link": "https://openagenda.com/events/19385202"
-    },
-    {
-      "uid": "47313360",
-      "title": {
-        "fr": "Arpentage Littéraire \"nous sommes les hôtes de la Terre\" de Philippe Descola"
-      },
-      "description": {
-        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un ouvrage riche \"politiques du faire-monde\" de Philippe Descola, anthropologue. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
-      },
-      "start": "2026-12-04T15:00:00",
-      "end": "2026-12-04T18:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/6e2c3eedf47a4ccbb3edd5fe8077851e.base.image.jpg",
-      "link": "https://openagenda.com/events/47313360"
     }
   ]
 }
