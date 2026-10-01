@@ -14,8 +14,24 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c559963ea26d4fac81c091d41294ec82.base.image.jpg",
+      "image": "https://img.openagenda.com/main/fe27effef1e747c3b0b31b7497be75e5.base.image.jpg",
       "link": "https://openagenda.com/events/14197349"
+    },
+    {
+      "uid": "8628716",
+      "title": {
+        "fr": "Musiques interdites"
+      },
+      "description": {
+        "fr": "24 et 25 novembre Un spectacle à l'Opéra, en partenariat avec les Dialogues européens. Ce spectacle est un hommage à toutes celles et ceux, artistes, compositrices et compositeurs, qui ont contribué au bouillonnement culturel de l’Allemagne avant que leurs œuvres soient censurées et qualifiées de « dégénérées ». Le collectif ActeSix fait revivre ce répertoire oublié, perdu, caché dans un cabaret musical et engagé."
+      },
+      "start": "2026-11-24T20:00:00",
+      "end": "2026-11-25T21:45:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/8902150b99b04b2f81d700b25b3a4644.base.image.jpg",
+      "link": "https://openagenda.com/events/8628716"
     },
     {
       "uid": "9737509",
@@ -30,8 +46,24 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b80fdcc8d8e34416829f3d648f496f40.base.image.jpg",
+      "image": "https://img.openagenda.com/main/976e58ae5e37400c9bcdb27b6fd398bf.base.image.jpg",
       "link": "https://openagenda.com/events/9737509"
+    },
+    {
+      "uid": "54610838",
+      "title": {
+        "fr": "Aliens"
+      },
+      "description": {
+        "fr": "Jeudi 19 novembre, 20h00 Projection au Tambour d'un film documentaire dans le cadre des Dialogues européens. Aliens est un road trip entre Marta McIlduff et Alessandra Celesia, mère et fille dans la vie comme sur scène, qui mêle récits personnels, témoignages et événements historiques. Le point de départ : l’histoire des immigrés italiens arrivés à Belfast entre les deux guerres, avec le rêve de poursuivre leur route jusqu’à New York. ​ Dans le cadre du Mois du film documentaire, avec le soutien de la Cinémathèque du documentaire, en partenariat avec Comptoir du Doc, le podcast Cracker l'époque et le département d'Italien de l'Université Rennes 2. ​ ​ https://culture.service.univ-rennes2.fr/event/spectacle-aliens"
+      },
+      "start": "2026-11-19T20:00:00",
+      "end": "2026-11-19T22:00:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/6993e30dc99844818a4e7a52b9119cb9.base.image.jpg",
+      "link": "https://openagenda.com/events/54610838"
     },
     {
       "uid": "56015590",
@@ -46,7 +78,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8612bdf8b3df408c94378e1671b20a76.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3e8030d436f644b6b6f16364f5669225.base.image.jpg",
       "link": "https://openagenda.com/events/56015590"
     },
     {
@@ -62,7 +94,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7432cf4c276f4428a2677a8eab76a284.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8bc2ba2795e54d30af7e01f85bf4d95a.base.image.jpg",
       "link": "https://openagenda.com/events/91878811"
     },
     {
@@ -78,7 +110,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/dcf58ae9439647ec8e5c344754fc0c06.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5a752b7042904aaf81e77885de92d2d7.base.image.jpg",
       "link": "https://openagenda.com/events/58877818"
     },
     {
@@ -94,7 +126,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/11035f8433d24e9783b64ac99a15a1b5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7ca00d794b914b1b9dc469c1bc65b173.base.image.jpg",
       "link": "https://openagenda.com/events/27043227"
     },
     {
@@ -110,7 +142,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/67363272124e4990985741e04a1d1005.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7fddf218fb1a47f594bce419b26fde4c.base.image.jpg",
       "link": "https://openagenda.com/events/1143810"
     },
     {
@@ -126,7 +158,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b94fab0f12684b55aeaa13bd3a27f387.base.image.jpg",
+      "image": "https://img.openagenda.com/main/849993940571439489d0d70df5652b84.base.image.jpg",
       "link": "https://openagenda.com/events/17614513"
     },
     {
@@ -142,7 +174,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/dad7cf9b69a6489f8091002594bda642.base.image.jpg",
+      "image": "https://img.openagenda.com/main/81ffcb013cd9408db533d37d8fe427a2.base.image.jpg",
       "link": "https://openagenda.com/events/78620219"
     },
     {
@@ -158,7 +190,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7c69371d0265456aafb3637f40764bcf.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7e94ae8eb79548a9ac41593a85e58eed.base.image.jpg",
       "link": "https://openagenda.com/events/45044957"
     },
     {
@@ -174,7 +206,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/95c975375db844d5b84b544636548166.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3870fd23627643fa94bda1a669e05b94.base.image.jpg",
       "link": "https://openagenda.com/events/5997080"
     },
     {
@@ -190,7 +222,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/656de53d3da64c358a80d64d053e929e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/49ac25fcbc094413a7df0fa3799ce4ad.base.image.jpg",
       "link": "https://openagenda.com/events/43072460"
     },
     {
@@ -206,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/1c57b744c28c49dda1586a32171b53f7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b2712b22da9b45d88055fe4a9bb7e925.base.image.jpg",
       "link": "https://openagenda.com/events/87217212"
     },
     {
@@ -222,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d62029bd1e71416eb0cda8fae004064d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f579c2de86e44f24b20e5f63d14f9209.base.image.jpg",
       "link": "https://openagenda.com/events/65476422"
     },
     {
@@ -238,7 +270,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2c0391a20a8f4b36b5a137b0fac3f74a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/653198c31a07455595e72a2fedc8d1bc.base.image.jpg",
       "link": "https://openagenda.com/events/40786908"
     },
     {
@@ -254,7 +286,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/1be3d843910044ed96cee981a36d5172.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d6a4de4c81944638a6b27da9ea423c17.base.image.jpg",
       "link": "https://openagenda.com/events/82924830"
     },
     {
@@ -270,7 +302,7 @@
       "location": {
         "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c908d7d9e7434d14a67f74852065bbee.base.image.jpg",
+      "image": "https://img.openagenda.com/main/571e28e58d314104bdaeb900ffb033d1.base.image.jpg",
       "link": "https://openagenda.com/events/19385202"
     },
     {
@@ -286,40 +318,8 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/5c8b3a2eadc04890a0e687d42fae8bff.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6e2c3eedf47a4ccbb3edd5fe8077851e.base.image.jpg",
       "link": "https://openagenda.com/events/47313360"
-    },
-    {
-      "uid": "56555908",
-      "title": {
-        "fr": "Une histoire de Bretagne de la Préhistoire à la Révolution"
-      },
-      "description": {
-        "fr": "18 octobre - 13 décembre A quelle époque les premières populations s'installent dans la région ? D'où viennent les menhirs ? Qui était Anne de Bretagne ? Pour le découvrir, laissez-vous embarquer dans la riche histoire de la Bretagne, de la Préhistoire à la Révolution."
-      },
-      "start": "2026-10-18T14:30:00",
-      "end": "2026-12-13T15:30:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/59753d5522e842fbb6d67785b142009b.base.image.jpg",
-      "link": "https://openagenda.com/events/56555908"
-    },
-    {
-      "uid": "94878984",
-      "title": {
-        "fr": "Mourir en Bretagne"
-      },
-      "description": {
-        "fr": "3 et 4 octobre Au pays de l'Ankou et des capes de deuil, les rites funéraires ont évolué en fonction des époques, et nous en disent beaucoup sur celles et ceux qui ont habité la région. Un voyage entre l'ethnologique et le légendaire en quête des cairns, dolmens, gisants et fantômes bretons, de la Préhistoire à la Révolution."
-      },
-      "start": "2026-10-03T16:00:00",
-      "end": "2026-10-04T15:30:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/589bf37a7ad24473aad29c6b6abc9c20.base.image.jpg",
-      "link": "https://openagenda.com/events/94878984"
     }
   ]
 }
