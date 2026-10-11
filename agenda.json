@@ -178,22 +178,6 @@
       "link": "https://openagenda.com/eds/events/1143810_dans-la-peau-dun-journaliste-scientifique"
     },
     {
-      "uid": "17614513",
-      "title": {
-        "fr": "Atelier épicé"
-      },
-      "description": {
-        "fr": "10 et 11 octobre Venez découvrir différentes épices en participant à des ateliers ludiques. En lien avec l'exposition \"Le goût des épices\", vous pourrez tester votre odorat et vos connaissances sur l'origine géographique des épices."
-      },
-      "start": "2026-10-10T15:00:00",
-      "end": "2026-10-11T17:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/eff9b75d277b48fe933ac97bcc1bb8c1.base.image.jpg",
-      "link": "https://openagenda.com/eds/events/17614513_atelier-epice"
-    },
-    {
       "uid": "69917796",
       "title": {
         "fr": "An afer Dreyfus e Roazhon e brezhoneg"
@@ -320,6 +304,22 @@
       },
       "image": "https://img.openagenda.com/main/3c27f334568845909c0bb917b1357b66.base.image.jpg",
       "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
+    },
+    {
+      "uid": "56555908",
+      "title": {
+        "fr": "Une histoire de Bretagne de la Préhistoire à la Révolution"
+      },
+      "description": {
+        "fr": "18 octobre - 31 décembre A quelle époque les premières populations s'installent dans la région ? D'où viennent les menhirs ? Qui était Anne de Bretagne ? Pour le découvrir, laissez-vous embarquer dans la riche histoire de la Bretagne, de la Préhistoire à la Révolution."
+      },
+      "start": "2026-10-18T14:30:00",
+      "end": "2026-12-31T15:30:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/58bf6adb891c41b6bba39177c3c0de72.base.image.jpg",
+      "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
     }
   ]
 }
