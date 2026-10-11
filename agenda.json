@@ -162,22 +162,6 @@
       "link": "https://openagenda.com/rdv4c/events/9683303_rdv4c-japonais"
     },
     {
-      "uid": "1143810",
-      "title": {
-        "fr": "Dans la peau d'un journaliste scientifique"
-      },
-      "description": {
-        "fr": "10 et 11 octobre Venez débusquer, comme un journaliste scientifique, les 5 piliers de la désinformation scientifique. A l'aide d'un jeu-enquête, aiguisez votre esprit critique et votre sens de l'analyse pour déjouer les informations scientifiques biaisées et repartez en pouvant dire « cette désinformation ne passera pas par moi ! » ​ ​Organisation et animation par l'association \"La Terre est ronde !\""
-      },
-      "start": "2026-10-10T14:00:00",
-      "end": "2026-10-11T19:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/12d789cf020e49969b14956d104f3a9b.base.image.jpg",
-      "link": "https://openagenda.com/eds/events/1143810_dans-la-peau-dun-journaliste-scientifique"
-    },
-    {
       "uid": "69917796",
       "title": {
         "fr": "An afer Dreyfus e Roazhon e brezhoneg"
@@ -274,22 +258,6 @@
       "link": "https://openagenda.com/mdb/events/40786908_comment-etaient-eleves-les-enfants-dans-le-finistere-en-1899"
     },
     {
-      "uid": "19385202",
-      "title": {
-        "fr": "Les pouvoirs insoupçonnés des aliments fermentés"
-      },
-      "description": {
-        "fr": "10 et 11 octobre De la transformation du lait en fromage à de nouvelles possibilités pour les aliments végétaux, la fermentation pourrait bien révolutionner notre manière de manger. Pour tout savoir sur ce sujet fascinant. Ne manquez pas l'escape game « Aux petits bocaux » ! Plongez dans une aventure originale : un chef étoilé a besoin de vous pour sauver son plat signature, menacé par une rupture de produits fermentés. Votre mission ? Comprendre les secrets de la fermentation, résoudre des énigmes et recréer les ingrédients indispensables… en seulement 15 minutes ! Une activité qui promet suspense, découvertes et rires en famille ou entre amis. Organisation et animation par des chercheurs de l’INRAE"
-      },
-      "start": "2026-10-10T14:00:00",
-      "end": "2026-10-11T19:00:00",
-      "location": {
-        "name": "Hall - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/e478fed79cb34a7fbb25f8722d919c19.base.image.jpg",
-      "link": "https://openagenda.com/eds/events/19385202_les-pouvoirs-insoupconnes-des-aliments-fermentes"
-    },
-    {
       "uid": "47313360",
       "title": {
         "fr": "Arpentage Littéraire \"nous sommes les hôtes de la Terre\" de Philippe Descola"
@@ -320,6 +288,38 @@
       },
       "image": "https://img.openagenda.com/main/58bf6adb891c41b6bba39177c3c0de72.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
+    },
+    {
+      "uid": "94878984",
+      "title": {
+        "fr": "Mourir en Bretagne"
+      },
+      "description": {
+        "fr": "3 - 27 octobre Au pays de l'Ankou et des capes de deuil, les rites funéraires ont évolué en fonction des époques, et nous en disent beaucoup sur celles et ceux qui ont habité la région. Un voyage entre l'ethnologique et le légendaire en quête des cairns, dolmens, gisants, monuments aux morts et fantômes bretons, de la Préhistoire à la Révolution."
+      },
+      "start": "2026-10-03T16:00:00",
+      "end": "2026-10-27T15:30:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/638c1a9b80e547aeab85b577de79c476.base.image.jpg",
+      "link": "https://openagenda.com/mdb/events/94878984_mourir-en-bretagne-4586833"
+    },
+    {
+      "uid": "4146535",
+      "title": {
+        "fr": "Lecture de ouf signées"
+      },
+      "description": {
+        "fr": "Samedi 17 octobre, 15h00 Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
+      },
+      "start": "2026-10-17T15:00:00",
+      "end": "2026-10-17T15:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/bib/events/4146535_lecture-de-ouf-signees"
     }
   ]
 }
