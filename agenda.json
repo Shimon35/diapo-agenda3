@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "70301682",
+      "title": {
+        "fr": "Les sources de l'affaire Dreyfus à Rennes"
+      },
+      "description": {
+        "fr": "Mardi 17 novembre, 18h00 Rencontre à l'auditorium des Archives Départementales d'Ille-et-Vilaine. En 1894, un premier procès condamne Alfred Dreyfus pour trahison. Coupable « idéal » dans un contexte marqué par un fort antisémitisme, il est en réalité victime d’une machination judiciaire. A l’été 1899, Rennes vit sous une tension extrême tandis que journalistes, militants et curieux affluent pour suivre le procès en révision du capitaine Dreyfus. Comment la ville, ses habitants, les pouvoirs publics, les journalistes ont vécu ce procès historique ? Les Archives départementales d’Ille-et-Vilaine, les Archives de Rennes et le Musée de Bretagne s’associent pour vous présenter les sources, riches et nombreuses du procès : photographies, correspondance, articles de presse, rapports de police, comptes rendus des audiences du conseil de guerre… Dans le cadre de la nouvelle exposition permanente L’affaire Dreyfus à Rennes présentée au Musée de Bretagne – Les Champs Libres. ​ Entrée libre dans la limite des places disponibles. Réservation conseillée en écrivant à rencontres.archives@ille-et-vilaine.fr"
+      },
+      "start": "2026-11-17T18:00:00",
+      "end": "2026-11-17T19:30:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/6c7aa81fac66476e95d6991c43534b94.base.image.jpg",
+      "link": "https://openagenda.com/mdb/events/70301682_les-sources-de-laffaire-dreyfus-a-rennes"
+    },
+    {
       "uid": "65248297",
       "title": {
         "fr": "Antiwords – Spitfire cie"
@@ -14,7 +30,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7fc12bd9c00548feaef1b0b0d62693f6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f3da250c4f444fb183b4513d5f9d9ac4.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
     },
     {
@@ -30,7 +46,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8532bc15e8ef4b6eabdc89c56f38eb35.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b72e730af97e4ef5b6445f220a1cc739.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -46,7 +62,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/04d1d9698cf144f786fa0fcb765b4aba.base.image.jpg",
+      "image": "https://img.openagenda.com/main/2f6fa290a5bf4d16892e66a3a1ec4767.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/9737509_vesna-5162578"
     },
     {
@@ -62,7 +78,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d41fb17eda2649eb8cec860b99066432.base.image.jpg",
+      "image": "https://img.openagenda.com/main/20126860c0a4436280d7bcc783be8bd8.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/8628716_musiques-interdites-5207285"
     },
     {
@@ -78,7 +94,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/89e6dcc3cf334812804fc9930b54d0af.base.image.jpg",
+      "image": "https://img.openagenda.com/main/26ec5c3a3fda420ea38a7454556f53d2.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/54610838_aliens"
     },
     {
@@ -94,7 +110,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b6758e701deb41d28b94ac8f5d82db17.base.image.jpg",
+      "image": "https://img.openagenda.com/main/46a7601c65ef46a0809736ffa33203c9.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/56015590_rencontre-avec-velibor-colic"
     },
     {
@@ -110,7 +126,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/73b29221ca3c45319006ada408a16c51.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b5a18b3c566048d7834ea60dd81a02f7.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -126,7 +142,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c7ed78e4ace44fe08ee2a658f67e97ac.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d5a3324ddb114aa3922d4b234962b396.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -142,7 +158,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7a1416905fe2419bafdafb5471426737.base.image.jpg",
+      "image": "https://img.openagenda.com/main/70a8a79aae514d4795f5ec9a26d82c38.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -190,7 +206,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ce6bb7e38fa0422bb4d7f2bcea0a5f86.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9971e393155b46639ecb7952316bf0a3.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
     },
     {
@@ -206,7 +222,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/56fa51a74faa4b2a97831af08e8f32a2.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9ee859ad9b534aa4bea64a4c256fbd77.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
     },
     {
@@ -222,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8ce6f9bc874c4631ad015f2aa39bcda0.base.image.jpg",
+      "image": "https://img.openagenda.com/main/80c1377fe7ac4145a180d61e07c5b410.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/87217212_un-petit-crabe-au-musee-111671"
     },
     {
@@ -238,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/145507bec2154176ab92ea2bd4e58ca0.base.image.jpg",
+      "image": "https://img.openagenda.com/main/2885799c010145ae81fcbdcb0b72a529.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/65476422_la-visite-qui-fait-un-peu-peur-3683953"
     },
     {
@@ -254,7 +270,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/be3fb309272646818cc8eef1bfaaa9ee.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7ce8a5d89197485288b3f59ca59961c7.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/40786908_comment-etaient-eleves-les-enfants-dans-le-finistere-en-1899"
     },
     {
@@ -270,7 +286,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a7ddef47508d448594d5263046bfaf15.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d3e86441a94d4eadb58856c4c8f0228e.base.image.jpg",
       "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
     },
     {
@@ -286,7 +302,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/1fdd7b236c114124ade4af27b4ec1f4b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3a579faafabf4e288525550d196f4f76.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
     },
     {
@@ -302,24 +318,8 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8e84a12f898240e2a55b5e9c99f02888.base.image.jpg",
+      "image": "https://img.openagenda.com/main/1cb1dc30a638414a84c2383a4c2da96b.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/94878984_mourir-en-bretagne-4586833"
-    },
-    {
-      "uid": "4146535",
-      "title": {
-        "fr": "Lecture de ouf signées"
-      },
-      "description": {
-        "fr": "Samedi 17 octobre, 15h00 Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
-      },
-      "start": "2026-10-17T15:00:00",
-      "end": "2026-10-17T15:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/bib/events/4146535_lecture-de-ouf-signees"
     }
   ]
 }
