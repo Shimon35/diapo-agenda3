@@ -242,22 +242,6 @@
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
-      "uid": "87217212",
-      "title": {
-        "fr": "Un petit crabe au musée"
-      },
-      "description": {
-        "fr": "20 - 29 octobre Le petit crabe Odorico est un peu timide, il s'est caché dans le musée. Partez à sa recherche en découvrant son histoire à travers les collections du musée. ​ ​Pour les enfants accompagnés de 3 à 5 ans. ​Sans réservation, dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
-      },
-      "start": "2026-10-20T10:30:00",
-      "end": "2026-10-29T11:50:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/ca64323a7f244a44a4b629d94c95c0b9.base.image.jpg",
-      "link": "https://openagenda.com/mdb/events/87217212_un-petit-crabe-au-musee-111671"
-    },
-    {
       "uid": "65476422",
       "title": {
         "fr": "La visite qui fait (un peu) peur"
@@ -320,6 +304,22 @@
       },
       "image": "https://img.openagenda.com/main/c5abb6e42230433f8966990bde5133e6.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
+    },
+    {
+      "uid": "4146535",
+      "title": {
+        "fr": "Lecture de ouf signées"
+      },
+      "description": {
+        "fr": "17 octobre - 5 décembre, certains samedis Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
+      },
+      "start": "2026-10-17T15:00:00",
+      "end": "2026-12-05T15:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/bib/events/4146535_lecture-de-ouf-signees"
     }
   ]
 }
