@@ -242,22 +242,6 @@
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
-      "uid": "65476422",
-      "title": {
-        "fr": "La visite qui fait (un peu) peur"
-      },
-      "description": {
-        "fr": "17 - 31 octobre Des rencontres surprenantes, quelques fantômes et revenants… Venez frissonner à travers de mystérieuses légendes de Bretagne, tout en vous amusant en famille lors de cette visite contée ! Dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
-      },
-      "start": "2026-10-17T16:00:00",
-      "end": "2026-10-31T16:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/301bfe8c6367428bafcee7f2f8d875e0.base.image.jpg",
-      "link": "https://openagenda.com/mdb/events/65476422_la-visite-qui-fait-un-peu-peur-3683953"
-    },
-    {
       "uid": "40786908",
       "title": {
         "fr": "Comment étaient élevés les enfants dans le Finistère en 1899 ?"
@@ -320,6 +304,22 @@
       },
       "image": null,
       "link": "https://openagenda.com/bib/events/4146535_lecture-de-ouf-signees"
+    },
+    {
+      "uid": "23945051",
+      "title": {
+        "fr": "Projection en audio-description"
+      },
+      "description": {
+        "fr": "25 septembre - 11 décembre, certains vendredis Projection de films Un vendredi par mois, profitez d'une séance de cinéma en audio-description, accessible aux aveugles et malvoyants. Au programme : une sélection de films français récents. Pour connaître la programmation, adressez-vous à l'accueil."
+      },
+      "start": "2026-09-25T15:00:00",
+      "end": "2026-12-11T17:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/dcl/events/23945051_projection-en-audio-description"
     }
   ]
 }
