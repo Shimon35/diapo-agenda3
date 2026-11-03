@@ -194,22 +194,6 @@
       "link": "https://openagenda.com/rdv4c/events/9683303_rdv4c-japonais"
     },
     {
-      "uid": "69917796",
-      "title": {
-        "fr": "An afer Dreyfus e Roazhon e brezhoneg"
-      },
-      "description": {
-        "fr": "6 octobre et 3 novembre E-pad an hañv 1899 e Roazhon e voe dalc'het eil prosez ar c'habiten Alfred Dreyfus. Unan eus aferioù barn pouezusañ eo en istor Frañs. Gant dielloù, kazetennoù eus ar c’houlz-se, hag un nebeud traezoù personel, ar weladenn a lak war-wel pazennoù pennañ an afer-se hag a freuzas ar vro hag a verkas un dro en istor politikel ha sokial Bro-C’hall."
-      },
-      "start": "2026-10-06T17:30:00",
-      "end": "2026-11-03T18:30:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/mdb/events/69917796_visite-laffaire-dreyfus-a-rennes-9618958"
-    },
-    {
       "uid": "45044957",
       "title": {
         "fr": "L’Europe – un État qui s’ignore ?"
@@ -320,6 +304,22 @@
       },
       "image": null,
       "link": "https://openagenda.com/bib/events/4146535_lecture-de-ouf-signees"
+    },
+    {
+      "uid": "23945051",
+      "title": {
+        "fr": "Projection en audio-description"
+      },
+      "description": {
+        "fr": "25 septembre - 11 décembre, certains vendredis Projection de films Un vendredi par mois, profitez d'une séance de cinéma en audio-description, accessible aux aveugles et malvoyants. Au programme : une sélection de films français récents. Pour connaître la programmation, adressez-vous à l'accueil."
+      },
+      "start": "2026-09-25T15:00:00",
+      "end": "2026-12-11T17:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/dcl/events/23945051_projection-en-audio-description"
     }
   ]
 }
