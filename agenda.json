@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "96792499",
+      "title": {
+        "fr": "[ANNULE] « Mon livre, mon soucy et mon heureux plaisir\" : le livre de Marguerite de Bretagne"
+      },
+      "description": {
+        "fr": "Jeudi 5 novembre, 18h30 En 1599, Marguerite d’Avaugour, dite « de Bretagne », s’éteint à seulement 35 ans. Elle laisse un recueil délicatement calligraphié de poésies qu’elle et son mari avaient échangées depuis leur première rencontre : Mon livre, mon soucy et mon heureux plaisir . Sarah Toulouse, conservatrice du fonds ancien, présente ce rare témoignage de la pratique de la poésie féminine à la fin du 16e siècle, et de la vie intime d’une jeune femme disparue trop tôt."
+      },
+      "start": "2026-11-05T18:30:00",
+      "end": "2026-11-05T20:00:00",
+      "location": {
+        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/84430ea4bf8b40fba2fac2ca5c376299.base.image.jpg",
+      "link": "https://openagenda.com/bib/events/96792499_mon-livre-mon-soucy-et-mon-heureux-plaisir-le-livre-de-marguerite-de-bretagne"
+    },
+    {
       "uid": "45143763",
       "title": {
         "fr": "Des IA de plus en plus puissantes : un défi pour nos sociétés !"
@@ -46,7 +62,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/199fd3ec3eec458ab5e3dfad71e0dfde.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0f1e58c969f6438ab9d80e376c470240.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/70301682_les-sources-de-laffaire-dreyfus-a-rennes"
     },
     {
@@ -62,7 +78,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/aa4525eaa16d406db90a2e42c71a12a0.base.image.jpg",
+      "image": "https://img.openagenda.com/main/1ae58e0310aa490da8fe71b86f1bd0e7.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
     },
     {
@@ -78,7 +94,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d62417c0e29a41c789cd289c2e2625a7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0e6618984a004a989726c40dacc35db8.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -94,7 +110,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ffd8d15f6b5c4bafba8d3f43cea0215f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4011efb9cf1844178852eeaa6e5ccb5e.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/9737509_vesna-5162578"
     },
     {
@@ -110,7 +126,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/72bfe771248442ad82eb09b85271ee0d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/47335da2dfcb48bdabafd1e1cd5e96a7.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/8628716_musiques-interdites-5207285"
     },
     {
@@ -126,7 +142,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/1b39696162ad4613acb96d9ab43d47b3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/02279de1aa0548029a5ab9b1adff740d.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/54610838_aliens"
     },
     {
@@ -142,7 +158,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ff119c8f763240b7a1e3cfa27dc6607b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/dc619067558542dd8557a89afa819c2c.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/56015590_rencontre-avec-velibor-colic"
     },
     {
@@ -158,7 +174,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3b113fe676bb4b0b8640a2e550c97d11.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a2c86863572440d58e1f6242d08f1c81.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -174,7 +190,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ecea1e28d26c438cbf4936e455d24fa5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7a73f27b2a4d4b59b10570c802fefc1c.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -190,7 +206,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/25d3893a7a88403a96b3a3bc2901ac02.base.image.jpg",
+      "image": "https://img.openagenda.com/main/2c513ff5985843c7ae593d8d425e6f43.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -222,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/99d3efb3cd8f47f1b4871cdad634582d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/604994e26d104fd4b9f4525331e4150e.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
     },
     {
@@ -238,8 +254,24 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b84bb19861b743e8831fa37597543ccd.base.image.jpg",
+      "image": "https://img.openagenda.com/main/62e838cfcf1e4c31a1b6fd8c4c3568d7.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
+    },
+    {
+      "uid": "83824272",
+      "title": {
+        "fr": "Parlons ciné spécial Travelling et cinéma italien"
+      },
+      "description": {
+        "fr": "Jeudi 18 février 2027, 17h30 Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Pour cette séance spéciale dans le cadre du festival Travelling : un thème : le cinéma italien ! ​Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
+      },
+      "start": "2027-02-18T17:30:00",
+      "end": "2027-02-18T18:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/942d41a98e5a4eb5afa2756a63123e71.base.image.jpg",
+      "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
       "uid": "41081429",
@@ -258,22 +290,6 @@
       "link": "https://openagenda.com/mdb/events/41081429_le-breton-pour-les-nuls-du-19e-siecle-a-nos-jours"
     },
     {
-      "uid": "83824272",
-      "title": {
-        "fr": "Parlons ciné spécial Travelling et cinéma italien"
-      },
-      "description": {
-        "fr": "Jeudi 18 février 2027, 17h30 Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Pour cette séance spéciale dans le cadre du festival Travelling : un thème : le cinéma italien ! ​Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
-      },
-      "start": "2027-02-18T17:30:00",
-      "end": "2027-02-18T18:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/7e8e8c7539874e64baf2a1ca3c83b653.base.image.jpg",
-      "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
-    },
-    {
       "uid": "72157573",
       "title": {
         "fr": "La petite visite du musée"
@@ -286,7 +302,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/e23cdf7af94d4602a49642fc7f6539ab.base.image.jpg",
+      "image": "https://img.openagenda.com/main/edd40580d40f40949c7bf16dcd0793f6.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
     },
     {
@@ -302,24 +318,8 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/71f8c173f3584bf8afe3a99932434e90.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0414281d314542a3aa9d3c58fd0c2827.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/40786908_comment-etaient-eleves-les-enfants-dans-le-finistere-en-1899"
-    },
-    {
-      "uid": "47313360",
-      "title": {
-        "fr": "Arpentage Littéraire \"Politiques du faire-monde\" de Philippe Descola"
-      },
-      "description": {
-        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un ouvrage riche \"politiques du faire-monde\" de Philippe Descola, anthropologue. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
-      },
-      "start": "2026-12-04T15:00:00",
-      "end": "2026-12-04T18:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/6a6437c3651c45a3aaa672a507814b0c.base.image.jpg",
-      "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
     }
   ]
 }
