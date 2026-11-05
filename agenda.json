@@ -2,22 +2,6 @@
   "total": 20,
   "events": [
     {
-      "uid": "96792499",
-      "title": {
-        "fr": "[ANNULE] « Mon livre, mon soucy et mon heureux plaisir\" : le livre de Marguerite de Bretagne"
-      },
-      "description": {
-        "fr": "Jeudi 5 novembre, 18h30 En 1599, Marguerite d’Avaugour, dite « de Bretagne », s’éteint à seulement 35 ans. Elle laisse un recueil délicatement calligraphié de poésies qu’elle et son mari avaient échangées depuis leur première rencontre : Mon livre, mon soucy et mon heureux plaisir . Sarah Toulouse, conservatrice du fonds ancien, présente ce rare témoignage de la pratique de la poésie féminine à la fin du 16e siècle, et de la vie intime d’une jeune femme disparue trop tôt."
-      },
-      "start": "2026-11-05T18:30:00",
-      "end": "2026-11-05T20:00:00",
-      "location": {
-        "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/84430ea4bf8b40fba2fac2ca5c376299.base.image.jpg",
-      "link": "https://openagenda.com/bib/events/96792499_mon-livre-mon-soucy-et-mon-heureux-plaisir-le-livre-de-marguerite-de-bretagne"
-    },
-    {
       "uid": "45143763",
       "title": {
         "fr": "Des IA de plus en plus puissantes : un défi pour nos sociétés !"
@@ -320,6 +304,22 @@
       },
       "image": "https://img.openagenda.com/main/0414281d314542a3aa9d3c58fd0c2827.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/40786908_comment-etaient-eleves-les-enfants-dans-le-finistere-en-1899"
+    },
+    {
+      "uid": "47313360",
+      "title": {
+        "fr": "Arpentage Littéraire \"Politiques du faire-monde\" de Philippe Descola"
+      },
+      "description": {
+        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un ouvrage riche \"politiques du faire-monde\" de Philippe Descola, anthropologue. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
+      },
+      "start": "2026-12-04T15:00:00",
+      "end": "2026-12-04T18:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/3d77098a8e3d48e594457baabc6257c7.base.image.jpg",
+      "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
     }
   ]
 }
