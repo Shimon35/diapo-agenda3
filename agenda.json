@@ -306,20 +306,20 @@
       "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
     },
     {
-      "uid": "40786908",
+      "uid": "47313360",
       "title": {
-        "fr": "Comment étaient élevés les enfants dans le Finistère en 1899 ?"
+        "fr": "Arpentage Littéraire \"Politiques du faire-monde\" de Philippe Descola"
       },
       "description": {
-        "fr": "Samedi 7 novembre, 16h00 En 2023, le musée acquiert un album unique : l’élevage des enfants du premier âge. Rédigé par Émile Bérard pour l’exposition universelle de 1889, ce document original recense les pratiques liées aux soins et à l’éducation des jeunes enfants dans ce département breton. En 2026, les étudiants du master en humanités numériques de l’université de Rennes 2 imaginent un dispositif numérique pour en révéler toute la richesse. Rencontre avec les étudiants et Laurence Prod’homme, conservatrice au musée."
+        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un ouvrage riche \"politiques du faire-monde\" de Philippe Descola, anthropologue. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
       },
-      "start": "2026-11-07T16:00:00",
-      "end": "2026-11-07T17:00:00",
+      "start": "2026-12-04T15:00:00",
+      "end": "2026-12-04T18:00:00",
       "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6a4358e9ca11496d80002b435dd43c52.base.image.jpg",
-      "link": "https://openagenda.com/mdb/events/40786908_comment-etaient-eleves-les-enfants-dans-le-finistere-en-1899"
+      "image": "https://img.openagenda.com/main/dc746652056c47bd99a83105708cbf63.base.image.jpg",
+      "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
     }
   ]
 }
