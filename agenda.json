@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "42084322",
+      "title": {
+        "fr": "Dans les coulisses de la restauration d’un rideau de théâtre monumental"
+      },
+      "description": {
+        "fr": "Samedi 14 novembre, 14h00 Hors-les-murs : rencontre à l'Ecomusée de la Bintinais avec Alicia Bomo, conservatrice du patrimoine au Musée de Bretagne, et Kyriaki Tsesmeloglou, conservatrice-restauratrice. Durant 5 jours, le rideau de scène réalisé en 1934 par Théophile Lemonnier pour le théâtre de Rennes, fait l’objet d’une intervention de restauration. ​ ​D’une taille impressionnante, il représente la fée Viviane endormant l'enchanteur Merlin dans la forêt de Brocéliande. Exceptionnellement ouvert au public, venez découvrir les coulisses de ce chantier et voir de plus près cette œuvre, habituellement conservé dans les réserves du Musée de Bretagne et de l’Ecomusée de la Bintinais. Durant 5 jours, le rideau de scène réalisé en 1934 par Théophile Lemonnier pour le théâtre de Rennes, fait l’objet d’une intervention de restauration. ​ ​Alicia Bomo, conservatrice du patrimoine au Musée de Bretagne, et Kyriaki Tsesmeloglou, conservatrice-restauratrice, vous dévoilent les techniques et les enjeux de cette intervention exceptionnelle : étude, dépoussiérage, consolidation et conditionnement."
+      },
+      "start": "2026-11-14T14:00:00",
+      "end": "2026-11-14T16:00:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/6bfa271538054396b085df4d6b890a3b.base.image.jpg",
+      "link": "https://openagenda.com/mdb/events/42084322_dans-les-coulisses-de-la-restauration-dun-rideau-de-theatre-monumental"
+    },
+    {
       "uid": "45143763",
       "title": {
         "fr": "Des IA de plus en plus puissantes : un défi pour nos sociétés !"
@@ -14,7 +30,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": null,
+      "image": "https://img.openagenda.com/main/3f2f000078234276bde38b952cc4938d.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45143763_des-ia-de-plus-en-plus-puissantes-un-defi-pour-nos-societes"
     },
     {
@@ -23,31 +39,15 @@
         "fr": "Breizh love"
       },
       "description": {
-        "fr": "Samedi 28 novembre, 16h00 Parlons d'amour, d'histoires parfois heureuses et parfois tragiques, d'amours partagés ou inavoués, dans les collections du musée. Entre les mariages successifs d'Anne de Bretagne, les grossesses miraculeuses grâce aux menhirs, et le cardiotaphe de Louise de Quengo, la Bretagne a connu son lot d'histoires d'amours. Découvrez celles qui sont cachées dans nos collections."
+        "fr": "Samedi 28 novembre, 16h30 Parlons d'amour, d'histoires parfois heureuses et parfois tragiques, d'amours partagés ou inavoués, dans les collections du musée. Entre les mariages successifs d'Anne de Bretagne, les grossesses miraculeuses grâce aux menhirs, et le cardiotaphe de Louise de Quengo, la Bretagne a connu son lot d'histoires d'amours. Découvrez celles qui sont cachées dans nos collections."
       },
-      "start": "2026-11-28T16:00:00",
-      "end": "2026-11-28T16:30:00",
+      "start": "2026-11-28T16:30:00",
+      "end": "2026-11-28T17:00:00",
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2d205058e43449508cbb75af4f686b9b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b9166b96160f4be78ae2be5fd1426abe.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/82357867_breizh-love"
-    },
-    {
-      "uid": "43417040",
-      "title": {
-        "fr": "Bulle en tête, l’histoire de Lubin"
-      },
-      "description": {
-        "fr": "Mardi 29 décembre, 14h30, 16h30 Lubin a bulle en tête, il rêve, trop parfois et surtout il ne veut pas grandir ! De temps en temps, sans prévenir, la bulle sort de sa tête. Alors c’est le début de l’aventure, mais aussi des problèmes. Un jour, il fait une étrange rencontre… ​ Un spectacle de Matao Rollo, construit autour des contes populaires d'ici et de là-bas. Entrée libre dans la limite des places disponibles."
-      },
-      "start": "2026-12-29T14:30:00",
-      "end": "2026-12-29T17:25:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
     },
     {
       "uid": "70301682",
@@ -62,7 +62,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/313f88ee422143b8a8795388c8a9b132.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bb82a0986d504b06bf7a9b181951a313.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/70301682_les-sources-de-laffaire-dreyfus-a-rennes"
     },
     {
@@ -78,7 +78,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7e85a06c729840bbbfe4c75fffadec5b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/356a25cb39764bdab0b504688d83930f.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
     },
     {
@@ -94,7 +94,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a982f5bd428543a197edb28226af05c2.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bc5e585fa496429fa9730ad9b06d051d.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -110,7 +110,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d077a24a60b04bd4b31cd061e1353515.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c09ea0564c4e4816a7668c4d941d1717.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/9737509_vesna-5162578"
     },
     {
@@ -126,7 +126,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b100641148d4471d9393fe0a7d1ddeef.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d0a0a611aaaa44efa75bbc2a9e852b19.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/8628716_musiques-interdites-5207285"
     },
     {
@@ -142,7 +142,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/610990786e8b4c7ab68c5ac26860f8a5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a186e123566340a795d0e61d0f398d0d.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/54610838_aliens"
     },
     {
@@ -158,7 +158,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/e2a015247c4e497a997ef7443bd9bccb.base.image.jpg",
+      "image": "https://img.openagenda.com/main/2905f83cdb374ebba50bb4f2c6e52bfa.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/56015590_rencontre-avec-velibor-colic"
     },
     {
@@ -174,7 +174,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/64c7a05076f64fc9b35b3f99430dd841.base.image.jpg",
+      "image": "https://img.openagenda.com/main/33b0a82b47744b1784ce949340b3b439.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -190,7 +190,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7626e50fdc964dc5881f1809b87ef49e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6ddeab2596594648bec5950d5beba1c6.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -206,7 +206,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b318fe98510549c4aec5f12bfc873584.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8edf66c612ed4be7a76e4e843b451809.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -238,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/eb0185d6cf09458a89261b2d30398523.base.image.jpg",
+      "image": "https://img.openagenda.com/main/143c2ff78269491cb45d4d4c2c71a936.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
     },
     {
@@ -254,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b6844f5280dc4c1dba5f851f9f92c8ba.base.image.jpg",
+      "image": "https://img.openagenda.com/main/cd27fb949bc149538e1a3a25f8b69949.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
     },
     {
@@ -270,7 +270,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a9c6209eee6648698f3753cc45ab53f8.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c80f594eabab41679abe18b93ade3bb2.base.image.jpg",
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
@@ -302,7 +302,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d54133f0604d43ab90db542c9ee39daa.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3b070ea8950348bbbbd35ae8ed281562.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
     },
     {
@@ -318,7 +318,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0dab61e59ae94a8a951e7f03f89bf387.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6a4358e9ca11496d80002b435dd43c52.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/40786908_comment-etaient-eleves-les-enfants-dans-le-finistere-en-1899"
     }
   ]
