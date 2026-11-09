@@ -14,7 +14,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/a948c072da304561b0f61f4c0e205d62.base.image.jpg",
+      "image": "https://img.openagenda.com/main/30d79670f2da4133921d6a7738cd54a5.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/42084322_dans-les-coulisses-de-la-restauration-dun-rideau-de-theatre-monumental"
     },
     {
@@ -30,7 +30,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/e4d4eb67e7c64b98b5c7ca3560c4f65d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8aa01c3771454a1094f5436329121167.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45143763_des-ia-de-plus-en-plus-puissantes-un-defi-pour-nos-societes"
     },
     {
@@ -46,7 +46,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/38eba406e3f24f6e9e9ed5777d1855b6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f2d9f362692749b2a5cbc44a71ab5dee.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/82357867_breizh-love"
     },
     {
@@ -62,8 +62,24 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/24d7205529f0427e9f5b6916aaed535a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/71c302339368418680a7fe9e73200efc.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/70301682_les-sources-de-laffaire-dreyfus-a-rennes"
+    },
+    {
+      "uid": "38344851",
+      "title": {
+        "fr": "Arpentage littéraire du livre Agrophilosophie de Gaspard Koenig"
+      },
+      "description": {
+        "fr": "Vendredi 5 février 2027, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante. ​Entrecroisant références philosophiques, découvertes botaniques et réflexions politiques, Gaspard Koenig dessine sa propre agrophilosophie. Il y célèbre ses deux passions, la nature et la liberté. Ensemble nous arpenterons cet essai. ​ ​Atelier animé par Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Sur inscription le jour même, dans le hall à l'accueil Jardins d'hiver, dans la limite des places disponibles."
+      },
+      "start": "2027-02-05T15:00:00",
+      "end": "2027-02-05T18:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/47ed8256d7274101a82b8cc22499bfc0.base.image.jpg",
+      "link": "https://openagenda.com/dcl/events/38344851_arpentage-litteraire-du-livre-agrophilosophie-de-gaspard-koenig"
     },
     {
       "uid": "65248297",
@@ -78,13 +94,13 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/57375e9097424736939daf2d8fe1e7b5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/08963dc6d8bd460abf56e6967ffb7083.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
     },
     {
       "uid": "83500217",
       "title": {
-        "fr": "Le Serment D'Europe"
+        "fr": "Le Serment d'Europe, Wajdi Mouawad"
       },
       "description": {
         "fr": "23 septembre - 28 novembre Au Théâtre National de Bretagne. ​ ​ Europe a 8 ans : elle assiste à un massacre, et sans le vouloir y prend part. 75 ans plus tard, une enquête rouvre les traces du passé. Europe doit témoigner. ​Pour retrouver les témoins, pour éclairer ce qui fut tu, Europe doit aujourd’hui parler. Mais comment affronter ce que l’on a enfoui ? Comment faire face à ce que l’on n’a jamais pu nommer ? Où sommes-nous ? Dans un présent composé où les lieux se superposent, où les époques cohabitent. Qui sont-ils ? Des femmes et des hommes surgis comme des figures de la nuit, traversées par l’héritage de la violence, la culpabilité, le silence. Comment en parler ? En laissant les langues se heurter, se traduire, au cœur d’un même crime. ​Avec cette pièce chorale, Wajdi Mouawad explore la mémoire d’un crime, le poids du silence et la manière dont le traumatisme traverse les âges."
@@ -94,7 +110,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b6f50f912b094783856ed573b723d200.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bb6124c036824963829367df82e52b47.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -110,7 +126,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3a32350c7b2c488b8f15b888de6e21c8.base.image.jpg",
+      "image": "https://img.openagenda.com/main/90d32f99b9444b5ba45623434f98f298.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/9737509_vesna-5162578"
     },
     {
@@ -126,7 +142,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/74c8299b1ac140598dc4969b4734be22.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e22af2840fa64a6cae2e1376fb96e49c.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/8628716_musiques-interdites-5207285"
     },
     {
@@ -142,7 +158,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2a43ea98137e47c0a3af56391f787c0b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/37365b55b8314fb39c3d3bc32b8164ad.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/54610838_aliens"
     },
     {
@@ -158,7 +174,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/beeae615a5fd4905ba6582268a10aa0c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b4117faaff1e4a2a81bc3e727ee2cf8e.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/56015590_rencontre-avec-velibor-colic"
     },
     {
@@ -174,7 +190,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/1a57d6d2bc8c440785624db80267b15f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8abde35e111a44b9b016ae7c433a998c.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -190,7 +206,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f3c48a731bc6483ebf9e41caf451a692.base.image.jpg",
+      "image": "https://img.openagenda.com/main/25e888b2cb264370b1c053d1c5548bb0.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -206,7 +222,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/5bfd72c085fd4ab1b4b18bf52bd0c01e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c6482a78333646e9939f1ea770bdfbe1.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -238,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/85980ea6c87f4d9093c9f4eda301ab38.base.image.jpg",
+      "image": "https://img.openagenda.com/main/22607d10f4c1499eab8a180e7e166be5.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
     },
     {
@@ -254,7 +270,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/bafd8fe9d7bb441a962f8ceef69440d5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/cedca3d104da4bef96870781a0b1bdb6.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
     },
     {
@@ -270,7 +286,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f99c0fcce90547ef9013645f270cc222.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0ce2160791da4694955066834a3914b7.base.image.jpg",
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
@@ -286,7 +302,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/9bd78d9f518b4eed8726aa2a80d5b769.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f19f0d51b3a54d109672f52561852f9b.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
     },
     {
@@ -302,24 +318,8 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/191eca0f4b8f4cd3b3756c650f30b868.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9846c9ee999b467a9553d4dd99310563.base.image.jpg",
       "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
-    },
-    {
-      "uid": "56555908",
-      "title": {
-        "fr": "Une histoire de Bretagne de la Préhistoire à la Révolution"
-      },
-      "description": {
-        "fr": "18 octobre 2026 - 11 juillet 2027 A quelle époque les premières populations s'installent dans la région ? D'où viennent les menhirs ? Qui était Anne de Bretagne ? Pour le découvrir, laissez-vous embarquer dans la riche histoire de la Bretagne, de la Préhistoire à la Révolution."
-      },
-      "start": "2026-10-18T14:30:00",
-      "end": "2027-07-11T17:15:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/43b9f5c9a54841a3bedfb7cf1b3716dd.base.image.jpg",
-      "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
     }
   ]
 }
