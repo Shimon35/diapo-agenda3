@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "36621983",
+      "title": {
+        "fr": "Des ailes au bout des doigts"
+      },
+      "description": {
+        "fr": "Samedi 21 novembre, 18h00 La pianiste autrichienne Mitra Kotte propose un récital consacré aux compositrices des19ᵉ et 20ᵉ siècles. De Fanny Hensel à Dora Pejačević, d’Emilie Mayer à Nadia Boulanger et Cécile Chaminade, ce programme traverse des univers musicaux contrastés, entre romantisme, poésie, modernité et virtuosité. Une invitation à redécouvrir ces voix essentielles de l’histoire de la musique. En première partie de concert, les élèves du conservatoire interprèteront également les œuvres de compositrices. Proposé par le Cercle franco-allemand."
+      },
+      "start": "2026-11-21T18:00:00",
+      "end": "2026-11-21T20:00:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/b50b18348b664618b45e447f268bc5a0.base.image.jpg",
+      "link": "https://openagenda.com/dcl/events/36621983_des-ailes-au-bout-des-doigts"
+    },
+    {
       "uid": "42084322",
       "title": {
         "fr": "Dans les coulisses de la restauration d’un rideau de théâtre monumental"
@@ -14,7 +30,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/094ab8fcbd064152841b4fa22ff18317.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b5a3b612ed354a299cc17cc47821e72e.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/42084322_dans-les-coulisses-de-la-restauration-dun-rideau-de-theatre-monumental"
     },
     {
@@ -30,7 +46,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/22098808337b444aa844913bdc70b959.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e6b0998b277644c5b87f6d91a8e3abc5.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/71729200_faim-de-justice-4326760"
     },
     {
@@ -46,7 +62,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ada0376c85bf4d96a0d1bb72b061fad5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c74148fff09f429a9b3e12be12cca662.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45143763_des-ia-de-plus-en-plus-puissantes-un-defi-pour-nos-societes"
     },
     {
@@ -62,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/23dcc80cb44145c1834a34e536e8a570.base.image.jpg",
+      "image": "https://img.openagenda.com/main/241bfb0f627142a2a0f8b454e354201a.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/82357867_breizh-love"
     },
     {
@@ -78,7 +94,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d5a36c43397c4a6e804c0f7485350a3f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/777ea92dfdbd41428df479d971769ff1.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
     },
     {
@@ -94,8 +110,24 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/cb69ad0d504c4bc9ada66b927309ed89.base.image.jpg",
+      "image": "https://img.openagenda.com/main/959c3c59300c4590b5235b850ed1a44f.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/70301682_les-sources-de-laffaire-dreyfus-a-rennes"
+    },
+    {
+      "uid": "65248297",
+      "title": {
+        "fr": "Antiwords – Spitfire cie"
+      },
+      "description": {
+        "fr": "21 et 22 novembre Spectacle au Théâtre du cercle. Dans Antiwords , deux comédiennes aux masques démesurés se font face dans un duel jubilatoire, entre bière tchèque, rapports de pouvoir et humour corrosif. ​ ​Spectacle inspiré d’ Audience de Václav Havel."
+      },
+      "start": "2026-11-21T12:15:00",
+      "end": "2026-11-22T18:30:00",
+      "location": {
+        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/cb1542586fa54ddc83b62e4e18393ed5.base.image.jpg",
+      "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
     },
     {
       "uid": "53192992",
@@ -112,22 +144,6 @@
       },
       "image": null,
       "link": "https://openagenda.com/dcl/events/53192992_culture-ou-en-es-tu-avec-la-politique"
-    },
-    {
-      "uid": "65248297",
-      "title": {
-        "fr": "Antiwords – Spitfire cie"
-      },
-      "description": {
-        "fr": "21 et 22 novembre Spectacle au Théâtre du cercle. Dans Antiwords , deux comédiennes aux masques démesurés se font face dans un duel jubilatoire, entre bière tchèque, rapports de pouvoir et humour corrosif. ​ ​Spectacle inspiré d’ Audience de Václav Havel."
-      },
-      "start": "2026-11-21T12:15:00",
-      "end": "2026-11-22T18:30:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/07fb6d1618004f9e94530060597bdfe8.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
     },
     {
       "uid": "24877342",
@@ -158,7 +174,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b44fbb4e4ae74a86be9df3a4497fa98d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/850b6a34bb8b4ff48bfcb50e7807b38e.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -174,7 +190,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/35ba9530a2f043149c213d2b35df008f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c0f13ed222a84b439009c29d7128f407.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/9737509_vesna-5162578"
     },
     {
@@ -190,7 +206,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/28a78dd1512b40f8b4dc1f4fd58025d3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/749c59662d13453c99a21e665fb81ddc.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/8628716_musiques-interdites-5207285"
     },
     {
@@ -206,7 +222,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/cd51d54983e04a8abf9c8244bff108ab.base.image.jpg",
+      "image": "https://img.openagenda.com/main/a430be561df14627b06c5c9fda5687da.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/54610838_aliens"
     },
     {
@@ -222,7 +238,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fd5b1a9b945144e585f9d38186000dc6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0b6d2e7966ff475289ded7578116a7eb.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/56015590_rencontre-avec-velibor-colic"
     },
     {
@@ -238,7 +254,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/594c9d43af7645b4b5f851026abcd753.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0f7eda4ca4d84fffb848083ee2e56b32.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -247,14 +263,14 @@
         "fr": "Relicto"
       },
       "description": {
-        "fr": "Dimanche 29 novembre, 14h30 À 105 ans, Sixto Muñoz, dernier survivant du peuple Tinigua, a décidé de quitter sa cabane au bord de la lagune, dans l’Amazonie colombienne pour réaliser son dernier voyage. 4 ans plus tard, Guillermo Quintero, le réalisateur, part à la recherche de cet ultime dépositaire d’une langue et d’une culture autochtones. Il rencontre celles et ceux qui ont croisé sa route, ravivant l’imaginaire collectif qu’il continue de susciter.​​ ​ ​Un doc du dimanche suivi d'une rencontre avec Guillermo Quintero , réalisateur (en visio). ​ ​Dans le cadre du festival le Mois du Doc, en partenariat avec Comptoir du doc (un film de Guillermo Quintero, 1h37, 2026, France, Colombie, STANK et Palindroma, vostfr)."
+        "fr": "Dimanche 29 novembre, 14h15 À 105 ans, Sixto Muñoz, dernier survivant du peuple Tinigua, a décidé de quitter sa cabane au bord de la lagune, dans l’Amazonie colombienne pour réaliser son dernier voyage. 4 ans plus tard, Guillermo Quintero, le réalisateur, part à la recherche de cet ultime dépositaire d’une langue et d’une culture autochtones. Il rencontre celles et ceux qui ont croisé sa route, ravivant l’imaginaire collectif qu’il continue de susciter.​​ ​ ​Un doc du dimanche suivi d'une rencontre avec Guillermo Quintero , réalisateur (en visio). ​ ​Dans le cadre du festival le Mois du Doc, en partenariat avec Comptoir du doc (un film de Guillermo Quintero, 1h37, 2026, France, Colombie, STANK et Palindroma, vostfr)."
       },
-      "start": "2026-11-29T14:30:00",
-      "end": "2026-11-29T16:35:00",
+      "start": "2026-11-29T14:15:00",
+      "end": "2026-11-29T16:30:00",
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ffd45e0f8acf430c8e117cf912155ef0.base.image.jpg",
+      "image": "https://img.openagenda.com/main/72166b8e69c046b9acd1a214b6225f7d.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -270,7 +286,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/48c10137ecad4516a6c95f8c5c6f0274.base.image.jpg",
+      "image": "https://img.openagenda.com/main/945d274d809d4baa958cd40d61b4f148.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -302,24 +318,8 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/be48fc4c46f14387b4c3de879865b48b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/786c7ee4cdb64dae8b137bc525953b14.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
-    },
-    {
-      "uid": "5997080",
-      "title": {
-        "fr": "L’ennemi qui nous désigne"
-      },
-      "description": {
-        "fr": "Samedi 21 novembre, 17h00 Carte blanche au Grand Continent. \"L’ennemi qui nous désigne - Apprendre à résister aux prédateurs\" est la dernière publication du Grand Continent. L’ouvrage collectif sous la direction de Giuliano da Empoli, auteur du \"Mage du Kremlin\", nous éclaire sur la façon dont l’Europe, ce qu’elle est et ce qu’elle représente, est devenue une cible. Réunissant des chercheurs du monde entier, il nous aide à comprendre ce qui nous arrive pour mieux résister. Cette carte blanche au Grand Continent est aussi l’occasion de revenir sur l’aventure profondément européenne de ce nouveau média, qui s’est donné l’ambition de nous aider à décrypter le monde. ​ Carte blanche animée par Pierre Ramond."
-      },
-      "start": "2026-11-21T17:00:00",
-      "end": "2026-11-21T17:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/10a9475d76464dd0be3b62f01f8777b7.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
     }
   ]
 }
