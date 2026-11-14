@@ -18,22 +18,6 @@
       "link": "https://openagenda.com/dcl/events/36621983_des-ailes-au-bout-des-doigts"
     },
     {
-      "uid": "42084322",
-      "title": {
-        "fr": "Dans les coulisses de la restauration d’un rideau de théâtre monumental"
-      },
-      "description": {
-        "fr": "Samedi 14 novembre, 14h00 Hors-les-murs : rencontre à l'Ecomusée de la Bintinais avec Alicia Bomo, conservatrice du patrimoine au Musée de Bretagne, et Tristan Mahéo, conservateur-restaurateur. Durant 5 jours, le rideau de scène réalisé en 1934 par Théophile Lemonnier pour le théâtre de Rennes, fait l’objet d’une intervention de restauration. ​ ​D’une taille impressionnante, il représente la fée Viviane endormant l'enchanteur Merlin dans la forêt de Brocéliande. Exceptionnellement ouvert au public, venez découvrir les coulisses de ce chantier et voir de plus près cette œuvre, habituellement conservé dans les réserves du Musée de Bretagne et de l’Ecomusée de la Bintinais. Durant 5 jours, le rideau de scène réalisé en 1934 par Théophile Lemonnier pour le théâtre de Rennes, fait l’objet d’une intervention de restauration. ​ ​Alicia Bomo, Tristan Mahéo vous dévoilent les techniques et les enjeux de cette intervention exceptionnelle : étude, dépoussiérage, consolidation et conditionnement."
-      },
-      "start": "2026-11-14T14:00:00",
-      "end": "2026-11-14T16:00:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/b5a3b612ed354a299cc17cc47821e72e.base.image.jpg",
-      "link": "https://openagenda.com/mdb/events/42084322_dans-les-coulisses-de-la-restauration-dun-rideau-de-theatre-monumental"
-    },
-    {
       "uid": "71729200",
       "title": {
         "fr": "Faim de justice"
@@ -320,6 +304,22 @@
       },
       "image": "https://img.openagenda.com/main/786c7ee4cdb64dae8b137bc525953b14.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
+    },
+    {
+      "uid": "5997080",
+      "title": {
+        "fr": "L’ennemi qui nous désigne"
+      },
+      "description": {
+        "fr": "Samedi 21 novembre, 17h00 Carte blanche au Grand Continent. \"L’ennemi qui nous désigne - Apprendre à résister aux prédateurs\" est la dernière publication du Grand Continent. L’ouvrage collectif sous la direction de Giuliano da Empoli, auteur du \"Mage du Kremlin\", nous éclaire sur la façon dont l’Europe, ce qu’elle est et ce qu’elle représente, est devenue une cible. Réunissant des chercheurs du monde entier, il nous aide à comprendre ce qui nous arrive pour mieux résister. Cette carte blanche au Grand Continent est aussi l’occasion de revenir sur l’aventure profondément européenne de ce nouveau média, qui s’est donné l’ambition de nous aider à décrypter le monde. ​ Carte blanche animée par Pierre Ramond."
+      },
+      "start": "2026-11-21T17:00:00",
+      "end": "2026-11-21T17:45:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/2a7ce8c650c74e0e9c154f04bad291fa.base.image.jpg",
+      "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
     }
   ]
 }
