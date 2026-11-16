@@ -34,22 +34,6 @@
       "link": "https://openagenda.com/dcl/events/71729200_faim-de-justice-4326760"
     },
     {
-      "uid": "45143763",
-      "title": {
-        "fr": "Des IA de plus en plus puissantes : un défi pour nos sociétés !"
-      },
-      "description": {
-        "fr": "Lundi 16 novembre, 18h00 Absence de contrôle ? Point de non-retour ? La France peut jouer un rôle. Face au développement fulgurant des IA les plus puissantes, sommes-nous encore capables d'en maîtriser les risques et les conséquences ? ​Les modèles d'intelligence artificielle les plus avancés évoluent à une vitesse qui interroge notre capacité à les contrôler. Avec Tom David, président du GPAI Policy Lab, et Hélène Chinal, du Pôle d'excellence cyber, explorons les risques, les enjeux de régulation et les leviers d'action pour la France."
-      },
-      "start": "2026-11-16T18:00:00",
-      "end": "2026-11-16T19:00:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/40498fc6a89d4d09bd61f671aae6280f.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/45143763_des-ia-de-plus-en-plus-puissantes-un-defi-pour-nos-societes"
-    },
-    {
       "uid": "82357867",
       "title": {
         "fr": "Breizh love"
@@ -320,6 +304,22 @@
       },
       "image": "https://img.openagenda.com/main/c11f5f945db64f5991c0d12314968a42.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
+    },
+    {
+      "uid": "83824272",
+      "title": {
+        "fr": "Parlons ciné spécial Travelling et cinéma italien"
+      },
+      "description": {
+        "fr": "Jeudi 18 février 2027, 17h30 Venez échanger vos coups de cœur et partagez votre amour du cinéma autour de ce rendez-vous convivial et participatif ! Au programme : discussions et bandes-annonces, entre passionnés ou simplement curieux. Pour cette séance spéciale dans le cadre du festival Travelling : un thème : le cinéma italien ! ​Films récents ou cultes, séries, courts métrages, … tous les genres et les époques sont les bienvenus !"
+      },
+      "start": "2027-02-18T17:30:00",
+      "end": "2027-02-18T18:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/2a5e0368e05f4c78b54ae8960c2eb4fe.base.image.jpg",
+      "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     }
   ]
 }
