@@ -82,22 +82,6 @@
       "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
     },
     {
-      "uid": "70301682",
-      "title": {
-        "fr": "Les sources de l'affaire Dreyfus à Rennes"
-      },
-      "description": {
-        "fr": "Mardi 17 novembre, 18h00 Rencontre à l'auditorium des Archives Départementales d'Ille-et-Vilaine. En 1894, un premier procès condamne Alfred Dreyfus pour trahison. Coupable « idéal » dans un contexte marqué par un fort antisémitisme, il est en réalité victime d’une machination judiciaire. A l’été 1899, Rennes vit sous une tension extrême tandis que journalistes, militants et curieux affluent pour suivre le procès en révision du capitaine Dreyfus. Comment la ville, ses habitants, les pouvoirs publics, les journalistes ont vécu ce procès historique ? ​ Les Archives départementales d’Ille-et-Vilaine, les Archives de Rennes et le Musée de Bretagne s’associent pour vous présenter les sources, riches et nombreuses du procès : photographies, correspondance, articles de presse, rapports de police, comptes rendus des audiences du conseil de guerre…​ Dans le cadre de la nouvelle exposition permanente L’affaire Dreyfus à Rennes présentée au Musée de Bretagne – Les Champs Libres. ​ Entrée libre dans la limite des places disponibles. Réservation conseillée en écrivant à rencontres.archives@ille-et-vilaine.fr"
-      },
-      "start": "2026-11-17T18:00:00",
-      "end": "2026-11-17T19:30:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/9dea4466a1eb429f8ed98b053559d575.base.image.jpg",
-      "link": "https://openagenda.com/mdb/events/70301682_les-sources-de-laffaire-dreyfus-a-rennes"
-    },
-    {
       "uid": "65248297",
       "title": {
         "fr": "Antiwords – Spitfire cie"
@@ -210,22 +194,6 @@
       "link": "https://openagenda.com/dcl/events/54610838_aliens"
     },
     {
-      "uid": "56015590",
-      "title": {
-        "fr": "Rencontre avec Velibor Čolić"
-      },
-      "description": {
-        "fr": "Mardi 17 novembre, 17h00 Rencontre à la Bibliothèque Clôteaux-Bréquigny avec l'écrivain. Dans le cadre d’une résidence de la compagnie de théâtre rennaise Kali&Co, la bibliothèque Clôteaux-Bréquigny organise une rencontre avec Velibor Čolić, écrivain originaire d’ex Yougoslavie, dont le dernier roman Guerre et pluie livre un récit à la fois halluciné et drolatique en temps de guerre."
-      },
-      "start": "2026-11-17T17:00:00",
-      "end": "2026-11-17T18:30:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/76f8a0a062bf4073a25e420ba9b4a011.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/56015590_rencontre-avec-velibor-colic"
-    },
-    {
       "uid": "91878811",
       "title": {
         "fr": "En tierra"
@@ -320,6 +288,38 @@
       },
       "image": "https://img.openagenda.com/main/17f292c31fe44e6d99e6ba1c2a67a091.base.image.jpg",
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
+    },
+    {
+      "uid": "72157573",
+      "title": {
+        "fr": "La petite visite du musée"
+      },
+      "description": {
+        "fr": "21 octobre - 31 décembre Partez à la découverte d'une Bretagne peuplée d'animaux ! Une visite adaptée aux plus jeunes pour découvrir le musée autrement. Pour les enfants accompagnés de 3 à 5 ans. ​ ​Sans réservation, dans la limite des places disponibles. Tickets à retirer à l'accueil du musée le jour même."
+      },
+      "start": "2026-10-21T10:30:00",
+      "end": "2026-12-31T11:20:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/d06f027181b146b39ec9c72531571995.base.image.jpg",
+      "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
+    },
+    {
+      "uid": "47313360",
+      "title": {
+        "fr": "Arpentage Littéraire \"Politiques du faire-monde\" de Philippe Descola"
+      },
+      "description": {
+        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un ouvrage riche \"politiques du faire-monde\" de Philippe Descola, anthropologue. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
+      },
+      "start": "2026-12-04T15:00:00",
+      "end": "2026-12-04T18:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/c93feb21cce249a9a2f8fcbea3ad2a7d.base.image.jpg",
+      "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
     }
   ]
 }
