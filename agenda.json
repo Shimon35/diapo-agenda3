@@ -14,8 +14,24 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4a358ba55be5406bb4d3476581f4bc2b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8eab72fd56cf471299386a6f16d7d0e8.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/36621983_des-ailes-au-bout-des-doigts"
+    },
+    {
+      "uid": "54168252",
+      "title": {
+        "fr": "De Condate à Rennes"
+      },
+      "description": {
+        "fr": "6 décembre 2026 - 13 juin 2027 De la cité antique de Condate à la capitale historique de la Bretagne, comment Rennes a façonné son identité ? Cette plongée dans l’histoire de la ville, de ses origines antiques jusqu’aux bouleversements de la Révolution française, vous invite à traverser les siècles pour comprendre comment elle s’est construite, transformée et affirmée au fil du temps."
+      },
+      "start": "2026-12-06T16:30:00",
+      "end": "2027-06-13T17:15:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/mdb/events/54168252_de-condate-a-rennes"
     },
     {
       "uid": "71729200",
@@ -30,7 +46,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fc0b60579ac94ac0b23fc6b28ddd54e3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c328118b4e22422bb1103cf94ff222e4.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/71729200_faim-de-justice-4326760"
     },
     {
@@ -46,7 +62,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/cf0c9dc175e548e0a95e6bf1c0856713.base.image.jpg",
+      "image": "https://img.openagenda.com/main/70d87b3ed94d4e83a2764870a8b9777f.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/82357867_breizh-love"
     },
     {
@@ -62,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0fac4a2cab4a41ea81829b5a7d08bc2f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b88a4a3b765b442a8d963736a8ebdd51.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
     },
     {
@@ -78,7 +94,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/cf67b98740b74c58ab700396ac9c24fe.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9dea4466a1eb429f8ed98b053559d575.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/70301682_les-sources-de-laffaire-dreyfus-a-rennes"
     },
     {
@@ -94,7 +110,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4367cd51038b47e784a9bb3eeafc7623.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f22d1c3e1878485d8eb480679367a36f.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
     },
     {
@@ -142,7 +158,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fb1810128cb742bca7fcf39247a45cfc.base.image.jpg",
+      "image": "https://img.openagenda.com/main/32009fabe15544b0b5bcf5dd3b9691b6.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -158,7 +174,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4d1fab46ceeb42d8a9850ded5edc9d0c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/2701180481fd4b4bbe6c37b73aaf9d98.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/9737509_vesna-5162578"
     },
     {
@@ -174,7 +190,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c91ad0003407499cbee89d28a71831ae.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bd0605172b06462ebe0183a916ff84e4.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/8628716_musiques-interdites-5207285"
     },
     {
@@ -190,7 +206,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/261f2a687d244364b088c19ba0cc7f15.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e36d0a09e7584893a66a9273a9c12540.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/54610838_aliens"
     },
     {
@@ -206,7 +222,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/29fa4b287d624beab716a3b9b93c4df9.base.image.jpg",
+      "image": "https://img.openagenda.com/main/76f8a0a062bf4073a25e420ba9b4a011.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/56015590_rencontre-avec-velibor-colic"
     },
     {
@@ -222,7 +238,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c762864b556a4c8bb16ebba2ad9374c3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/9acde9eab68b48968ce60459981a0580.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -238,7 +254,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/139dc471d92e46f0aabdaaddea7f80ae.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bda28c59b41344fb85adf572cd617873.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -254,7 +270,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c68c4c27da3e4ee190f6f2fca8c5adba.base.image.jpg",
+      "image": "https://img.openagenda.com/main/28b5894fcaac4709af0910a12a9a9715.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -286,24 +302,8 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/68e9c1b79d944008886119c399da0ae5.base.image.jpg",
+      "image": "https://img.openagenda.com/main/6ed0171998e644bbb8459ee0f0d108c2.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
-    },
-    {
-      "uid": "5997080",
-      "title": {
-        "fr": "L’ennemi qui nous désigne"
-      },
-      "description": {
-        "fr": "Samedi 21 novembre, 17h00 Carte blanche au Grand Continent. \"L’ennemi qui nous désigne - Apprendre à résister aux prédateurs\" est la dernière publication du Grand Continent. L’ouvrage collectif sous la direction de Giuliano da Empoli, auteur du \"Mage du Kremlin\", nous éclaire sur la façon dont l’Europe, ce qu’elle est et ce qu’elle représente, est devenue une cible. Réunissant des chercheurs du monde entier, il nous aide à comprendre ce qui nous arrive pour mieux résister. Cette carte blanche au Grand Continent est aussi l’occasion de revenir sur l’aventure profondément européenne de ce nouveau média, qui s’est donné l’ambition de nous aider à décrypter le monde. ​ Carte blanche animée par Pierre Ramond."
-      },
-      "start": "2026-11-21T17:00:00",
-      "end": "2026-11-21T17:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/c11f5f945db64f5991c0d12314968a42.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
     },
     {
       "uid": "83824272",
@@ -318,7 +318,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2a5e0368e05f4c78b54ae8960c2eb4fe.base.image.jpg",
+      "image": "https://img.openagenda.com/main/17f292c31fe44e6d99e6ba1c2a67a091.base.image.jpg",
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     }
   ]
