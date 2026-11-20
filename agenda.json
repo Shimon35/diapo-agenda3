@@ -14,7 +14,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ebdfa1d76b0d4afc91371beaf047a2b7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/1eb8ddc55f984abd87dd0cc5171c6379.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/36621983_des-ailes-au-bout-des-doigts"
     },
     {
@@ -46,7 +46,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7220a27737a64c9a8f4724b026ea9c3f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/bd1140dd6c86469ca6fcbf72d9c4d127.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/71729200_faim-de-justice-4326760"
     },
     {
@@ -62,7 +62,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/ec6566b05bbf4ec9afa52eeeb5df9dc3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/22d20b2d69704bdf837c20681d2aa9e7.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/82357867_breizh-love"
     },
     {
@@ -78,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0b398f4de8434e8a905f86d859569267.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e35727e43ebb4826a4739b7bd512d38f.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
     },
     {
@@ -94,13 +94,13 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b6346d585b884dd8b9fc4d4cb9cf0403.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5f89da2013e8482aba181f8bf5ec04fc.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
     },
     {
       "uid": "53192992",
       "title": {
-        "fr": "Culture, où en es-tu avec la politique ?"
+        "fr": "Politique, où en es-tu avec la culture ?"
       },
       "description": {
         "fr": "Vendredi 4 décembre, 16h00 ​À quelques mois des élections présidentielles, la question culturelle reste presque absente des programmes. Pour la remettre au centre, cette rencontre réunit des élus d’instances et de territoires divers et des politologues. Issus de courants de pensée différents, ces invité·es débattront de la place que la culture pourrait et devrait occuper dans les politiques publiques de demain. ​​ ​En partenariat avec les Trans Musicales."
@@ -142,24 +142,8 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f11f8761c6c44c11b95b94e31ad5ad16.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3dd6bc75eef34ed08e1d9e380f24f274.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
-    },
-    {
-      "uid": "9737509",
-      "title": {
-        "fr": "Vesna"
-      },
-      "description": {
-        "fr": "Jeudi 19 novembre, 20h15 Avant-première organisée par Clair Obscur dans le cadre de sa saison au cinéma Arvor. En Ukraine occupée, les Russes interdisent d’enterrer les civils ukrainiens exécutés. Andryï, prêtre de 35 ans, voit son église transformée en morgue. Contraint d’y stocker les corps de civils exécutés avant leur disparition en fosses communes, il résiste en secret : il identifie les morts, les rend aux familles, leur offre une sépulture digne. Mais l’hiver gèle la terre et la menace grandit. Comment continuer à résister ? Vesna fait exister puissamment la longue nuit de l’occupation et de la résistance. ​Vesna a été présenté en Sélection officielle au Festival de Cannes 2026. ​ Projection suivie d’une rencontre avec le cinéaste Rostislav Kirpičenko. ​​ ​Vesna de Rostislav Kirpičenko · Avant-première Lituanie, France, Estonie, 2026, 1h33, vostf, drame avec Kestutis Cicenas, Daumantas Ciunis, Viačeslav Lukjanov"
-      },
-      "start": "2026-11-19T20:15:00",
-      "end": "2026-11-19T21:50:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/131a33f2b4a0432599b71a760497e8c5.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/9737509_vesna-5162578"
     },
     {
       "uid": "8628716",
@@ -174,24 +158,8 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/cddc2e6d4cda494d911249b21dd0fe57.base.image.jpg",
+      "image": "https://img.openagenda.com/main/111ee027ce174ee9a88b8da155131095.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/8628716_musiques-interdites-5207285"
-    },
-    {
-      "uid": "54610838",
-      "title": {
-        "fr": "Aliens"
-      },
-      "description": {
-        "fr": "Jeudi 19 novembre, 20h00 Projection au Tambour. Aliens est un road trip entre Marta McIlduff et Alessandra Celesia, mère et fille dans la vie comme sur scène, qui mêle récits personnels, témoignages et événements historiques. Le point de départ : l’histoire des immigrés italiens arrivés à Belfast entre les deux guerres, avec le rêve de poursuivre leur route jusqu’à New York. ​ Dans le cadre du Mois du film documentaire, avec le soutien de la Cinémathèque du documentaire, en partenariat avec Comptoir du Doc, le podcast Cracker l'époque et le département d'Italien de l'Université Rennes 2. ​ ​ https://culture.service.univ-rennes2.fr/event/spectacle-aliens"
-      },
-      "start": "2026-11-19T20:00:00",
-      "end": "2026-11-19T22:00:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/23941e6ec0c24334ab3b07a7b61c1f65.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/54610838_aliens"
     },
     {
       "uid": "91878811",
@@ -206,7 +174,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7a611d544a934c70a2834848951f9c1d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/883ef849439e46cf8c3caaa9e70d564c.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -222,7 +190,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/09cb391b9b1a4ad28c65c793e7438cda.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3c8206c3a5254bd895bd882c82d67c6a.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -238,7 +206,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2c9d9191c1cf4354b7b0f2801da06987.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b8990ef81e474bffbadceced125c4562.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -270,7 +238,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6fb22d6a38ea4356a1afc4655c55b781.base.image.jpg",
+      "image": "https://img.openagenda.com/main/deebc311d9bd4635837fb8e40119bd40.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
     },
     {
@@ -286,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/f93b8ce08d9443229a65fb60d0650457.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e0621af481c741b39ad9fc6a0a399d01.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
     },
     {
@@ -302,7 +270,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/969719a7c9a74a63a4059a03924f5faf.base.image.jpg",
+      "image": "https://img.openagenda.com/main/3e85a40f0ed7447fb9cac7132e246d06.base.image.jpg",
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
@@ -318,8 +286,40 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b2c3262d562c462ab867501a3b2264f1.base.image.jpg",
+      "image": "https://img.openagenda.com/main/696b60b699cc498e89a144e8ec3eb8cc.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
+    },
+    {
+      "uid": "47313360",
+      "title": {
+        "fr": "Arpentage Littéraire \"Politiques du faire-monde\" de Philippe Descola"
+      },
+      "description": {
+        "fr": "Vendredi 4 décembre, 15h00 Déchirez, lisez, débattez et faites émerger un savoir commun au cours d'une lecture collective et vivante autour d'un ouvrage riche \"politiques du faire-monde\" de Philippe Descola, anthropologue. Il est conseillé de ne pas lire le livre avant la séance d'arpentage. Dans la limite des places disponibles - pas de réservation. ​En présence de Frédérique Mingant, metteuse en scène et directrice artistique de la Compagnie 13/10è en Ut."
+      },
+      "start": "2026-12-04T15:00:00",
+      "end": "2026-12-04T18:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/1ee2c91fe50c4a31ae1119be25b4af2e.base.image.jpg",
+      "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
+    },
+    {
+      "uid": "56555908",
+      "title": {
+        "fr": "Une histoire de Bretagne de la Préhistoire à la Révolution"
+      },
+      "description": {
+        "fr": "18 octobre 2026 - 11 juillet 2027 A quelle époque les premières populations s'installent dans la région ? D'où viennent les menhirs ? Qui était Anne de Bretagne ? Pour le découvrir, laissez-vous embarquer dans la riche histoire de la Bretagne, de la Préhistoire à la Révolution."
+      },
+      "start": "2026-10-18T14:30:00",
+      "end": "2027-07-11T17:15:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/330c123801dc47d6bc8bd97c64312347.base.image.jpg",
+      "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
     }
   ]
 }
