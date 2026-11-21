@@ -226,38 +226,6 @@
       "link": "https://openagenda.com/rdv4c/events/9683303_rdv4c-japonais"
     },
     {
-      "uid": "45044957",
-      "title": {
-        "fr": "L’Europe – un État qui s’ignore ?"
-      },
-      "description": {
-        "fr": "Samedi 21 novembre, 16h00 Qu’est-ce que l’Union européenne ? Une simple association de pays souverains, une fédération de nations ou encore un État ? Si ce n’est pas un État, peut-on quand même parler de « souveraineté européenne » ? Si c’est un État, en quoi est-il différent de ceux que nous connaissons ? Pour en parler et nous éclairer, dialogue entre deux spécialistes du sujet : Sylvain Kahn, auteur de l’Europe, un Etat qui s’ignore, et Isabelle Bosse-Platière, professeure de Droit européen à l'Université de Rennes."
-      },
-      "start": "2026-11-21T16:00:00",
-      "end": "2026-11-21T16:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/28d01c4634474ac9a222562524207dae.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/45044957_leurope-un-etat-qui-signore-1484552"
-    },
-    {
-      "uid": "5997080",
-      "title": {
-        "fr": "L’ennemi qui nous désigne"
-      },
-      "description": {
-        "fr": "Samedi 21 novembre, 17h00 Carte blanche au Grand Continent. \"L’ennemi qui nous désigne - Apprendre à résister aux prédateurs\" est la dernière publication du Grand Continent. L’ouvrage collectif sous la direction de Giuliano da Empoli, auteur du \"Mage du Kremlin\", nous éclaire sur la façon dont l’Europe, ce qu’elle est et ce qu’elle représente, est devenue une cible. Réunissant des chercheurs du monde entier, il nous aide à comprendre ce qui nous arrive pour mieux résister. Cette carte blanche au Grand Continent est aussi l’occasion de revenir sur l’aventure profondément européenne de ce nouveau média, qui s’est donné l’ambition de nous aider à décrypter le monde. ​ Carte blanche animée par Pierre Ramond."
-      },
-      "start": "2026-11-21T17:00:00",
-      "end": "2026-11-21T17:45:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/845123cf9cd741c5bb0ff226f8c4dd0a.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/5997080_lennemi-qui-nous-designe"
-    },
-    {
       "uid": "83824272",
       "title": {
         "fr": "Parlons ciné spécial Travelling et cinéma italien"
@@ -320,6 +288,38 @@
       },
       "image": "https://img.openagenda.com/main/84fbb56d02ef4d778761099e10aea9cc.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
+    },
+    {
+      "uid": "4146535",
+      "title": {
+        "fr": "Lecture de ouf signées"
+      },
+      "description": {
+        "fr": "17 octobre - 5 décembre, certains samedis Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
+      },
+      "start": "2026-10-17T15:00:00",
+      "end": "2026-12-05T15:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/bib/events/4146535_lecture-de-ouf-signees"
+    },
+    {
+      "uid": "25278666",
+      "title": {
+        "fr": "Les Romains d'Armorique"
+      },
+      "description": {
+        "fr": "Samedi 12 décembre, 16h30 **Qui étaient les Romains vivant en Armorique durant l’Antiquité ? Les «** vrais » Romains originaires de l’Italie et des bords de la Méditerranée étaient-ils nombreux ? ** Jean-Yves Eveillard, maître de conférences d’histoire ancienne à l’université de Bretagne-Occidentale (Brest), explore la présence romaine en Armorique et dresse ainsi un portrait inédit de la société armoricaine, révélant aussi bien les notables que les artisans, marins ou simples citoyens, dans leurs métiers et croyances. Son ouvrage Romains d’Armorique (Éditions Skol Vreizh, 2025) a obtenu le Prix du livre d’histoire de Bretagne en 2025. En partenariat avec Bretagne Culture Diversité.**"
+      },
+      "start": "2026-12-12T16:30:00",
+      "end": "2026-12-12T17:30:00",
+      "location": {
+        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/e32438f72e674cc287c5ab7a0f664d82.base.image.jpg",
+      "link": "https://openagenda.com/mdb/events/25278666_les-romains-darmorique"
     }
   ]
 }
