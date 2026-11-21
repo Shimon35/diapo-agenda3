@@ -2,22 +2,6 @@
   "total": 20,
   "events": [
     {
-      "uid": "36621983",
-      "title": {
-        "fr": "Des ailes au bout des doigts"
-      },
-      "description": {
-        "fr": "Samedi 21 novembre, 18h00 Au Conservatoire de Rennes (Site du Blosne). La pianiste autrichienne Mitra Kotte propose un récital consacré aux compositrices des19ᵉ et 20ᵉ siècles. De Fanny Hensel à Dora Pejačević, d’Emilie Mayer à Nadia Boulanger et Cécile Chaminade, ce programme traverse des univers musicaux contrastés, entre romantisme, poésie, modernité et virtuosité. Une invitation à redécouvrir ces voix essentielles de l’histoire de la musique. En première partie de concert, les élèves du conservatoire interprèteront également les œuvres de compositrices. Proposé par le Cercle franco-allemand."
-      },
-      "start": "2026-11-21T18:00:00",
-      "end": "2026-11-21T20:00:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/448761a49c7f446c93e1392ce9933304.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/36621983_des-ailes-au-bout-des-doigts"
-    },
-    {
       "uid": "54168252",
       "title": {
         "fr": "De Condate à Rennes"
@@ -320,6 +304,22 @@
       },
       "image": "https://img.openagenda.com/main/e32438f72e674cc287c5ab7a0f664d82.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/25278666_les-romains-darmorique"
+    },
+    {
+      "uid": "23945051",
+      "title": {
+        "fr": "Projection en audio-description"
+      },
+      "description": {
+        "fr": "25 septembre - 11 décembre, certains vendredis Projection de films Un vendredi par mois, profitez d'une séance de cinéma en audio-description, accessible aux aveugles et malvoyants. Au programme : une sélection de films français récents. Pour connaître la programmation, adressez-vous à l'accueil."
+      },
+      "start": "2026-09-25T15:00:00",
+      "end": "2026-12-11T17:00:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/dcl/events/23945051_projection-en-audio-description"
     }
   ]
 }
