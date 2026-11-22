@@ -66,22 +66,6 @@
       "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
     },
     {
-      "uid": "65248297",
-      "title": {
-        "fr": "Antiwords – Spitfire cie"
-      },
-      "description": {
-        "fr": "21 et 22 novembre Spectacle au Théâtre du cercle. Dans Antiwords , deux comédiennes aux masques démesurés se font face dans un duel jubilatoire, entre bière tchèque, rapports de pouvoir et humour corrosif. ​ ​Spectacle inspiré d’ Audience de Václav Havel."
-      },
-      "start": "2026-11-21T12:15:00",
-      "end": "2026-11-22T18:30:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/30dd805b827743d9b44ba38c528b3f70.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/65248297_antiwords-spitfire-cie"
-    },
-    {
       "uid": "53192992",
       "title": {
         "fr": "Politique, où en es-tu avec la culture ?"
@@ -320,6 +304,22 @@
       },
       "image": null,
       "link": "https://openagenda.com/dcl/events/23945051_projection-en-audio-description"
+    },
+    {
+      "uid": "37028623",
+      "title": {
+        "fr": "Pick me, choose me, love me"
+      },
+      "description": {
+        "fr": "Mercredi 16 décembre, 18h30 _Toi, t’es pas comme les autres filles_ : est-ce vraiment un compliment ? Maud Le Rest , journaliste et autrice d'un livre du même nom aux éditions La Meute, vient discuter des \"pick-me\" : ces comportements qui consistent à dénigrer d’autres femmes pour mieux se démarquer auprès des hommes. L’occasion d’interroger des réflexes parfois bien ancrés, mais aussi d’explorer ce qui rapproche les femmes : la sororité et l’amitié. ​ ​Rencontre suivie d’une séance de dédicaces avec la librairie Comment dire. ​"
+      },
+      "start": "2026-12-16T18:30:00",
+      "end": "2026-12-16T19:30:00",
+      "location": {
+        "name": "Café des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": null,
+      "link": "https://openagenda.com/dcl/events/37028623_pick-me-choose-me-love-me"
     }
   ]
 }
