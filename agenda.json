@@ -18,6 +18,38 @@
       "link": "https://openagenda.com/mdb/events/54168252_de-condate-a-rennes"
     },
     {
+      "uid": "17854259",
+      "title": {
+        "fr": "Exposition Histoire(s) - la visite découverte"
+      },
+      "description": {
+        "fr": "29 novembre 2026 - 2 mai 2027 Cette visite propose une découverte de l’exposition _Histoire(s)_ de Guillaume Herbaut à travers une sélection de photographies. Elle invite à explorer les différentes façons dont le photographe raconte le monde, témoigne des événements qui marquent notre époque et interroge notre rapport à l’Histoire et à la mémoire. Un parcours accessible à tous, privilégiant l'observation, les échanges et la découverte de la démarche du photographe, sans aborder l'ensemble des images les plus sensibles de l'exposition."
+      },
+      "start": "2026-11-29T15:00:00",
+      "end": "2027-05-02T15:45:00",
+      "location": {
+        "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/4c19f1c083ca42ec9088af557ce8357b.base.image.jpg",
+      "link": "https://openagenda.com/dcl/events/17854259_exposition-histoires-la-visite-decouverte"
+    },
+    {
+      "uid": "81998730",
+      "title": {
+        "fr": "Exposition Histoire(s) - la visite avertie"
+      },
+      "description": {
+        "fr": "5 décembre 2026 - 3 avril 2027, certains samedis Cette visite propose une découverte intégrale de l’exposition _Histoire(s)_ de Guillaume Herbaut. Elle aborde l’ensemble des séries présentées. À travers les guerres, les catastrophes, la violence, les crises politiques et les récits de résistance, nous explorerons la manière dont le photographe documente les bouleversements du monde et interroge notre rapport à l’actualité, à l’Histoire et à la mémoire. ​Un parcours pour prendre le temps de regarder, comprendre les choix du photographe, échanger et débattre des réalités parfois difficiles que ses images donnent à voir."
+      },
+      "start": "2026-12-05T16:30:00",
+      "end": "2027-04-03T17:15:00",
+      "location": {
+        "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/dd4c111e12574430abe26376df354818.base.image.jpg",
+      "link": "https://openagenda.com/dcl/events/81998730_exposition-histoires-la-visite-avertie"
+    },
+    {
       "uid": "71729200",
       "title": {
         "fr": "Faim de justice"
@@ -30,7 +62,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/97c82ac02c7a45e2ab50bc07fe9650fa.base.image.jpg",
+      "image": "https://img.openagenda.com/main/986b26d951354bae852e7a4834c32848.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/71729200_faim-de-justice-4326760"
     },
     {
@@ -46,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/6f505d091c9d47baa6eccd697aaef06a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d2a97e7f9c55430ea210e53861422f06.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/82357867_breizh-love"
     },
     {
@@ -62,8 +94,24 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/63274bd0f0354451b74a9133fd3f8b79.base.image.jpg",
+      "image": "https://img.openagenda.com/main/82b03c3350644513b8e24ca9dcae0098.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
+    },
+    {
+      "uid": "43828236",
+      "title": {
+        "fr": "Pause Piano - Spéciale Conservatoire"
+      },
+      "description": {
+        "fr": "Jeudi 25 mars 2027, 12h30 Le rendez-vous des pianistes amateurs. En partenariat avec le Conservatoire de Rennes, cette scène ouverte se transforme en édition spéciale. ​Une pause musicale pleine de surprises ! En partenariat avec le Conservatoire."
+      },
+      "start": "2027-03-25T12:30:00",
+      "end": "2027-03-25T13:30:00",
+      "location": {
+        "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/54f7f24d09ce4e39b21f9fff2f8403a0.base.image.jpg",
+      "link": "https://openagenda.com/bib/events/43828236_pause-piano-speciale-conservatoire"
     },
     {
       "uid": "53192992",
@@ -110,7 +158,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d4e439023b394c02926ed181a0ec2336.base.image.jpg",
+      "image": "https://img.openagenda.com/main/665539456754468c803ec1ef12cf8af6.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -126,7 +174,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/bd2ea0d871fe4236b0d15386cca6868d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e7e84f882747457385ab9e23c5220ca9.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/8628716_musiques-interdites-5207285"
     },
     {
@@ -142,7 +190,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/9a6672198b4f4e99930deb3e26e2bfbc.base.image.jpg",
+      "image": "https://img.openagenda.com/main/f36b16477d584fd1bd9c678dda25aeb6.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -158,7 +206,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/557946c41f654b5aa27ebda54295eacc.base.image.jpg",
+      "image": "https://img.openagenda.com/main/8e5ffe8f753e4d4aa03f64c1d3d219e1.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -174,7 +222,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d76663e8101e49e0bd809546ab455a76.base.image.jpg",
+      "image": "https://img.openagenda.com/main/e3e7bce33b6c48d8b8a848ec7b77eb37.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -206,7 +254,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/803fb316210f4a30ac25b65d17144f03.base.image.jpg",
+      "image": "https://img.openagenda.com/main/ef21f4d295cd4f8c9c11f1db5a89b341.base.image.jpg",
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
@@ -222,7 +270,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/e33c8668da75430cabfa26045d712dc0.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c470e2fe0fbe4665991d4a4517f1c983.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
     },
     {
@@ -238,7 +286,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/fd391462d0c245678642b325139eaa76.base.image.jpg",
+      "image": "https://img.openagenda.com/main/68c240e42cce45d8b8af5a42407c9253.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/65843416_championnes-2075455"
     },
     {
@@ -254,7 +302,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d26fa50c9ba44d22be2e81938fc811f7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/ec593c6155314b30a470f6c4feda478e.base.image.jpg",
       "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
     },
     {
@@ -270,56 +318,8 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d616a28bae5742088eb6fc3b8ace9a8c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4fb5efa6928c43ed955247d2fe3bd300.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
-    },
-    {
-      "uid": "4146535",
-      "title": {
-        "fr": "Lecture de ouf signées"
-      },
-      "description": {
-        "fr": "17 octobre - 5 décembre, certains samedis Lectures bilingues d'albums jeunesse en LSF et en français. L'association l'Avide (Arts visuels et découvertes) et la bibliothèque des Champs libres vous proposent une lecture bilingue d'albums jeunesse en LSF et en français. Venez découvrir ces histoires signées et lues en duo. À partir de 4 ans."
-      },
-      "start": "2026-10-17T15:00:00",
-      "end": "2026-12-05T15:30:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres- Chez les enfants - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/bib/events/4146535_lecture-de-ouf-signees"
-    },
-    {
-      "uid": "25278666",
-      "title": {
-        "fr": "Les Romains d'Armorique"
-      },
-      "description": {
-        "fr": "Samedi 12 décembre, 16h30 **Qui étaient les Romains vivant en Armorique durant l’Antiquité ? Les «** vrais » Romains originaires de l’Italie et des bords de la Méditerranée étaient-ils nombreux ? ** Jean-Yves Eveillard, maître de conférences d’histoire ancienne à l’université de Bretagne-Occidentale (Brest), explore la présence romaine en Armorique et dresse ainsi un portrait inédit de la société armoricaine, révélant aussi bien les notables que les artisans, marins ou simples citoyens, dans leurs métiers et croyances. Son ouvrage Romains d’Armorique (Éditions Skol Vreizh, 2025) a obtenu le Prix du livre d’histoire de Bretagne en 2025. En partenariat avec Bretagne Culture Diversité.**"
-      },
-      "start": "2026-12-12T16:30:00",
-      "end": "2026-12-12T17:30:00",
-      "location": {
-        "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/829d16677e5c40e7a1a5b19ae0d1ae74.base.image.jpg",
-      "link": "https://openagenda.com/mdb/events/25278666_les-romains-darmorique"
-    },
-    {
-      "uid": "23945051",
-      "title": {
-        "fr": "Projection en audio-description"
-      },
-      "description": {
-        "fr": "25 septembre - 11 décembre, certains vendredis Projection de films Un vendredi par mois, profitez d'une séance de cinéma en audio-description, accessible aux aveugles et malvoyants. Au programme : une sélection de films français récents. Pour connaître la programmation, adressez-vous à l'accueil."
-      },
-      "start": "2026-09-25T15:00:00",
-      "end": "2026-12-11T17:00:00",
-      "location": {
-        "name": "Bibliothèque des Champs Libres - 5e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
-      },
-      "image": null,
-      "link": "https://openagenda.com/dcl/events/23945051_projection-en-audio-description"
     }
   ]
 }
