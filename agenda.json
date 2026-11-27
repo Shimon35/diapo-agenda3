@@ -2,6 +2,22 @@
   "total": 20,
   "events": [
     {
+      "uid": "8615113",
+      "title": {
+        "fr": "Visite de l'exposition Fourmis interprété en LSF"
+      },
+      "description": {
+        "fr": "Jeudi 10 décembre, 17h30 Visite interprétée en LSF Du sous-sol à la cime des arbres, les fourmis peuplent notre environnement et sont plusieurs millions de milliards d’individus sur Terre ! Mais, c’est quoi une fourmi ? Cette exposition vous présente cet insecte et ses incroyables comportements collectifs : sa fascinante organisation, l’importance de son rôle dans les écosystèmes et son pouvoir d’adaptabilité. Apparues il y a 120 millions d’années, les fourmis ont un ancêtre commun avec les guêpes. Aujourd’hui très nombreuses, elles se sont développées dans le monde entier et sont présentes sur toutes les terres émergées de la planète."
+      },
+      "start": "2026-12-10T17:30:00",
+      "end": "2026-12-10T18:30:00",
+      "location": {
+        "name": "Espace des sciences - Salles d'exposition - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
+      },
+      "image": "https://img.openagenda.com/main/4e15301ccfa54b198cb5bd87b53c30cd.base.image.jpg",
+      "link": "https://openagenda.com/dcl/events/8615113_visite-de-lexposition-fourmis-interprete-en-lsf"
+    },
+    {
       "uid": "54168252",
       "title": {
         "fr": "De Condate à Rennes"
@@ -30,7 +46,7 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/5fdd07e449fa4a999023b0d3e3d6ad24.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b1ab7faa20ce446f82b71c5272059903.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/17854259_exposition-histoires-la-visite-decouverte"
     },
     {
@@ -46,24 +62,8 @@
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/071a9f7013324b24a080299ea42fcff7.base.image.jpg",
+      "image": "https://img.openagenda.com/main/319c6b6094c84a68940df2254fafcd34.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/81998730_exposition-histoires-la-visite-avertie"
-    },
-    {
-      "uid": "71729200",
-      "title": {
-        "fr": "Faim de justice"
-      },
-      "description": {
-        "fr": "Vendredi 27 novembre, 20h00 Basilique Saint-Aubin, place Sainte-Anne. Une soirée de musique et de voix pour honorer la mémoire des victimes de l’Holodomor et soutenir les pompiers ukrainiens. Deux époques, une mémoire, une même quête de justice. L’association Solidarité Bretagne-Ukraine vous invite à une soirée musicale et mémorielle exceptionnelle, en hommage aux victimes de l’Holodomor, la famine organisée par le régime stalinien en Ukraine en 1932-1933, et aux victimes de la guerre qui frappe aujourd’hui l’Ukraine. À travers la musique, les lettres et les témoignages, Faim de justice fait dialoguer le passé et le présent, pour donner une voix à celles et ceux dont les destins ont été bouleversés par la violence et la guerre. Avec Denez Prigent, qui interpétera sa Gwerz Kyiv, Nicolaï TsyganovV – Violon, Coralie Karpus – Piano et le Collectif Liber, qui proposera des lectures de lettres et de témoignages en français et en ukrainien ​Participation à prix libre et conscient à partir de 5 euros ​ ​Billetterie en ligne : https://helloasso.com/associations/solidarite-bretagne-ukraine/evenements/faim-de-justice Par téléphone : 07 66 88 69 39"
-      },
-      "start": "2026-11-27T20:00:00",
-      "end": "2026-11-27T21:30:00",
-      "location": {
-        "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
-      },
-      "image": "https://img.openagenda.com/main/0503f12c68e74d218b753686634c1d16.base.image.jpg",
-      "link": "https://openagenda.com/dcl/events/71729200_faim-de-justice-4326760"
     },
     {
       "uid": "82357867",
@@ -78,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/566132dc10424b39be1b27cf399c2bf3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/77f29e5e385b4db695e2c04e5e201f1b.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/82357867_breizh-love"
     },
     {
@@ -94,7 +94,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4569840deead4f51bd3469f028cebe2e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4d372ce6d5b048f0b6aa29da4fc7e005.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
     },
     {
@@ -110,7 +110,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/703ac0f077e1428382260366dede5689.base.image.jpg",
+      "image": "https://img.openagenda.com/main/552103c3050d454f94dcdc8dd4d71536.base.image.jpg",
       "link": "https://openagenda.com/bib/events/43828236_pause-piano-speciale-conservatoire"
     },
     {
@@ -158,7 +158,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/14856aad983748c090ac99789f8a4754.base.image.jpg",
+      "image": "https://img.openagenda.com/main/7c6a31ca6b8a46f3baf07f3214ca882e.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -174,7 +174,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c361ef95eddd42d28a2d4bc01718011c.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b89146b81e5b4a3b88606d1328f54c8f.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -190,7 +190,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/421d78d3c4f3433ba69f005f1eccb00b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/2c9a993c34234f8c96a0af9a3aa45f22.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -206,7 +206,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/4234e282d2a74f628f4a4c4c1c84b6aa.base.image.jpg",
+      "image": "https://img.openagenda.com/main/cdb45a6dadba4635b2971bb112b7d87d.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -238,7 +238,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/47c20d57350d4727860503c4ee7a5070.base.image.jpg",
+      "image": "https://img.openagenda.com/main/198119a0cad040ae86f02a6b0a03b646.base.image.jpg",
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
@@ -254,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/5b7b737e00864ba98cd9bcea86865718.base.image.jpg",
+      "image": "https://img.openagenda.com/main/d5a57afdd07d4f65828518cf8ad6470d.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
     },
     {
@@ -270,7 +270,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/edea5be42b48464abb8300b63df53fe3.base.image.jpg",
+      "image": "https://img.openagenda.com/main/633101688cf64b968dc82e137f83d01c.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/65843416_championnes-2075455"
     },
     {
@@ -286,7 +286,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b736ca632ed548a7af3e51a9e1cf2c6b.base.image.jpg",
+      "image": "https://img.openagenda.com/main/49e274b6d8424925b1167ccda2558cec.base.image.jpg",
       "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
     },
     {
@@ -302,7 +302,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/01e3688c4e584be691c7a7573b53c745.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b8ce9f2d369e47f5a7f1dedd25736167.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
     },
     {
