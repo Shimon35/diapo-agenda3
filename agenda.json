@@ -23,14 +23,14 @@
         "fr": "Exposition Histoire(s) - la visite découverte"
       },
       "description": {
-        "fr": "29 novembre 2026 - 2 mai 2027 Cette visite propose une découverte de l’exposition _Histoire(s)_ de Guillaume Herbaut à travers une sélection de photographies. Elle invite à explorer les différentes façons dont le photographe raconte le monde, témoigne des événements qui marquent notre époque et interroge notre rapport à l’Histoire et à la mémoire. Un parcours accessible à tous, privilégiant l'observation, les échanges et la découverte de la démarche du photographe, sans aborder l'ensemble des images les plus sensibles de l'exposition."
+        "fr": "6 décembre 2026 - 2 mai 2027 Cette visite propose une découverte de l’exposition _Histoire(s)_ de Guillaume Herbaut à travers une sélection de photographies. Elle invite à explorer les différentes façons dont le photographe raconte le monde, témoigne des événements qui marquent notre époque et interroge notre rapport à l’Histoire et à la mémoire. Un parcours accessible à tous, privilégiant l'observation, les échanges et la découverte de la démarche du photographe, sans aborder l'ensemble des images les plus sensibles de l'exposition."
       },
-      "start": "2026-11-29T15:00:00",
+      "start": "2026-12-06T15:00:00",
       "end": "2027-05-02T15:45:00",
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/3ddedbddc67d4126abe7bb990cac3811.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5fdd07e449fa4a999023b0d3e3d6ad24.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/17854259_exposition-histoires-la-visite-decouverte"
     },
     {
@@ -39,14 +39,14 @@
         "fr": "Exposition Histoire(s) - la visite avertie"
       },
       "description": {
-        "fr": "5 décembre 2026 - 3 avril 2027, certains samedis Cette visite propose une découverte intégrale de l’exposition _Histoire(s)_ de Guillaume Herbaut. Elle aborde l’ensemble des séries présentées. À travers les guerres, les catastrophes, la violence, les crises politiques et les récits de résistance, nous explorerons la manière dont le photographe documente les bouleversements du monde et interroge notre rapport à l’actualité, à l’Histoire et à la mémoire. ​Un parcours pour prendre le temps de regarder, comprendre les choix du photographe, échanger et débattre des réalités parfois difficiles que ses images donnent à voir."
+        "fr": "29 novembre 2026 - 3 avril 2027 Cette visite propose une découverte intégrale de l’exposition _Histoire(s)_ de Guillaume Herbaut. Elle aborde l’ensemble des séries présentées. À travers les guerres, les catastrophes, la violence, les crises politiques et les récits de résistance, nous explorerons la manière dont le photographe documente les bouleversements du monde et interroge notre rapport à l’actualité, à l’Histoire et à la mémoire. ​Un parcours pour prendre le temps de regarder, comprendre les choix du photographe, échanger et débattre des réalités parfois difficiles que ses images donnent à voir."
       },
-      "start": "2026-12-05T16:30:00",
+      "start": "2026-11-29T15:00:00",
       "end": "2027-04-03T17:15:00",
       "location": {
         "name": "Salle Anita Conti - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/296a3ce6d6df4c44945aaabce22c954e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/071a9f7013324b24a080299ea42fcff7.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/81998730_exposition-histoires-la-visite-avertie"
     },
     {
@@ -62,7 +62,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/b637dea87df24f2694a194302c4f4182.base.image.jpg",
+      "image": "https://img.openagenda.com/main/0503f12c68e74d218b753686634c1d16.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/71729200_faim-de-justice-4326760"
     },
     {
@@ -78,7 +78,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/2627de8ac6c24d3ca9d6edce11287406.base.image.jpg",
+      "image": "https://img.openagenda.com/main/566132dc10424b39be1b27cf399c2bf3.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/82357867_breizh-love"
     },
     {
@@ -94,7 +94,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/0e79bb7e5e2c49dab49882b2de1d381f.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4569840deead4f51bd3469f028cebe2e.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/43417040_bulle-en-tete-lhistoire-de-lubin"
     },
     {
@@ -110,7 +110,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/11826da18d184881a9efac635d728d48.base.image.jpg",
+      "image": "https://img.openagenda.com/main/703ac0f077e1428382260366dede5689.base.image.jpg",
       "link": "https://openagenda.com/bib/events/43828236_pause-piano-speciale-conservatoire"
     },
     {
@@ -158,7 +158,7 @@
       "location": {
         "name": "Hors les murs - Les Champs Libres - 10 Cours des Alliés  - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/8ca0dc4c904c4156ace5834b0c68fc30.base.image.jpg",
+      "image": "https://img.openagenda.com/main/14856aad983748c090ac99789f8a4754.base.image.jpg",
       "link": "https://openagenda.com/dcl/events/83500217_le-serment-deurope-3662849"
     },
     {
@@ -174,7 +174,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/d0374d23256a49a4bfff66c81a706c4e.base.image.jpg",
+      "image": "https://img.openagenda.com/main/c361ef95eddd42d28a2d4bc01718011c.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/91878811_en-tierra"
     },
     {
@@ -190,7 +190,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/7670f9cbbc9748d5814ba5852820509d.base.image.jpg",
+      "image": "https://img.openagenda.com/main/421d78d3c4f3433ba69f005f1eccb00b.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/58877818_relicto"
     },
     {
@@ -206,7 +206,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/49899e99bb984d8885616fb13fea5e4a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/4234e282d2a74f628f4a4c4c1c84b6aa.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/27043227_la-bonga"
     },
     {
@@ -238,7 +238,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 2e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/422fc0cd4c4f4d8b8f9cc73aa26a686a.base.image.jpg",
+      "image": "https://img.openagenda.com/main/47c20d57350d4727860503c4ee7a5070.base.image.jpg",
       "link": "https://openagenda.com/bib/events/83824272_parlons-cine-special-travelling-et-cinema-italien"
     },
     {
@@ -254,7 +254,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/5b0a1524a7ae4fee8d4a6d5480cc82bc.base.image.jpg",
+      "image": "https://img.openagenda.com/main/5b7b737e00864ba98cd9bcea86865718.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/72157573_la-petite-visite-du-musee"
     },
     {
@@ -270,7 +270,7 @@
       "location": {
         "name": "Auditorium des Champs Libres - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/c77330243508421887113c1a4c4a08d6.base.image.jpg",
+      "image": "https://img.openagenda.com/main/edea5be42b48464abb8300b63df53fe3.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/65843416_championnes-2075455"
     },
     {
@@ -286,7 +286,7 @@
       "location": {
         "name": "Bibliothèque des Champs Libres - 6e étage - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/33b7f088d9214481a786e3124d4327e4.base.image.jpg",
+      "image": "https://img.openagenda.com/main/b736ca632ed548a7af3e51a9e1cf2c6b.base.image.jpg",
       "link": "https://openagenda.com/bib/events/47313360_arpentage-litteraire-de-ethnographies-des-mondes-a-venir-de-philippe-descola-et-alessandro-pignocchi"
     },
     {
@@ -302,7 +302,7 @@
       "location": {
         "name": "Musée de Bretagne - Les Champs Libres - 10 cours des Alliés - 35000 RENNES"
       },
-      "image": "https://img.openagenda.com/main/893c5a5bf98e4f4595d32190e6990e75.base.image.jpg",
+      "image": "https://img.openagenda.com/main/01e3688c4e584be691c7a7573b53c745.base.image.jpg",
       "link": "https://openagenda.com/mdb/events/56555908_une-histoire-de-bretagne-de-la-prehistoire-a-la-revolution-835076"
     },
     {
